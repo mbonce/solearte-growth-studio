@@ -50,18 +50,20 @@ Recommendation: start at Level 2.
 
 ## DM Triage Process
 
-`[New DM] --> [Classify] --> [Qualify] --> [Reply] --> [Log] --> [Handoff]`
+`[New DM] --> [Classify] --> [Scorecard Response] --> [Qualify] --> [Reply] --> [Log] --> [Handoff]`
 
 1. Identify conversation class.
-2. Check whether the person appears to be an Amazon FBA wholesale seller.
-3. Ask one qualification question if unclear.
-4. Use `instagram/dm-response-library.md` for safe replies.
-5. Route risky topics to human approval.
-6. Log workflow pain, objection, and next step.
+2. Send scorecard-first flow where class is scorecard request.
+3. For scorecard class, send link first, then ask the qualifying section question.
+4. Check whether the person appears to be an Amazon FBA wholesale seller.
+5. Ask one qualification question only when needed.
+6. Use `instagram/dm-response-library.md` or `instagram/engagement-replies.md` for safe replies.
+7. Route risky topics to human approval.
+8. Log workflow pain, objection, and next step.
 
 ## Response Timing Expectations
 
-- Scorecard requests: respond same day, ideally within 2 business hours.
+- Scorecard requests: respond with the scorecard link first, ideally within 2 business hours.
 - Workflow pain DMs: respond same day with one qualification question.
 - Qualified prospect DMs: route to workflow audit within 24 hours.
 - Pricing, demo, integration, account-health, or IP questions: acknowledge and route to human review.
@@ -87,9 +89,13 @@ Human approval required for:
 ## Scorecard Delivery Flow
 
 1. User asks for scorecard or comments "scorecard."
-2. Confirm fit: "Are you currently doing FBA wholesale with supplier catalogs or buy lists?"
-3. If yes, send scorecard link.
-4. Ask: "Which workflow feels messiest right now?"
+1. User asks for scorecard or triggers scorecard request class.
+2. Send scorecard first:
+   - "Absolutely — here’s the scorecard: {{scorecard_link}}"
+3. Ask the qualifying question next:
+   - "After you run it, send me your lowest-scoring section: suppliers, catalogs, buy list, shipments, replenishment, VA workflow, or risk control."
+4. If response does not include a section, send one nudge after ~2 business hours:
+   - "No rush. If this is helpful, share the section that feels messiest and I’ll point you to the first cleanup."
 5. Log response in `voice-of-customer/` or `analytics/research-insights-log.md`.
 6. If pain is active and specific, offer workflow audit.
 

@@ -2,13 +2,13 @@
 
 ## Profile Setup
 
-- [ ] Instagram handle selected.
-- [ ] Instagram bio written.
-- [ ] Profile image uploaded.
-- [ ] Link in bio added.
-- [ ] Scorecard page link tested.
-- [ ] Booking link tested.
-- [ ] Highlight categories created.
+- [ ] Choose Instagram handle.
+- [ ] Set bio with `Amazon FBA wholesale operations` language.
+- [ ] Upload profile image.
+- [ ] Add scorecard link in profile/bio to `{{scorecard_link}}`.
+- [ ] Confirm booking link points to `{{booking_link}}`.
+- [ ] Test both links on mobile.
+- [ ] Create highlight categories listed in `instagram/highlights-plan.md`.
 
 Suggested highlights:
 - Scorecard.
@@ -20,6 +20,10 @@ Suggested highlights:
 
 ## Content Setup
 
+- [ ] Approve first post: `launch/first-post-approval-packet.md`.
+- [ ] Confirm first post and first story sequence.
+- [ ] Confirm first carousel design spec approval.
+- [ ] Confirm first reel design spec readiness (if publishing same day).
 - [ ] 3 launch carousels reviewed.
 - [ ] 2 launch reels reviewed.
 - [ ] 5 story sequences reviewed.
@@ -32,6 +36,7 @@ Suggested highlights:
 ## Workflow Setup
 
 - [ ] DM triage rules reviewed.
+- [ ] Scorecard delivery flow sends scorecard first.
 - [ ] QA review process active.
 - [ ] Scorecard delivery path tested.
 - [ ] Workflow audit booking path tested.
@@ -45,4 +50,3 @@ Suggested highlights:
 - [ ] Pricing check complete.
 - [ ] Public copy review complete.
 - [ ] Founder approval complete.
-

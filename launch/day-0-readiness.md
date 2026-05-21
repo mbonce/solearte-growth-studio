@@ -19,6 +19,8 @@ Use this the day before launch.
 - [ ] Profile image is clean and recognizable.
 - [ ] Link in bio points to scorecard page or approved link hub.
 - [ ] Highlights are ready or intentionally deferred.
+- [ ] Founder signs off on first handle and bio.
+- [ ] Scorecard and booking placeholders inserted in link-in-bio.
 
 ## Scorecard Page Review
 
@@ -27,6 +29,7 @@ Use this the day before launch.
 - [ ] CTA works.
 - [ ] Confirmation email copy is ready.
 - [ ] No unsupported claims.
+- [ ] Scorecard delivery response confirms link first and asks section next.
 
 ## DM Response Review
 
@@ -43,6 +46,9 @@ Use this the day before launch.
 
 ## Content Scheduling Review
 
+- [ ] First post approval packet confirmed.
+- [ ] First carousel export approved.
+- [ ] First story sequence ready.
 - [ ] Monday carousel ready.
 - [ ] Tuesday reel ready.
 - [ ] Wednesday carousel ready.
@@ -62,7 +68,8 @@ Use this the day before launch.
 
 - [ ] Approve first five posts.
 - [ ] Approve DM reply library.
+- [ ] Approve scorecard-first DM response text.
 - [ ] Confirm booking link.
 - [ ] Confirm availability for high-risk DMs.
 - [ ] Block end-of-day metrics review time.
-
+- [ ] Confirm first-post monitoring window is scheduled.

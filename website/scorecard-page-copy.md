@@ -17,16 +17,17 @@ Use the FBA Wholesale Ops Scorecard to identify the operating gap in suppliers, 
 
 ## What It Checks
 
-- Supplier pipeline
-- Catalog intake
-- ASIN review
-- Buy-list workflow
-- Margin tracking
-- PO workflow
-- FBA shipment workflow
-- Replenishment
-- VA accountability
-- Risk control
+- 10 sections scored 0–5 each:
+  - Supplier pipeline
+  - Catalog intake
+  - ASIN review
+  - Buy-list workflow
+  - Margin tracking
+  - PO workflow
+  - FBA shipment workflow
+  - Replenishment
+  - VA accountability
+  - Risk control
 
 ## Why It Matters
 

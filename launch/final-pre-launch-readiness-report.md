@@ -22,6 +22,16 @@ None found in the repo.
 - Creator/account research tables contain research slots that must be validated before citing any external creator.
 - Live automations are intentionally not enabled; specs are ready, but credentials and approval gates must be reviewed first.
 
+## Practical launch blockers fixed
+
+- Scorecard scoring now consistently uses 10 sections at 0–5 each.
+- Scorecard delivery flow now sends scorecard link first, then asks qualifying section.
+- New first-post approval packet added for launch control.
+- New design-ready specs added for first carousel and first reel.
+- New manual first-day launch runbook added.
+- Launch command center, Day 0, Day 1, and pre-launch checklist updated with explicit founder action checklist.
+- Workflow and DM references updated to keep scorecard-first messaging in production-safe order.
+
 ## Files reviewed
 
 - `agents/`
@@ -59,6 +69,10 @@ None found in the repo.
 - Confirmed all 15 activation prompts exist in `agent-ops/activation-prompts/`.
 - Confirmed every agent file includes launch-mode sections.
 - Confirmed `.agents/marketingskills` is present as a git submodule.
+- Added `launch/first-post-approval-packet.md` with founder approval checklist and first-day metrics.
+- Added `instagram/design-ready-carousel-1.md` and `instagram/design-ready-reel-1.md`.
+- Added `launch/manual-first-day-runbook.md` for founder-guided first-day execution.
+- Updated scorecard and DM flow files to enforce low-friction scorecard-first replies.
 
 ## Remaining human tasks
 
@@ -95,8 +109,8 @@ Keep the first day narrow:
 ### First 60 minutes after posting
 
 - Monitor comments and DMs.
-- Reply to scorecard requests using `instagram/dm-response-library.md`.
-- Ask one short qualification question when someone mentions spreadsheets, catalogs, VAs, buy lists, or replenishment.
+- Reply to scorecard requests using the scorecard-first pattern in `instagram/dm-response-library.md`.
+- Send the scorecard link first, then ask for the lowest-scoring section.
 - Escalate pricing, account health, IP complaints, suspensions, integrations, angry users, and profit-guarantee questions to the founder.
 
 ### Midday

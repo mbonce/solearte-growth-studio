@@ -6,7 +6,9 @@ Keep replies short, human, and safe. Do not promise profit, Amazon compliance ou
 
 ### "Send scorecard."
 
-"Absolutely. Are you currently doing FBA wholesale with supplier catalogs or buy lists? If yes, I will send the scorecard."
+Absolutely — here’s the scorecard: {{scorecard_link}}
+
+After you run it, send me your lowest-scoring section: suppliers, catalogs, buy list, shipments, replenishment, VA workflow, or risk control.
 
 ### "What is this?"
 
@@ -71,4 +73,3 @@ Keep replies short, human, and safe. Do not promise profit, Amazon compliance ou
 - Legal/compliance questions.
 - Custom product promises.
 - Real customer screenshots or data.
-

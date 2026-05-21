@@ -2,6 +2,8 @@
 
 Use this guide after total score calculation.
 
+Scoring uses 10 sections at 0–5 each (total 0–50).
+
 - 0–20: workflow is mostly reactive
 - 21–35: workflow works but is fragile
 - 36–45: workflow is structured but inconsistent

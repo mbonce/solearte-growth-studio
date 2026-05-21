@@ -96,7 +96,7 @@ Score if invoices, authorization notes, restricted brands, gated category constr
 
 Total score range: 0–50.
 
-- 0–4 per section for each of 10 sections.
+- 0–5 per section for each of 10 sections (total 0–50).
 - Use low numbers when process lives in scattered notes.
 - Use high numbers only when steps are repeatable by anyone on the team.
 

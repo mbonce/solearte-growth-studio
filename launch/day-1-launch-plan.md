@@ -2,12 +2,15 @@
 
 ## Morning Tasks
 
-- Confirm Instagram profile is live.
-- Confirm link in bio works.
-- Confirm scorecard page loads.
-- Confirm today's carousel is QA-approved.
-- Confirm story sequence is ready.
+- Confirm founder has selected handle and bio.
+- Confirm scorecard link in bio: `{{scorecard_link}}`.
+- Confirm booking link in bio or link tree: `{{booking_link}}`.
+- Confirm scorecard page loads and test on mobile.
+- Confirm first post is approved from `launch/first-post-approval-packet.md`.
+- Confirm Carousel 1 is exported and ready to post.
+- Confirm story sequence is scheduled immediately after post.
 - Confirm founder is available for high-risk DMs.
+- Clear unresolved blockers from launch command center.
 
 ## First Post
 
@@ -45,9 +48,12 @@ Frames:
 
 ## DM Monitoring
 
-- Monitor for 20 minutes after posting.
+- Monitor for 90 minutes after posting in three checkpoints:
+  - 0–30 minutes
+  - 30–60 minutes
+  - 60–90 minutes
 - Use approved low-risk replies for scorecard requests.
-- Ask whether the person is currently doing Amazon FBA wholesale.
+- Send scorecard first, then ask the qualifying section question.
 - Route pricing, account health, demo, angry, or custom questions to human approval.
 
 ## Scorecard Link Check
@@ -55,6 +61,15 @@ Frames:
 - Test link before publishing.
 - Test link from mobile.
 - Confirm confirmation email or follow-up path is ready.
+- Ensure first scorecard response uses the required flow:
+  - scorecard link first,
+  - lowest-scoring section question second.
+
+## First-post launch packet
+
+- Use the exact caption and comments from `launch/first-post-approval-packet.md`.
+- Keep first story sequence linked to the first post.
+- Log first-post DM response timing.
 
 ## Comment Reply Plan
 
@@ -71,6 +86,14 @@ Ask:
 - "Are you reviewing supplier catalogs with a VA or sourcing team?"
 - "Want the scorecard?"
 
+## Founder Monitoring Checklist
+
+- Founder readiness tasks completed before posting.
+- First 10 inbound comments reviewed for signal quality.
+- First 10 DM starts categorized by class.
+- Scorecard requests and lowest-scoring section replies logged.
+- Human escalations handled.
+
 ## Evening Metrics Review
 
 Record:
@@ -86,4 +109,5 @@ Record:
 - Scorecard clicks.
 - Workflow audit requests.
 - Repeated pain phrases.
-
+- Scorecard-delivery timings.
+- Low-risk reply conversion to audit handoff.

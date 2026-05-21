@@ -4,7 +4,9 @@ Use short human replies. No profit guarantees. No Amazon compliance guarantees. 
 
 ## "Send scorecard"
 
-"Absolutely. Are you currently doing FBA wholesale with supplier catalogs or buy lists? If yes, I will send it."
+Absolutely — here’s the scorecard: {{scorecard_link}}
+
+After you run it, send me your lowest-scoring section: suppliers, catalogs, buy list, shipments, replenishment, VA workflow, or risk control.
 
 ## "What is this?"
 
@@ -61,4 +63,3 @@ Use short human replies. No profit guarantees. No Amazon compliance guarantees. 
 ## "What should I fix first?"
 
 "Start with the lowest-scoring area in the scorecard. Usually it is supplier follow-up, catalog review, buy-list approval, VA workflow, or replenishment."
-

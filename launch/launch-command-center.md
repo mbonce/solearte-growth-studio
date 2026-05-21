@@ -29,6 +29,18 @@ Book an ops workflow audit.
 | blocker | founder setup |
 +----------------+
 
+## 6a. Immediate Founder Actions (This Turn)
+
+- [ ] Choose Instagram handle.
+- [ ] Set Instagram bio.
+- [ ] Add scorecard link: `{{scorecard_link}}`.
+- [ ] Confirm booking link: `{{booking_link}}`.
+- [ ] Approve first post and post caption.
+- [ ] Confirm first story sequence.
+- [ ] Approve first DMs for low-risk replies.
+- [ ] Design and export first carousel.
+- [ ] Ensure human escalation queue is ready.
+
 ## 7. Asset Readiness
 
 | Asset | Status | Owner | Notes |
@@ -54,6 +66,14 @@ Book an ops workflow audit.
 | Analytics Agent | Ready | Daily metrics |
 | Sales Enablement Agent | Ready | Workflow audit handoff |
 | Audience Research Agent | Ready | Insights and hooks |
+
+## 8a. Next Actions Before First Publish
+
+- Finalize handle and profile setup.
+- Publish and review `launch/first-post-approval-packet.md`.
+- Approve design for Carousel 1 export.
+- Confirm first story sequence files are ready.
+- Confirm first 24-hour metric logging location and owner.
 
 ## 9. Metrics To Watch
 
@@ -87,6 +107,7 @@ Book an ops workflow audit.
 - Booking link destination.
 - Approval of DM replies for pricing, account health, and demo requests.
 - Approval to publish first five posts.
+- Confirm scorecard and booking placeholders in first-post assets.
 
 ## 12. Daily Operating Rhythm
 
