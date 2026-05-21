@@ -1,270 +1,103 @@
-# Design-Ready Spec: Carousel 1
+# Instagram Asset Design Packet — Carousel 1
 
-## Theme
+## Final Title
 
-FBA wholesale is not just sourcing. It is operations.
+Your FBA Wholesale Spreadsheet Is Becoming Technical Debt
 
-## Style
+## Target Buyer
 
-- Dark mode
-- Clean sans-serif typography
-- Operational command center feel
-- Spreadsheet callouts and workflow states
-- Practical, non-decorative aesthetic
+Amazon FBA wholesale sellers with VAs or sourcing teams managing supplier catalogs and buy-list decisions through spreadsheets.
 
-## Export Requirements
+## Content Pillar
 
-- Final size: 1080 × 1350
-- 9 slides total
-- File format: PNG sequence for each slide + PDF proof
-- Font family suggestion: Inter or Manrope
-- Font minimum body size: 44 px (mobile-safe)
-- Contrast: light text on dark gradient neutral background
+Operational structure over spreadsheet chaos.
 
-## Slide 1
+## Pain Point
 
-### Copy
+The same file becomes supplier pipeline, catalog review, buy-list, purchase, shipment, replenishment, and VA task management with no clear handoffs.
+
+## Hook
+
 Your FBA wholesale spreadsheet is becoming technical debt.
 
-### Visual Layout
-- Dark slate background.
-- Big center-aligned headline.
-- Thin underline bar in muted teal.
+## Full Copy
 
-### Text Hierarchy
-- Headline (large, bold)
-- Subtext (small optional): “You know the signal when it starts slipping.”
+1. Your FBA wholesale spreadsheet is becoming technical debt.
+2. It started as a clean supplier tracker.
+3. Then catalog intake, ASIN review, buy-list, POs, and shipments all moved in.
+4. Then every owner starts using their own labels and shortcuts.
+5. Then one row means different things to different people.
+6. Then your operations start breaking under scale.
+7. The issue is not Google Sheets. The issue is missing workflow control.
+8. Owner, status, reason, and next action should be visible at every step.
+9. Get the FBA Wholesale Ops Scorecard.
 
-### Graphic Elements
-- 1 command-center frame around title block.
-- Data-point dot markers on sides.
+## Caption
 
-### Canva/Figma Notes
-- Keep only one headline token block.
-- No icons with non-operational tone.
-- Use `#0F172A` background and `#E5E7EB` text.
+This doesn’t mean you did something wrong.
 
-### Accessibility / Alt Text
-“Top header slide introducing that a growing spreadsheet can become a workflow liability in FBA wholesale operations.”
+It means spreadsheet discipline and operation discipline need to be separated.
 
-## Slide 2
+Amazon FBA wholesale operators hit this when supplier, catalog, and buy-list workflows grow faster than process visibility.
 
-### Copy
-It starts with suppliers and catalogs.
+If your workflow is holding all of this in one place without review states, it becomes fragile.
 
-### Visual Layout
-- Two-column split: supplier intake left, catalog queue right.
-- Small dark table rows with “Supplier”, “Status”, “Owner.”
+Get the FBA Wholesale Ops Scorecard and find the first weak spot to fix.
 
-### Text Hierarchy
-- Headline (large)
-- Secondary line (medium): “Then the system starts to accumulate everything.”
+## CTA
 
-### Graphic Elements
-- Spreadsheet card blocks.
-- Arrow from supplier to catalog.
+Comment “scorecard” or DM “OPS” for the FBA Wholesale Ops Scorecard.
 
-### Canva/Figma Notes
-- Use minimal text labels only.
-- Keep column widths consistent with slide 1 grid.
+## DM Prompt
 
-### Accessibility / Alt Text
-“Slide showing supplier and catalog data blocks feeding into a growing tracking workflow.”
+“Which area is least visible right now: suppliers, catalogs, buy-list, shipments, replenishment, VA workflow, or risk control?”
 
-## Slide 3
+## Visual Direction
 
-### Copy
-One file holds catalogs, ASINs, buy lists, POs, and VA tasks.
+- Format: 1080 × 1350.
+- Dark command-center style.
+- Clean dashboard-like cards and status chips.
+- Keep one core workflow sequence on the page:
+  Supplier → Catalog → ASIN → Buy List → PO → FBA Shipment → Replenishment.
+- Use red flag badges for ownership gaps and status gaps.
 
-### Visual Layout
-- Mock dashboard card with many narrow row chips.
-- Highlight with yellow warning rings around overloaded sections.
+## Design Notes
 
-### Text Hierarchy
-- Headline
-- 3 small callout tags:
-  - supplier
-  - catalog
-  - buy list
+- Use short slide copy, no dense paragraphs.
+- Keep text size high-contrast and legible in Instagram mobile preview.
+- Export with consistent margins and grid alignment.
+- Save as `carousel1-slide01.png` to `carousel1-slide09.png` + PDF proof.
 
-### Graphic Elements
-- 5 row chips labeled in muted colors.
-- Warning ring around 2 overfull zones.
+## QA Checklist
 
-### Canva/Figma Notes
-- Ensure labels are readable at small size.
-- Use repeating pattern to keep scanability.
+- [ ] Hook is operational and practical.
+- [ ] No guarantee language or account-protection claims.
+- [ ] No brick-and-mortar framing.
+- [ ] No fake customer or fake result references.
+- [ ] All copy points to the scorecard as next step.
+- [ ] CTA is explicit and singular.
+- [ ] Visual is readable at phone preview size.
+- [ ] Alt text and contrast are present.
 
-### Accessibility / Alt Text
-“Mock spreadsheet row shows mixed responsibilities and overloaded decision fields.”
+## Founder Approval
 
-## Slide 4
+- [ ] I approve the 9-slide sequence.
+- [ ] I approve copy and spelling.
+- [ ] I approve visual direction.
+- [ ] I approve first-hour monitoring triggers.
+- [ ] I approve DM prompt language.
 
-### Copy
-Different team members edit the same row with different assumptions.
+## Publishing Notes
 
-### Visual Layout
-- Split-screen before/after style.
-- Left: messy row updates.
-- Right: one row with 5 colored changes.
+- Publish Day 1.
+- First post for launch sequence.
+- Post together with supplier follow-up story.
+- Use post time in `launch/week-1-publishing-calendar.md`.
 
-### Text Hierarchy
-- Left label: “Before”
-- Right label: “After”
-- Central callout text on left.
+## First-Hour Monitoring Notes
 
-### Graphic Elements
-- Pen/pencil sketch effect around edits.
-- Three revision marks to show drift.
-
-### Canva/Figma Notes
-- Keep this slide visually “messy but legible.”
-- Don’t over-render; one clear comparison.
-
-### Accessibility / Alt Text
-“A before-after comparison showing fragmented updates to a single operational row.”
-
-## Slide 5
-
-### Copy
-That is not a tooling problem. It is an operating system problem.
-
-### Visual Layout
-- Dark background with workflow rail across center.
-- Nodes: Supplier -> Catalog -> ASIN -> Buy List -> Shipment -> Replen.
-
-### Text Hierarchy
-- One main statement.
-- Tiny operator label above rail.
-
-### Graphic Elements
-- Node connectors with status rings (active/incomplete).
-- One red gap marker.
-
-### Canva/Figma Notes
-- Use consistent node size and spacing.
-- Keep text short and uppercase labels.
-
-### Accessibility / Alt Text
-“Visual shows the workflow chain with status gaps where transitions are undefined.”
-
-## Slide 6
-
-### Copy
-Technical debt starts when ownership, status, reason, and next action are missing.
-
-### Visual Layout
-- One central checklist card.
-- Four checkbox fields with one unchecked.
-
-### Text Hierarchy
-- Heading top.
-- Four checklist labels:
-  - Owner
-  - Status
-  - Reason
-  - Next action
-
-### Graphic Elements
-- Light border cards with check and X marks.
-
-### Canva/Figma Notes
-- Use the same checklist grid style as final “how to fix” slide.
-- Reserve right margin for spacing only.
-
-### Accessibility / Alt Text
-“Checklist slide showing missing workflow controls in an operational row.”
-
-## Slide 7
-
-### Copy
-If any part of your workflow is not reviewable, scale will amplify the noise.
-
-### Visual Layout
-- “Noise meter” bar chart under 3 workflow modules:
-  - Catalogs
-  - Buy list
-  - Replenishment
-
-### Text Hierarchy
-- Headline
-- Supporting numbers:
-  - Missing owner
-  - Missing decision logic
-  - Missing handoff
-
-### Graphic Elements
-- Simple bar meter with one section marked red.
-
-### Canva/Figma Notes
-- Use data-like bars with clear spacing.
-- Keep chart simple and readable on phone.
-
-### Accessibility / Alt Text
-“A scale-like meter showing how missing workflow controls increase operational noise.”
-
-## Slide 8
-
-### Copy
-FBA wholesale is not just sourcing. It is operations discipline.
-
-### Visual Layout
-- Operator-style banner and bold statement block.
-- Small supporting line beneath:
-  “Supplier, catalog, and buy-list cleanup beats another product chase.”
-
-### Text Hierarchy
-- Large statement statement
-- Supporting line
-
-### Graphic Elements
-- Clean border frame.
-- Subtle line icon for workflow checks.
-
-### Canva/Figma Notes
-- This is the thesis slide; avoid extra decorative details.
-- Keep background darker than text for high contrast.
-
-### Accessibility / Alt Text
-“Main thesis slide reinforcing that the operation layer drives outcomes for FBA wholesale.”
-
-## Slide 9
-
-### Copy
-Get the FBA Wholesale Ops Scorecard.
-Score your operation. Fix your first weak spot.
-
-### Visual Layout
-- Large CTA button mock.
-- Small row beneath with section options:
-  - suppliers
-  - catalogs
-  - buy list
-  - replenishment
-  - VA workflow
-  - risk control
-
-### Text Hierarchy
-- Primary CTA (largest)
-- Secondary support line
-
-### Graphic Elements
-- CTA button with arrow.
-- Footer line with scorecard link placeholder.
-
-### Canva/Figma Notes
-- Export at high contrast.
-- Keep copy and CTA centered for screenshot consistency.
-
-### Accessibility / Alt Text
-“Final slide with one clear CTA to run the FBA Wholesale Ops Scorecard with follow-up sections.”
-
-## Final Export Checklist
-
-- Verify all copy uses “FBA wholesale,” “suppliers,” “catalogs,” “buy list,” and “operations.”
-- Confirm there is no claim of guaranteed profit or account issue prevention.
-- Confirm no mention of generic ecommerce product-finder promises.
-- Confirm all section names match scorecard sections.
-- Export each slide with identical margins and spacing.
-- Run spellcheck and save with filenames:
-  - `carousel1-slide01.png` through `carousel1-slide09.png`.
+- Watch for comments asking if this is “just a spreadsheet problem.”
+- Use low-risk scorecard reply immediately for scorecard asks.
+- Capture first 2 comments for phrase analysis.
+- Escalate only pricing/account-health/IP/demo/integration questions.
+- Log lowest-section mention when scorecard request comes in.
