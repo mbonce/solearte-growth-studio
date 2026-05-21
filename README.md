@@ -27,6 +27,11 @@ When this repo mentions suppliers or distributors, it means the supplier relatio
 - `.agents/`: Shared agent resources, including the external MarketingSkills submodule.
 - `product/`: Positioning, ICP, product modules, objections, pricing hypotheses, and pilot offer.
 - `research/`: Seller pain points, customer language, competitor notes, interview templates, and market questions.
+- `audience-research/`: FBA wholesale personas, maturity levels, emotional drivers, objections, and pain triggers.
+- `creative-research/`: Instagram hooks, carousel/reel/story patterns, visual patterns, and save/share/DM triggers.
+- `competitors/`: Creator ecosystem research, content breakdowns, and positioning gaps.
+- `swipe-files/`: Reusable hook, CTA, DM, story, contrarian, and operational content structures.
+- `voice-of-customer/`: Direct quotes, common phrases, operator frustrations, workflow complaints, and buying language.
 - `content/`: Content pillars, calendars, posts, scripts, carousels, and newsletters.
 - `instagram/`: Instagram-first launch strategy, hooks, visual style, engagement replies, and week-one plan.
 - `lead-magnets/`: Scorecard and workflow audit assets.
@@ -52,9 +57,19 @@ Future agents should read in this order:
 
 1. `product/product-marketing.md` for the canonical product context.
 2. `product/icp.md` for fit and disqualification.
-3. The relevant agent card in `agents/`.
-4. The matching workflow in `workflows/`.
-5. `workflows/qa-review.md` before anything is used externally.
+3. `audience-research/` and `voice-of-customer/` for seller psychology and language.
+4. `creative-research/`, `competitors/`, and `swipe-files/` for current creative patterns.
+5. The relevant agent card in `agents/`.
+6. The matching workflow in `workflows/`.
+7. `workflows/qa-review.md` before anything is used externally.
+
+## Continuous Research Engine
+
+The repo now runs a continuous audience and creative research loop:
+
+`[Creators] --> [Comments] --> [DMs] --> [VOC] --> [Hooks] --> [Assets] --> [Analytics]`
+
+Use `workflows/research-loop.md` every week to update audience intelligence, creative patterns, swipe files, positioning gaps, and content opportunities. Research should feed Instagram, reels, carousels, stories, outreach, lead magnets, landing pages, workflow audits, and product positioning.
 
 ## MarketingSkills Submodule
 

@@ -13,7 +13,9 @@ Turn seller research, product positioning, content, outbound, sales, and analyti
 - `product/product-marketing.md`
 - `product/icp.md`
 - `workflows/weekly-growth-cycle.md`
+- `workflows/research-loop.md`
 - `analytics/weekly-growth-report.md`
+- `analytics/research-insights-log.md`
 - Open issues and requested assets
 
 ## Primary Outputs
@@ -45,6 +47,10 @@ Turn seller research, product positioning, content, outbound, sales, and analyti
 If the task involves launch content, top-of-funnel awareness, seller engagement, short-form content, carousels, reels, stories, or DMs, route first to the Instagram Content Agent.
 
 Use the FBA Ops Content Agent for repurposing Instagram-first ideas into X, LinkedIn, newsletters, long-form posts, and other secondary channels.
+
+If the task involves audience understanding, emotional drivers, content trends, Instagram patterns, creator analysis, hooks, positioning gaps, save/share analysis, DM triggers, or voice-of-customer language, route first to the Audience Research Agent.
+
+Use research outputs to update audience-research, creative-research, competitors, swipe-files, voice-of-customer, analytics, product positioning, and future Instagram campaign plans.
 
 ## Quality Checklist
 
