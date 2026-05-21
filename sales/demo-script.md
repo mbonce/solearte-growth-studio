@@ -36,3 +36,7 @@ Show invoices, authorization notes, restrictions, and account-health notes as wo
 
 Frame the pilot around cleaning up one real workflow from their operation.
 
+Close path:
+
+- If audit confirms one fragile workflow, propose the 30-Day Ops Cleanup Pilot.
+- Position SaaS beta as the next step after the pilot outcome is proven for recurring workflow use.

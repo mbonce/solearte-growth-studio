@@ -21,6 +21,10 @@ Primary users:
 Primary outcome:
 Help FBA wholesale sellers move from scattered spreadsheets and disconnected tools to a structured operating system for supplier follow-up, catalog review, buy decisions, purchase orders, FBA shipments, replenishment, and margin assumption tracking.
 
+Core GTM motion:
+
+`scorecard → workflow audit → 30-Day Ops Cleanup Pilot → Wholesale Ops SaaS beta`
+
 ## Ideal Customer Profile
 
 Best-fit sellers:

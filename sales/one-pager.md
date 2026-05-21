@@ -20,3 +20,14 @@ Wholesale-Ops helps organize the operating workflow around suppliers, catalogs, 
 
 Start with a 30-Day FBA Wholesale Ops Cleanup Pilot focused on one painful workflow.
 
+## Sales Path
+
+- First ask: run the scorecard.
+- Qualification: map fit and bottlenecks.
+- Conversion: recommend workflow audit.
+- Execution: 30-Day Ops Cleanup Pilot.
+- Expansion: move one workflow into Wholesale Ops SaaS beta when stable.
+
+## Positioning Note
+
+This is a workflow-audit and cleanup service as the primary GTM entry, with Wholesale-Ops SaaS beta as the repeatable operating layer.

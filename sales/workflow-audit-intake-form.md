@@ -49,6 +49,14 @@
 - Primary bottleneck:
 - Why it is painful:
 
+## Execution Risk Prompts
+
+- Is margin recalculation done before major replenishment?
+- Do you see scanner trust or multipack mismatch issues?
+- Is there a repeatable rule for supplier packaging and FBA-ready unit sizing?
+- Do restrictions/ungating notes connect to catalog decisions?
+- Is replenishment triggered from stock-memory or documented signals?
+
 ## What They Want Fixed First
 
 - Top priority in next 7 days:

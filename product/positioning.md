@@ -4,9 +4,15 @@
 
 Wholesale-Ops is the operations command center for Amazon FBA wholesale sellers who need one repeatable system for suppliers, catalogs, ASIN decisions, buy lists, purchase orders, FBA shipments, replenishment, margins, VA workflows, and risk-control notes.
 
+Its primary motion is not a broad marketing system. It is a **GTM-to-operations funnel**:
+
+`scorecard → workflow audit → 30-Day Ops Cleanup Pilot → Wholesale Ops SaaS beta`.
+
 ## Short Positioning Statement
 
-The operating system for FBA wholesale sellers after sourcing gets messy.
+The operating system for FBA wholesale sellers after sourcing gets messy, so teams can move:
+
+supplier catalog → verified buy list → documented replenishment execution.
 
 ## Homepage Positioning
 
@@ -33,4 +39,3 @@ Amazon FBA wholesale operations software for sellers scaling beyond spreadsheets
 - Task managers.
 - Broad ecommerce ERPs.
 - VA-managed manual systems.
-

@@ -47,6 +47,17 @@ The pilot will focus on:
 - Week 3: live workflow review.
 - Week 4: results, feedback, next step.
 
+## Conversion Logic
+
+- Scope to one high-friction workflow only.
+- Position this as the launch step into Wholesale Ops SaaS beta after successful cleanup.
+- Keep all handoffs explicit and operator-owned.
+
+## SaaS Transition
+
+- If workflow execution becomes repeatable, propose Wholesale Ops SaaS beta for this workflow.
+- If execution remains ad-hoc, keep pilot in place longer before SaaS handoff.
+
 ## Delivery Output
 
 - Scorecard section mapped to proposed pilot scope.

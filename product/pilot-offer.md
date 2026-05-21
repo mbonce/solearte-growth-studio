@@ -1,8 +1,16 @@
 # 30-Day FBA Wholesale Ops Cleanup Pilot
 
+## Core Conversion Path
+
+This offer belongs in the same funnel as the scorecard and workflow audit:
+
+`scorecard → workflow audit → 30-Day Ops Cleanup Pilot → Wholesale Ops SaaS beta`
+
 ## Promise
 
 In 30 days, help an FBA wholesale seller clean up one core operating workflow so suppliers, catalogs, ASIN decisions, buy lists, POs, shipments, replenishment, and team handoffs are easier to see and manage.
+
+This is a workflow-control offer, not a sourcing replacement.
 
 ## Ideal Customer
 
@@ -32,6 +40,19 @@ In 30 days, help an FBA wholesale seller clean up one core operating workflow so
 - Seller has a cleaner operating view.
 - Pilot produces product feedback and next-step recommendation.
 
+Target measurable outcomes:
+
+- Fewer handoff failures.
+- Faster catalog-to-buy-list decision flow.
+- Clearer replenishment trigger logic.
+- Better exception awareness.
+
+## Conversion to SaaS
+
+- The pilot should end with one explicit operating recommendation.
+- If the workflow can repeat with fewer founder interventions, propose Wholesale Ops SaaS beta for that workflow.
+- Keep scope to the cleaned workflow; scale after three weeks of stability.
+
 ## Out-of-Scope Items
 
 - Guaranteed profitable products.
@@ -40,4 +61,3 @@ In 30 days, help an FBA wholesale seller clean up one core operating workflow so
 - Done-for-you sourcing.
 - Full ERP replacement.
 - Custom integrations unless separately approved.
-

@@ -2,6 +2,8 @@
 
 Wholesale-Ops FBA Growth Studio is the internal AI-agent-powered growth repository for one product: Wholesale-Ops.
 
+It is not a generic AI marketing utility. It is a GTM operating engine for the FBA wholesale workflow service and SaaS pathway.
+
 Wholesale-Ops is an operations command center for Amazon FBA wholesale sellers. It helps sellers manage supplier outreach, catalog analysis, ASIN qualification, buy lists, purchase orders, FBA shipment workflows, replenishment, margin tracking, VA workflows, and account-risk controls in one repeatable operating system.
 
 FBA wholesale is not just sourcing. It is operations.
@@ -45,6 +47,17 @@ When this repo mentions suppliers or distributors, it means the supplier relatio
 - `launch/`: Founder-facing launch command center, readiness checklists, publishing calendar, risk register, approval board, and retrospective.
 - `templates/`: Reusable Markdown templates for agents and growth work.
 - `.github/`: Issue and pull request templates.
+
+## What the Repo Supports
+
+This repo runs the GTM engine for Wholesale-Ops with this execution path:
+
+- Content generation for Instagram-first acquisition.
+- Lead magnet distribution and scorecard responses.
+- DM/email response handling and qualification.
+- Workflow audit sales and discovery.
+- 30-Day Ops Cleanup Pilot packaging.
+- SaaS beta conversion and feedback loops.
 
 ## How The Agent System Works
 

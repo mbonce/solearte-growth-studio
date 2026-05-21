@@ -47,6 +47,9 @@
 - Suggested scope:
 - Risk areas to avoid:
 - Proposed sequence for pilot:
+- SaaS transition recommendation:
+  - likely SaaS beta workflow:
+  - timing gate:
 
 ## Next Step
 
@@ -54,3 +57,4 @@
 - CTA owner:
 - Follow-up date:
 - Audit-to-proposal handoff note:
+- Handoff to SaaS team when pilot is repeatable:

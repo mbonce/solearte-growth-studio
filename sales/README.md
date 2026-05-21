@@ -1,8 +1,12 @@
 # Sales
 
-Sales assets should diagnose operating pain first and show Wholesale-Ops as a workflow system second.
+Sales assets should diagnose operating pain first and position Wholesale-Ops as a workflow-control service first.
 
-The sales motion starts with seller fit, maps the current workflow, identifies the messiest operating area, and recommends a pilot only when there is clear FBA wholesale workflow complexity.
+The sales motion follows:
+
+`scorecard → workflow audit → 30-Day Ops Cleanup Pilot → Wholesale Ops SaaS beta`
+
+It starts with seller fit, maps the current workflow, identifies the messiest operating area, and recommends a pilot only when there is clear FBA wholesale workflow complexity.
 
 ## Sales Standard
 

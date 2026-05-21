@@ -56,6 +56,13 @@ None found in the repo.
 
 ## Fixes made during audit
 
+- Added the workflow-audit-to-SaaS acquisition layer:
+  - `sales/fba-wholesale-workflow-audit-offer.md`
+  - `sales/pilot-to-saas-conversion-playbook.md`
+  - `sales/sample-workflow-audit-report.md`
+  - `analytics/lead-pipeline.md`
+  - `product/customer-discovery-log.md`
+- Added operational launch-ready checklists for weekly content, daily DM follow-up, weekly lead review, audit delivery, and pilot delivery.
 - Added this final readiness report.
 - Updated `README.md` to include `agent-ops/`, `automations/`, and `launch/` in the repo map.
 - Replaced weak placeholder markers across analytics, research, competitor, launch, task queue, and template files with bracketed fields or concrete launch-week values.

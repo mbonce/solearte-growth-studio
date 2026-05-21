@@ -12,6 +12,10 @@ Manage supplier outreach, catalog analysis, ASIN decisions, buy lists, purchase 
 
 FBA wholesale is not just sourcing. It is operations.
 
+The practical path:
+
+- scorecard → workflow audit → 30-day ops cleanup pilot → Wholesale Ops SaaS beta.
+
 ## For
 
 - FBA wholesale sellers scaling beyond solo workflows.
@@ -29,4 +33,3 @@ FBA wholesale is not just sourcing. It is operations.
 ## CTA
 
 Get the FBA Wholesale Ops Scorecard.
-

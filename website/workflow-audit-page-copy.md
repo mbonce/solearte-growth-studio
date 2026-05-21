@@ -37,6 +37,13 @@ Book an ops workflow audit before your complexity compounds.
 - Primary: Book an ops workflow audit
 - Secondary: Request scorecard follow-up breakdown
 
+## Post-Audit Conversion Path
+
+- Scorecard section and bottleneck mapped.
+- 30-Day Ops Cleanup Pilot recommendation.
+- Optional SaaS beta transition only for repeatable workflows.
+- No promise of guaranteed outcome; the focus is repeatability and control.
+
 ## Disqualification Notes
 
 - No active supplier catalog workflow

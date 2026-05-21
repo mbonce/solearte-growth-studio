@@ -4,6 +4,10 @@
 
 Thanks for taking the time. The goal is to map one part of your FBA wholesale operation and find where the process is least reliable. This is not a profit promise and not an Amazon account-issue guarantee.
 
+The operating path is:
+
+scorecard → workflow audit → 30-Day Ops Cleanup Pilot → SaaS beta handoff.
+
 ## Current Workflow Map
 
 - What tools do you use for suppliers, catalogs, ASIN review, buy lists, POs, shipments, and replenishment?
@@ -65,6 +69,13 @@ Score each area from 1 to 5:
 ## Next-Step Framing
 
 If one workflow is clearly painful and within scope, recommend the 30-Day FBA Wholesale Ops Cleanup Pilot.
+
+Use this sequence:
+
+- Confirm scorecard section with lowest score.
+- Propose 30-day cleanup scope for that workflow.
+- Set a pilot outcome review date.
+- Position SaaS beta as follow-on for repeatable workflows only.
 
 ## Offer a Clean Exit If Out of Scope
 

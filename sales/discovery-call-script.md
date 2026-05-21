@@ -30,3 +30,8 @@
 
 Recommend a workflow audit if the seller has active FBA wholesale complexity and one clear operating pain.
 
+Follow with:
+
+- Scorecard review.
+- 30-Day Ops Cleanup Pilot invitation.
+- SaaS beta positioning only after a successful 30-day pilot outcome review.

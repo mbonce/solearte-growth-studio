@@ -47,6 +47,13 @@ It helps you choose the first cleanup with the highest operating leverage.
 - Primary: Get the FBA Wholesale Ops Scorecard
 - Secondary: Book an ops workflow audit
 
+## Conversion Sequence
+
+1. Complete the scorecard and identify one weakest section.
+2. Receive workflow audit qualification next.
+3. Choose a 30-Day Ops Cleanup Pilot for the highest-friction workflow.
+4. Move to Wholesale Ops SaaS beta after pilot repeatability is proven.
+
 ## FAQ
 
 - Who is this for?
