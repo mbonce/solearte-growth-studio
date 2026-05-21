@@ -127,3 +127,58 @@ Evening:
 - Record metrics.
 - Review blockers.
 - Update tomorrow's publishing status.
+
+## 13. Live Metrics Dashboard (Launch Week)
+
+- Day 1: `analytics/day-1-metrics-log.md` (Carousel 1)
+- Day 2: `analytics/day-2-metrics-log.md` (Reel 1)
+- Day 3: `analytics/day-3-metrics-log.md` (Carousel 2)
+- Day 4: `analytics/day-4-metrics-log.md` (Reel 2)
+- Day 5: `analytics/day-5-metrics-log.md` (Carousel 3)
+
+Track live for each day:
+- likes / saves / shares
+- comments / scorecard requests
+- profile visits / link clicks
+- DMs / escalation count
+
+## 14. Active Conversations
+
+- High-priority queues:
+  - scorecard flowing DMs
+  - audit-qualified prospects
+  - escalation cases
+- Update every evening with:
+  - seller intent (operator, beginner, mixed)
+  - weak section mentioned
+  - immediate next step (DM sequence or audit offer)
+
+## 15. Top Pain Point
+
+- Keep the top recurring pain point of the day updated here.
+- Current focus:
+  - `{{top_pain_point}}`
+- Keep the list short:
+  - suppliers
+  - catalog qualification
+  - buy-list handoff
+  - replenishment memory
+  - VA handoff
+
+## 16. Best-Performing Hook
+
+- Capture the best hook phrase by day and map to posting assets.
+- Current winner:
+  - Hook:
+  - Why it worked:
+  - Use next for Day 2-5:
+    - copy
+    - story prompt
+
+## 17. Launch-Week Learning Notes
+
+- Capture:
+  - what increased scorecard asks,
+  - what caused hesitation,
+  - what objections repeated,
+  - what content should be repeated in Week 2.
