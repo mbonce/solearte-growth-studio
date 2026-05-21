@@ -6,6 +6,8 @@ Wholesale-Ops is an operations command center for Amazon FBA wholesale sellers. 
 
 FBA wholesale is not just sourcing. It is operations.
 
+This repo is a growth operating shell, not an application codebase. It contains agent instructions, positioning, research capture, content drafts, outbound assets, sales assets, website copy, analytics templates, workflows, and QA guardrails. Do not add app code, dependency manifests, databases, or invented product features unless the repo scope is explicitly changed.
+
 ## Target Customer
 
 This repo is for growth work aimed at Amazon FBA wholesale sellers:
@@ -16,6 +18,8 @@ This repo is for growth work aimed at Amazon FBA wholesale sellers:
 - Sellers moving from solo spreadsheet workflows into repeatable operations.
 
 This is not for brick-and-mortar wholesalers, traditional wholesale distributors, retail stores, warehouse operators, or distributor ERP buyers.
+
+When this repo mentions suppliers or distributors, it means the supplier relationships an Amazon FBA wholesale seller may use to source inventory for Amazon resale. It does not mean building software for distributors, distributor ERPs, wholesale ordering portals, retail buying teams, or warehouse operations.
 
 ## What This Repo Contains
 
@@ -43,6 +47,14 @@ The expected flow is:
 
 `[Research] --> [Messaging] --> [Content/Outbound] --> [Sales] --> [Analytics] --> [QA]`
 
+Future agents should read in this order:
+
+1. `product/product-marketing.md` for the canonical product context.
+2. `product/icp.md` for fit and disqualification.
+3. The relevant agent card in `agents/`.
+4. The matching workflow in `workflows/`.
+5. `workflows/qa-review.md` before anything is used externally.
+
 ## MarketingSkills Submodule
 
 The external repo `coreyhaines31/marketingskills` is mounted at:
@@ -50,6 +62,8 @@ The external repo `coreyhaines31/marketingskills` is mounted at:
 `.agents/marketingskills`
 
 Use it as the shared marketing skill library. The files in `/agents` wrap those generic skills with Wholesale-Ops-specific context, constraints, and outputs.
+
+MarketingSkills can provide marketing technique, but it must not override the Wholesale-Ops positioning, audience exclusions, claim boundaries, or QA rules in this repo.
 
 ## Weekly Operating Cadence
 
@@ -61,3 +75,13 @@ Use it as the shared marketing skill library. The files in `/agents` wrap those 
 
 Each week should produce a small set of useful assets, record what sellers actually said, and update the operating thesis without drifting into unsupported claims.
 
+## Claim Boundaries
+
+Do not claim Wholesale-Ops:
+
+- Guarantees profitable products.
+- Prevents Amazon account issues, suspensions, IP complaints, or compliance problems.
+- Has integrations, automations, customers, metrics, case studies, or testimonials that are not documented in this repo.
+- Is built for brick-and-mortar wholesale, traditional distributors, retail stores, warehouse operators, or distributor ERP buyers.
+
+If a claim is uncertain, mark it as a hypothesis or route it to QA.

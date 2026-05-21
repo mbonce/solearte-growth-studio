@@ -19,3 +19,6 @@ The files in `/agents` wrap those generic skills with Wholesale-Ops-specific con
 - Supplier, catalog, ASIN, buy-list, PO, FBA shipment, replenishment, VA workflow, and risk-control language.
 - No brick-and-mortar wholesale, distributor ERP, retail store, or warehouse-operator positioning.
 
+## Use Boundary
+
+MarketingSkills is a technique library, not the product source of truth. If a MarketingSkills example suggests fake metrics, generic SaaS claims, broad integrations, testimonials, or case-study framing, adapt or discard it unless Wholesale-Ops has documented evidence.

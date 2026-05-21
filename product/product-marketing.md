@@ -19,13 +19,13 @@ Primary users:
 - Ecommerce operators scaling beyond solo workflows
 
 Primary outcome:
-Help FBA wholesale sellers move from scattered spreadsheets and disconnected tools to a structured operating system for finding, buying, shipping, and replenishing profitable wholesale inventory.
+Help FBA wholesale sellers move from scattered spreadsheets and disconnected tools to a structured operating system for supplier follow-up, catalog review, buy decisions, purchase orders, FBA shipments, replenishment, and margin assumption tracking.
 
 ## Ideal Customer Profile
 
 Best-fit sellers:
 - Amazon FBA wholesale sellers
-- Sellers working with multiple brands, distributors, or suppliers
+- Sellers working with multiple brands, suppliers, or wholesale distributor relationships for Amazon resale
 - Sellers analyzing supplier catalogs
 - Sellers using VAs for sourcing or operations
 - Sellers managing many ASINs
@@ -74,11 +74,45 @@ It sits between:
 
 Wholesale-Ops does not just help sellers find products. It helps them run the wholesale FBA operation after products are found.
 
+Important boundary:
+References to distributors mean suppliers used by FBA wholesale sellers. They do not mean traditional distributor ERP buyers, retail buyers, warehouse operators, or wholesale ordering portal customers.
+
 ## Core Messaging Thesis
 
 FBA wholesale is not just a sourcing game. It is an operations game.
 
-The sellers who scale are not only the ones who find profitable ASINs. They are the ones who build repeatable systems for suppliers, catalogs, purchase decisions, shipments, replenishment, and risk control.
+The sellers who scale are not only the ones who find promising ASINs. They are the ones who build repeatable systems for suppliers, catalogs, purchase decisions, shipments, replenishment, margin review, and risk-control hygiene.
+
+## Claim Boundaries
+
+Wholesale-Ops can be described as an operating system for workflow visibility, accountability, decision history, and process discipline.
+
+Do not claim Wholesale-Ops:
+
+- Guarantees profitable products.
+- Prevents Amazon account issues.
+- Prevents suspensions, IP complaints, gated-category issues, or account-health problems.
+- Replaces legal, tax, compliance, or Amazon policy advice.
+- Has integrations, automations, customer results, testimonials, or performance metrics unless those are documented.
+- Is for brick-and-mortar wholesale, distributor ERP, retail store, warehouse, or point-of-sale workflows.
+
+Approved phrasing:
+
+- "helps centralize"
+- "helps track"
+- "helps make decisions easier to review"
+- "supports workflow hygiene"
+- "keeps assumptions visible"
+- "routes sensitive issues to human review"
+
+Avoid phrasing:
+
+- "guarantees"
+- "prevents account issues"
+- "finds profitable products for you"
+- "fully automates Amazon wholesale"
+- "replaces Seller Central"
+- "protects your account"
 
 ## Differentiation
 
@@ -141,4 +175,3 @@ ERPs can be heavy, expensive, and too broad. Wholesale-Ops is focused on the FBA
 - Guaranteed profitable products
 - Passive income
 - Get rich quick
-
