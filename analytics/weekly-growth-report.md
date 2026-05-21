@@ -6,11 +6,24 @@ TODO
 
 ## Content Published
 
+- Instagram posts published:
 - LinkedIn:
 - X:
 - Newsletter:
 - Video:
 - Carousel:
+
+## Instagram Performance
+
+- Carousel saves:
+- Reel views:
+- Reel average watch time:
+- Story replies:
+- Profile visits:
+- Link clicks:
+- DMs from FBA sellers:
+- Scorecard clicks from Instagram:
+- Workflow audits booked from Instagram:
 
 ## Best-Performing Content
 
@@ -94,4 +107,3 @@ TODO
 - Experiment:
 - Owner:
 - Success metric:
-

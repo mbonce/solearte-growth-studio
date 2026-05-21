@@ -1,5 +1,16 @@
 # Content Pillars
 
+All pillars should be translated first into Instagram-native formats:
+
+- Carousels.
+- Reels.
+- Stories.
+- Single-image posts.
+- Memes.
+- DM prompts.
+
+Repurpose the strongest Instagram ideas into X, YouTube Shorts/Reels, Discord/private community prompts, and occasional LinkedIn credibility posts.
+
 ## FBA Wholesale Ops Discipline
 
 - Description: FBA wholesale requires repeatable systems after sourcing.
@@ -69,4 +80,3 @@
 - Buyer pain: the founder stays trapped in every decision.
 - Example hooks: "Scaling wholesale means becoming an operator."; "More suppliers require more operating discipline."
 - CTA ideas: take the ops scorecard; book a workflow audit.
-

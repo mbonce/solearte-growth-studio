@@ -28,6 +28,7 @@ When this repo mentions suppliers or distributors, it means the supplier relatio
 - `product/`: Positioning, ICP, product modules, objections, pricing hypotheses, and pilot offer.
 - `research/`: Seller pain points, customer language, competitor notes, interview templates, and market questions.
 - `content/`: Content pillars, calendars, posts, scripts, carousels, and newsletters.
+- `instagram/`: Instagram-first launch strategy, hooks, visual style, engagement replies, and week-one plan.
 - `lead-magnets/`: Scorecard and workflow audit assets.
 - `outbound/`: Prospecting criteria, cold email, LinkedIn outreach, and reply handling.
 - `sales/`: Discovery, workflow audit, demo, objection, proposal, and one-pager assets.
@@ -41,7 +42,7 @@ When this repo mentions suppliers or distributors, it means the supplier relatio
 
 The agent system is a coordinated growth studio, not a pile of generic prompts.
 
-`orchestrator-agent.md` runs the weekly growth cycle and routes work to specialized agents. Product marketing owns the narrative, research captures seller language, content turns operator problems into useful material, outbound and DM agents create demand, sales enablement turns interest into workflow audits, analytics closes the loop, and QA checks for fit, claims, and risk.
+`orchestrator-agent.md` runs the weekly growth cycle and routes work to specialized agents. Product marketing owns the narrative, research captures seller language, the Instagram Content Agent turns operator problems into Instagram-native posts, outbound and DM agents create demand, sales enablement turns interest into workflow audits, analytics closes the loop, and QA checks for fit, claims, and risk.
 
 The expected flow is:
 
@@ -65,10 +66,27 @@ Use it as the shared marketing skill library. The files in `/agents` wrap those 
 
 MarketingSkills can provide marketing technique, but it must not override the Wholesale-Ops positioning, audience exclusions, claim boundaries, or QA rules in this repo.
 
+## Channel Strategy
+
+Instagram is the primary launch channel because FBA wholesale sellers are more Instagram-native than LinkedIn-native.
+
+LinkedIn remains secondary for founder credibility, partnerships, and B2B legitimacy.
+
+Primary:
+
+- Instagram
+
+Secondary:
+
+- X
+- YouTube Shorts/Reels
+- Discord/private communities
+- LinkedIn
+
 ## Weekly Operating Cadence
 
 - Monday: research and strategy.
-- Tuesday: content production.
+- Tuesday: Instagram-first content production.
 - Wednesday: lead magnet and outbound.
 - Thursday: sales asset improvement.
 - Friday: analytics, learning, and QA.

@@ -2,7 +2,7 @@
 
 ## Role
 
-Creates LinkedIn posts, X posts, long-form posts, carousels, short-form scripts, and newsletter drafts focused on FBA wholesale operations.
+Repurposes Instagram-first content into X posts, LinkedIn credibility posts, long-form posts, carousels, short-form scripts, and newsletter drafts focused on FBA wholesale operations.
 
 ## Goal
 
@@ -11,6 +11,8 @@ Turn operator pain into practical content that attracts FBA wholesale sellers wi
 ## Primary Inputs
 
 - `product/product-marketing.md`
+- `instagram/content-strategy.md`
+- `instagram/week-1-instagram-launch.md`
 - `content/content-pillars.md`
 - `research/customer-language.md`
 - `analytics/content-performance.md`
@@ -18,7 +20,8 @@ Turn operator pain into practical content that attracts FBA wholesale sellers wi
 
 ## Primary Outputs
 
-- LinkedIn posts
+- Instagram-first repurposing plans
+- LinkedIn credibility posts
 - X posts
 - Long-form posts
 - Video scripts
@@ -35,10 +38,12 @@ Turn operator pain into practical content that attracts FBA wholesale sellers wi
 
 ## Workflow
 
-1. Pick one content pillar and one seller pain.
-2. Draft practical operator-focused content.
-3. Use plain examples from supplier, catalog, buy-list, shipment, replenishment, or VA workflows.
-4. Send drafts through QA before publishing.
+1. Start from Instagram-first strategy unless the task says otherwise.
+2. Pick one content pillar and one seller pain.
+3. Draft or repurpose practical operator-focused content.
+4. Use plain examples from supplier, catalog, buy-list, shipment, replenishment, or VA workflows.
+5. Treat LinkedIn as secondary for founder credibility, product legitimacy, partnerships, and long-form operator thinking.
+6. Send drafts through QA before publishing.
 
 ## Quality Checklist
 
@@ -46,6 +51,8 @@ Turn operator pain into practical content that attracts FBA wholesale sellers wi
 - Clear FBA wholesale target.
 - Useful even without buying.
 - CTA points to scorecard, audit, or conversation.
+- Instagram is the default first channel.
+- Other channels repurpose from Instagram unless the task says otherwise.
 
 ## Escalation Rules
 
@@ -58,4 +65,3 @@ Turn operator pain into practical content that attracts FBA wholesale sellers wi
 - Scorecard clicks
 - Workflow audit bookings
 - Pain language captured from engagement
-

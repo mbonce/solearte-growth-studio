@@ -7,12 +7,12 @@
 - Outputs: weekly theme, pain pattern, priority segment, asset plan.
 - Review checklist: target is FBA wholesale; pain is operational; claims are supportable.
 
-## Tuesday: Content Production
+## Tuesday: Instagram-first content production
 
-- Agents involved: ops content, product marketing, QA.
-- Inputs: content pillars, customer language, weekly theme.
-- Outputs: LinkedIn posts, X posts, long-form draft, short-form scripts, carousel outline.
-- Review checklist: practical, specific, no hype, clear CTA.
+- Agents involved: Instagram content, ops content, product marketing, QA.
+- Inputs: Instagram content strategy, visual style guide, content pillars, customer language, weekly theme.
+- Outputs: 3 carousel concepts, 2 reel scripts, 5 story ideas, 3 X posts repurposed from Instagram, 1 LinkedIn post only if it fits founder credibility.
+- Review checklist: Instagram-native, practical, specific, no hype, clear CTA, save/share/DM potential.
 
 ## Wednesday: Lead Magnet And Outbound
 
@@ -34,4 +34,3 @@
 - Inputs: performance trackers, replies, audits, demos, pilot notes.
 - Outputs: weekly report, learning log, next experiments.
 - Review checklist: evidence separated from interpretation, next actions clear.
-

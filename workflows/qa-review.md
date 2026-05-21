@@ -31,6 +31,17 @@ Use this process for all content, outbound, sales, website, and DM copy. QA is n
 - Does it preserve decision history, ownership, status, assumptions, or handoff context?
 - Does it explain the next step without feature dumping?
 
+## Instagram-Native Checks
+
+- Does this look native to Instagram?
+- Would an FBA wholesale seller save this?
+- Would an FBA wholesale seller share this with a VA, sourcing teammate, or operator friend?
+- Would this trigger a useful DM?
+- Is the hook clear in the first line or first slide?
+- Does it avoid generic ecommerce creator language?
+- Does it avoid guru/flex culture?
+- Does the format match the idea: carousel for frameworks, reel for blunt takes, story for replies, meme for shared pain?
+
 ## CTA Checks
 
 - Is the CTA clear?

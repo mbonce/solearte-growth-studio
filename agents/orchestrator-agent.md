@@ -40,6 +40,12 @@ Turn seller research, product positioning, content, outbound, sales, and analyti
 4. Confirm every output targets Amazon FBA wholesale sellers.
 5. Close the week with results, learnings, and next tests.
 
+## Routing Rules
+
+If the task involves launch content, top-of-funnel awareness, seller engagement, short-form content, carousels, reels, stories, or DMs, route first to the Instagram Content Agent.
+
+Use the FBA Ops Content Agent for repurposing Instagram-first ideas into X, LinkedIn, newsletters, long-form posts, and other secondary channels.
+
 ## Quality Checklist
 
 - Work maps to a real FBA wholesale operating problem.
@@ -59,4 +65,3 @@ Turn seller research, product positioning, content, outbound, sales, and analyti
 - Workflow audits booked
 - Pain patterns identified
 - Experiments completed
-

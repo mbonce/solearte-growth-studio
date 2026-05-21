@@ -1,5 +1,7 @@
 # LinkedIn Post Drafts
 
+LinkedIn is secondary. Use it for founder credibility, product legitimacy, partnerships, and long-form operator thinking. Do not treat it as the primary acquisition channel.
+
 ## 1. FBA Wholesale Is Operations
 
 FBA wholesale is not just sourcing.
@@ -103,4 +105,3 @@ Then volume grows.
 The job changes from seller to operator.
 
 That is the shift Wholesale-Ops is built around.
-

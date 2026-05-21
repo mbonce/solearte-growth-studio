@@ -13,6 +13,7 @@ Help each agent use shared marketing skills while staying grounded in Amazon FBA
 - `.agents/marketingskills`
 - `product/product-marketing.md`
 - `product/icp.md`
+- `instagram/content-strategy.md`
 - `research/customer-language.md`
 - `workflows/weekly-growth-cycle.md`
 
@@ -34,10 +35,11 @@ Help each agent use shared marketing skills while staying grounded in Amazon FBA
 ## Workflow
 
 1. Start with product context.
-2. Select the agent card that matches the task.
-3. Pull reusable technique from `.agents/marketingskills`.
-4. Create or revise the asset in the matching repo folder.
-5. Run the QA agent before external use.
+2. Route launch content, carousels, reels, stories, DMs, and top-of-funnel engagement to `instagram-content-agent.md`.
+3. Select the agent card that matches the task.
+4. Pull reusable technique from `.agents/marketingskills`.
+5. Create or revise the asset in the matching repo folder.
+6. Run the QA agent before external use.
 
 ## Quality Checklist
 
