@@ -1,64 +1,76 @@
 # Scorecard Questions
 
-Score each question from 0 to 3.
+Score each section from 0 to 5 using observable process, not opinion.
+
+- 0 = not tracked
+- 1 = tracked manually with major gaps
+- 2 = tracked, but inconsistently
+- 3 = tracked with owner and clear next state
+- 4 = tracked with review gates and handoff visibility
+- 5 = tracked consistently with exception handling
 
 ## Supplier Pipeline
 
-- Do you track supplier targets, contacts, status, terms, and next follow-up in one place?
-- Can you see which suppliers are active, stalled, approved, rejected, or waiting?
-- Can a team member understand supplier history without asking the founder?
+- Do you track supplier targets, contacts, status, and follow-up cadence in one place?
+- Can you tell if a supplier is approved, stalled, paused, or blocked at a glance?
+- Do team members know when to follow up and what message to send next?
 
 ## Catalog Intake
 
-- Do you track every catalog received from a supplier?
-- Does each catalog have an owner, review status, and date?
-- Can you tell whether a catalog was fully reviewed or abandoned?
+- Does every catalog get a defined owner and target decision date?
+- Is review status visible from intake to decision?
+- Can you distinguish reviewed, pending, and abandoned catalogs quickly?
 
 ## ASIN Review
 
-- Do ASIN decisions include cost, assumptions, risk notes, and decision status?
-- Can you explain why an ASIN was approved, rejected, paused, or revisited?
-- Are review criteria consistent across VAs or sourcing team members?
+- Do ASIN entries include gross margin assumptions, approval logic, and confidence level?
+- Are rejection and pause reasons captured for future audits?
+- Can two people apply the same review criteria on the same category?
 
 ## Buy-List Workflow
 
-- Does every buy-list item connect back to an ASIN decision?
-- Is approval required before purchase?
-- Can you see who approved the buy and why?
+- Does each buy-list line map to one ASIN review record?
+- Is approval required before purchase actions begin?
+- Is ownership clear for edits, delays, and substitutions?
 
 ## Margin Tracking
 
-- Are fees, prep, inbound shipping, storage, returns, repricing, and cost changes reviewed?
-- Are margin assumptions updated before replenishment?
-- Are margin concerns visible to the operator?
+- Do you track prep, inbound freight, fees, storage, returns, and repricing impact?
+- Are margin assumptions reviewed before replenish or larger reorders?
+- Do your records show margin variance by week and by supplier route?
 
 ## PO Workflow
 
-- Are POs connected to suppliers, buy lists, and invoices?
-- Can you see PO status and received quantity?
-- Are exceptions documented?
+- Can you connect each PO to source catalog, approved ASIN, and invoice?
+- Do PO statuses update from draft to received to matched/exception?
+- Are exceptions reviewed before shipment commitments compound?
 
 ## FBA Shipment Workflow
 
-- Are shipment plans, prep status, carrier details, and receiving status tracked?
-- Can you reconcile shipped units against received units?
-- Are shipment issues connected to the original PO?
+- Are prep status, carton planning, carrier pickup, and receiving reconciled in one place?
+- Can you identify short-ships, over-ships, and damage quickly?
+- Are shipment issues mapped back to supplier and PO?
 
 ## Replenishment
 
-- Do you have a review queue for replenishables?
-- Are reorder decisions based on updated cost, velocity, stock, and risk notes?
-- Can the team see why a reorder was placed or skipped?
+- Do you run replenishment from updated stock, velocity, and demand trends?
+- Are lead times and supplier reliability tracked for reorder timing?
+- Are margin and risk flags reviewed before a reorder is confirmed?
 
 ## VA Accountability
 
-- Are VA tasks tied to workflow stages?
-- Are decisions reviewed before they affect buy lists?
-- Are blockers and exceptions visible?
+- Does each VA task have input source, expected output, and review point?
+- Are blockers and delays surfaced early, not after reorder deadlines?
+- Is VA performance tracked by workflow quality, not only speed?
 
 ## Risk Control
 
-- Are invoices, authorization notes, brand restrictions, gated categories, IP concerns, and account-health notes centralized?
-- Are risk notes reviewed before buy-list approval?
-- Is sensitive account-health work escalated to a human?
+- Are invoices, authorization notes, and restricted-category notes centralized?
+- Are IP and account-health notes stored separately from supplier/cost tracking?
+- Do you escalate sensitive risks to a human before major execution steps?
 
+## How to Apply
+
+- Use the same section order for every scorecard.
+- Capture evidence in one column so a teammate can re-score later.
+- Move forward with your lowest section and ignore the rest for first cleanup.

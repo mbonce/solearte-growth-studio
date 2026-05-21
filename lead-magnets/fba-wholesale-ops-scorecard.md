@@ -1,84 +1,129 @@
 # The FBA Wholesale Ops Scorecard
 
-## Promise
+## Title
 
-The FBA Wholesale Ops Scorecard helps Amazon FBA wholesale sellers find the weakest part of their operating workflow across suppliers, catalogs, ASIN decisions, buy lists, margin assumptions, POs, FBA shipments, replenishment, VA accountability, and risk-control hygiene.
+The FBA Wholesale Ops Scorecard
 
-It does not guarantee profitable products or prevent Amazon account issues. It gives sellers a practical way to inspect where spreadsheets, handoffs, and decision history are getting fragile.
+## Subtitle
+
+Find the weakest operating workflow before it gets expensive.
 
 ## Audience
 
-- FBA wholesale sellers using spreadsheets.
-- Operators with VAs or sourcing teams.
-- Sellers reviewing supplier catalogs.
-- Sellers managing buy-list approvals, POs, FBA shipments, and replenishment.
-- Sellers who need cleaner operating visibility before adding more sourcing volume.
+Amazon FBA wholesale sellers:
 
-## How To Score
+- with VAs or sourcing teams
+- reviewing supplier catalogs through spreadsheets
+- managing buy-list decisions, purchase orders, and replenishment
+- building repeatable operations before scaling sourcing volume
 
-Use 0-3 for each section:
+## Promise
 
-- 0: not tracked.
-- 1: tracked manually but inconsistently.
-- 2: tracked consistently, but mostly in spreadsheets or notes.
-- 3: tracked with owner, status, decision history, review process, and next action.
+This scorecard helps Amazon FBA wholesale operators diagnose where workflows are fragile:
 
-## Ten Scoring Sections
+- supplier pipeline
+- catalog intake
+- ASIN review
+- buy-list decisions
+- margins
+- PO execution
+- FBA shipments
+- replenishment
+- VA accountability
+- risk-control notes
+
+It identifies your first cleanup priority. It does not promise profits or protect against Amazon account outcomes.
+
+## How to Use
+
+1. Score each section from 0 to 5.
+2. Add scores for a total between 0 and 50.
+3. Identify your lowest-scoring section first.
+4. Keep this scorecard result with your next review or audit planning.
+
+Score meanings:
+
+- 0 = not tracked
+- 1 = tracked inconsistently
+- 2 = tracked manually with regular drift
+- 3 = tracked with owner and status
+- 4 = tracked with clear handoffs and checks
+- 5 = tracked with reliable review, exceptions, and next action
+
+## Ten Sections
 
 ### 1. Supplier Pipeline
 
-Score whether supplier targets, contacts, approval status, terms, owner, and next follow-up are visible in one workflow.
+Score if supplier sources, contacts, approval status, terms, next follow-up, and owner are tracked in one workflow.
 
 ### 2. Catalog Intake
 
-Score whether every supplier catalog has an owner, received date, review status, file link, and next action.
+Score if incoming catalogs are logged, reviewed, assigned, and moved through a defined intake state.
 
 ### 3. ASIN Review
 
-Score whether ASIN decisions include cost assumptions, review state, approval logic, rejection reason, and revisit notes.
+Score if ASIN decisions show cost assumptions, review criteria, approval logic, and rationale for reject or pause.
 
 ### 4. Buy-List Workflow
 
-Score whether every buy-list item connects back to a documented ASIN decision and approval state.
+Score if buy-list entries connect to ASIN review decisions and include approval owner, status, and change history.
 
 ### 5. Margin Tracking
 
-Score whether prep, inbound shipping, Amazon fees, storage, returns, repricing, and updated costs are reviewed before buy or reorder decisions.
+Score if prep cost, inbound freight, fees, storage, returns, repricing, and margin drift checks are updated before buying or reordering.
 
 ### 6. PO Workflow
 
-Score whether purchase orders connect to supplier, buy list, invoice, status, received quantity, and exceptions.
+Score if purchase orders connect to suppliers, catalog items, invoices, approvals, and delivery exceptions.
 
 ### 7. FBA Shipment Workflow
 
-Score whether shipment plans, prep status, carrier details, received units, and reconciliation notes are visible.
+Score if prep, carton planning, carrier status, receiving, and reconciliation checks are complete and reviewable.
 
 ### 8. Replenishment
 
-Score whether reorder decisions use updated stock, velocity, supplier availability, margin assumptions, and risk notes.
+Score if reorder decisions use stock, sales velocity, supplier reliability, margin guardrails, and risk notes.
 
 ### 9. VA Accountability
 
-Score whether VA work has clear intake, review, exception, approval, and handoff states.
+Score if VA tasks have ownership, inputs, expected output, deadlines, escalation points, and outcome checks.
 
 ### 10. Risk Control
 
-Score whether invoices, authorization notes, brand restrictions, gated-category context, IP complaint concerns, and account-health notes are centralized for review.
+Score if invoices, authorization notes, restricted brands, gated category constraints, and account-health risks are documented with escalation routing.
+
+## Scoring Rubric
+
+Total score range: 0–50.
+
+- 0–4 per section for each of 10 sections.
+- Use low numbers when process lives in scattered notes.
+- Use high numbers only when steps are repeatable by anyone on the team.
 
 ## Score Interpretation
 
-- 0-10: high workflow fragility. Start with one urgent operating area before adding more sourcing volume.
-- 11-20: partially controlled. The system works, but likely depends on specific people, tabs, or memory.
-- 21-26: operationally decent. Look for weak handoffs between catalog review, buy list, shipment, and replenishment.
-- 27-30: strong discipline. Use the scorecard to audit edge cases and team handoffs.
+- 0–20: mostly reactive
+- 21–35: workable but fragile
+- 36–45: structured but inconsistent
+- 46–50: mature and reviewable
 
-## Suggested Follow-Up CTA
+Use the [score interpretation guide](scorecard-scoring-guide.md) for next-step recommendations.
 
-If one section scores 0 or 1, book an FBA wholesale ops workflow audit for that area.
+## What to Do Next
 
-Start with the lowest-scoring workflow, not the loudest problem.
+- Share the two lowest sections with your team.
+- Fix one workflow only per week.
+- Use the lowest section to request a focused workflow audit.
+- Track improvements after each cleanup block, not after every single tweak.
+
+## CTA
+
+- Primary: Get the FBA Wholesale Ops Scorecard
+- Next step: Book an ops workflow audit for your weakest workflow
+- Fallback CTA: Join the next review queue and run the scorecard again in 30 days
 
 ## Short Landing Page Version
 
-The FBA Wholesale Ops Scorecard helps Amazon FBA wholesale sellers identify where supplier follow-up, catalog analysis, ASIN decisions, buy lists, POs, FBA shipments, replenishment, VA workflow, margin tracking, and risk-control notes are getting fragile. Use it to find the weakest workflow before adding more sourcing volume.
+Use this on short launch surfaces.
 
+The FBA Wholesale Ops Scorecard helps Amazon FBA wholesale sellers identify where supplier follow-up, catalog review, ASIN decisions, buy lists, POs, shipments, replenishment, VA coordination, and risk notes are getting fragile. Score your operation quickly, then focus on the first gap that blocks reliable growth.

@@ -19,6 +19,8 @@ The pilot will focus on:
 - Supporting workflow:
 - Current tools:
 - Data or examples needed:
+- Lowest scorecard section:
+- Audit scope and exclusions:
 
 ## Success Criteria
 
@@ -27,6 +29,8 @@ The pilot will focus on:
 - Review states clarified.
 - Pilot recommendation delivered.
 - Product feedback captured.
+- Progress metrics for the first 7 days.
+- Human-readable handoff summary.
 
 ## Out Of Scope
 
@@ -43,3 +47,8 @@ The pilot will focus on:
 - Week 3: live workflow review.
 - Week 4: results, feedback, next step.
 
+## Delivery Output
+
+- Scorecard section mapped to proposed pilot scope.
+- Daily operating checkpoint format.
+- Audit-ready summary for founder review.

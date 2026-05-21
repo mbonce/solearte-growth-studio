@@ -2,7 +2,7 @@
 
 ## Opening
 
-Thanks for taking the time. The goal is to map one part of your FBA wholesale operation and identify where the workflow is getting fragile. This is not about promising profitable products or account protection.
+Thanks for taking the time. The goal is to map one part of your FBA wholesale operation and find where the process is least reliable. This is not a profit promise and not an Amazon account-issue guarantee.
 
 ## Current Workflow Map
 
@@ -56,7 +56,19 @@ Score each area from 1 to 5:
 - 3: workable but fragile.
 - 5: painful and slowing decisions.
 
+## Opening Commitment
+
+- Confirm the operator model: Amazon FBA wholesale.
+- Confirm the scorecard was completed (if applicable).
+- Confirm team context: founder, VA, sourcing staff, and tools.
+
 ## Next-Step Framing
 
 If one workflow is clearly painful and within scope, recommend the 30-Day FBA Wholesale Ops Cleanup Pilot.
 
+## Offer a Clean Exit If Out of Scope
+
+- If current stage is too early or outside scope, offer:
+  - one focused scorecard section to test
+  - a short follow-up checklist
+  - recommendation to retry after one more operational cycle

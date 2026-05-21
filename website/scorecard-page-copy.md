@@ -2,42 +2,68 @@
 
 ## Hero
 
-Find the weakest part of your FBA wholesale operation.
+Get clear on your weakest FBA wholesale workflow.
 
 ## Subheadline
 
-The FBA Wholesale Ops Scorecard helps Amazon FBA wholesale sellers see where supplier follow-up, catalog analysis, ASIN decisions, buy lists, POs, FBA shipments, replenishment, VA workflow, margin tracking, and risk-control notes are getting fragile.
+Use the FBA Wholesale Ops Scorecard to identify the operating gap in suppliers, catalogs, ASIN reviews, buy lists, POs, FBA shipments, replenishment, VA execution, margins, and risk control.
 
 ## Who It Is For
 
-- Amazon FBA wholesale sellers.
-- Sellers using spreadsheets to manage supplier catalogs and buy-list decisions.
-- Operators with VAs or sourcing teams.
-- Sellers managing repeat buys, FBA shipments, and replenishment.
-- Founders moving from seller mode to operator mode.
+- Amazon FBA wholesale sellers
+- Operators with VAs or sourcing teams
+- Sellers managing catalog and buy-list decisions in spreadsheets
+- Teams scaling beyond solo workflows
 
 ## What It Checks
 
-- Supplier pipeline.
-- Catalog intake.
-- ASIN review.
-- Buy-list workflow.
-- Margin tracking.
-- PO workflow.
-- FBA shipment workflow.
-- Replenishment.
-- VA accountability.
-- Risk-control hygiene.
+- Supplier pipeline
+- Catalog intake
+- ASIN review
+- Buy-list workflow
+- Margin tracking
+- PO workflow
+- FBA shipment workflow
+- Replenishment
+- VA accountability
+- Risk control
 
 ## Why It Matters
 
-More sourcing volume creates more operational complexity. If supplier follow-ups, catalog decisions, buy-list approvals, shipment status, replenishment logic, and VA handoffs live in scattered spreadsheets and memory, the operation gets harder to control.
+Sourcing scale exposes workflow gaps quickly. The scorecard shows where bottlenecks are being hidden in notes, inboxes, and memory.
 
-The scorecard helps sellers identify which workflow needs cleanup first. It does not guarantee profit or prevent Amazon account issues.
+It helps you choose the first cleanup with the highest operating leverage.
+
+## What They Get
+
+- 10-section FBA wholesale workflow diagnosis
+- A numeric score from 0 to 50
+- Lowest section as a practical cleanup target
+- A clean handoff into a workflow audit
 
 ## CTA
 
-Get the FBA Wholesale Ops Scorecard.
+- Primary: Get the FBA Wholesale Ops Scorecard
+- Secondary: Book an ops workflow audit
+
+## FAQ
+
+- Who is this for?
+  - Amazon FBA wholesale sellers with teams or VAs, especially those still using spreadsheets.
+- Is this for private-label-only sellers?
+  - No. This is built for Amazon FBA wholesale workflow systems.
+- Does it work if I am early-stage?
+  - Yes, if you are already reviewing supplier catalogs and making recurrent buy-list decisions.
+- What happens next?
+  - You score it, share your weakest section, and choose either self-fix or an audit.
+- Does this guarantee profit?
+  - No.
+- Is this account-protection advice?
+  - No.
+
+## Disclaimer
+
+No profit guarantees. No promise of Amazon account issue prevention. This is an operational workflow diagnostic for Amazon FBA wholesale sellers only.
 
 ## Confirmation Email Copy
 
@@ -45,13 +71,12 @@ Subject: Your FBA Wholesale Ops Scorecard
 
 Hi {{first_name}},
 
-Here is the FBA Wholesale Ops Scorecard:
-
+Here is the scorecard:
 {{scorecard_link}}
 
-Use it to score the ten operating areas: supplier pipeline, catalog intake, ASIN review, buy-list workflow, margin tracking, PO workflow, FBA shipment workflow, replenishment, VA accountability, and risk-control hygiene.
+Complete it once, then reply with your lowest-scoring section.
 
-After you complete it, reply with the lowest-scoring section. That is usually the best place to start a workflow audit.
+That section is usually your best first cleanup target.
 
-Important note: the scorecard does not guarantee profitable products or prevent Amazon account issues. It is a practical way to inspect workflow discipline.
-
+If useful, we can map that same area in an ops workflow audit.
+{{audit_link}}
