@@ -2,7 +2,7 @@
 
 | Date | Segment | Sequence | Sent | Opens | Replies | Positive Replies | Audits Booked | Learning |
 |---|---|---|---|---|---|---|---|---|
-| TODO | FBA wholesale operators | Scorecard | TODO | TODO | TODO | TODO | TODO | TODO |
+| [YYYY-MM-DD] | FBA wholesale operators | Scorecard | [count] | [count] | [count] | [count] | [count] | [reply pattern] |
 
 ## Reply Categories
 
@@ -13,4 +13,3 @@
 - Compliance/account-health question.
 - Vendor pitch.
 - Angry response.
-

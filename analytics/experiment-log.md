@@ -2,7 +2,7 @@
 
 | Experiment | Hypothesis | Audience | Channel | Start | End | Metric | Result | Decision |
 |---|---|---|---|---|---|---|---|---|
-| TODO | TODO | FBA wholesale sellers | TODO | TODO | TODO | TODO | TODO | TODO |
+| [experiment name] | [testable hypothesis] | FBA wholesale sellers | [Instagram/X/outbound] | [date] | [date] | [success metric] | [result] | [keep/change/stop] |
 
 ## Experiment Rules
 
@@ -10,4 +10,3 @@
 - Define success before launch.
 - Record weak or inconclusive results honestly.
 - Convert learnings into next actions.
-

@@ -26,7 +26,7 @@ Book an ops workflow audit.
 | phase   | pre-launch |
 | channel | Instagram  |
 | CTA     | scorecard  |
-| blocker | TODO       |
+| blocker | founder setup |
 +----------------+
 
 ## 7. Asset Readiness
@@ -77,6 +77,7 @@ Book an ops workflow audit.
 - Booking link not confirmed.
 - Scorecard page not manually reviewed.
 - First five posts not founder-approved.
+- Automation specs are written, but no live automation should run until credentials, permissions, and approval gates are reviewed.
 
 ## 11. Human Decisions Needed
 
@@ -105,4 +106,3 @@ Evening:
 - Record metrics.
 - Review blockers.
 - Update tomorrow's publishing status.
-

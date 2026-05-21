@@ -4,9 +4,9 @@ Track YouTube creators and videos that shape seller expectations.
 
 | Creator/channel | Audience | Video pattern | Strong hooks | Gaps | Wholesale-Ops use |
 |---|---|---|---|---|---|
-| TODO | FBA beginners | Long tutorials | Supplier sourcing | Operations lightly covered | Extract beginner objections |
-| TODO | Wholesale sellers | Case breakdowns | Catalog analysis | May skip workflow handoff | Convert into audit questions |
-| TODO | Amazon tools | Screen demos | ASIN research | Tool-first framing | Contrast tool vs operating system |
+| [channel to validate] | FBA beginners | Long tutorials | Supplier sourcing | Operations lightly covered | Extract beginner objections |
+| [channel to validate] | Wholesale sellers | Case breakdowns | Catalog analysis | May skip workflow handoff | Convert into audit questions |
+| [channel to validate] | Amazon tools | Screen demos | ASIN research | Tool-first framing | Contrast tool vs operating system |
 
 ## Research Questions
 
@@ -23,4 +23,3 @@ Summarize each research pass into:
 - Operational pain found.
 - Hook opportunity.
 - Lead magnet or workflow audit implication.
-

@@ -27,7 +27,7 @@ Capture and classify market signal daily, feeding content and QA systems.
 
 ## Process
 
-Gather signals → Normalize timestamps + source → Classify by workflow area → Extract language → Tag sentiment and confidence → Write to research outputs → Raise to Audience Research Agent
+Gather signals --> Normalize timestamps + source --> Classify by workflow area --> Extract language --> Tag sentiment and confidence --> Write to research outputs --> Raise to Audience Research Agent
 
 ## Workflow mapping
 

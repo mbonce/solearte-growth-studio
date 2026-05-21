@@ -2,15 +2,15 @@
 
 ## Week
 
-TODO
+[YYYY-MM-DD to YYYY-MM-DD]
 
 ## What Worked
 
-- TODO
+- [Asset / workflow / channel] worked because [evidence].
 
 ## What Did Not Work
 
-- TODO
+- [Asset / workflow / channel] missed because [evidence].
 
 ## Best-Performing Content
 
@@ -77,4 +77,3 @@ TODO
 - DM reply change:
 - Scorecard change:
 - Sales handoff change:
-

@@ -6,7 +6,7 @@ Wholesale-Ops is an operations command center for Amazon FBA wholesale sellers. 
 
 FBA wholesale is not just sourcing. It is operations.
 
-This repo is a growth operating shell, not an application codebase. It contains agent instructions, positioning, research capture, content drafts, outbound assets, sales assets, website copy, analytics templates, workflows, and QA guardrails. Do not add app code, dependency manifests, databases, or invented product features unless the repo scope is explicitly changed.
+This repo is a growth operating shell, not an application codebase. It contains agent instructions, positioning, research capture, content drafts, outbound assets, sales assets, website copy, analytics templates, workflows, launch operations, automation specifications, and QA guardrails. Do not add app code, dependency manifests, databases, or invented product features unless the repo scope is explicitly changed.
 
 ## Target Customer
 
@@ -24,6 +24,7 @@ When this repo mentions suppliers or distributors, it means the supplier relatio
 ## What This Repo Contains
 
 - `agents/`: Wholesale-Ops-specific agent cards and operating instructions.
+- `agent-ops/`: Launch-mode routing, activation prompts, approval rules, handoffs, and output contracts.
 - `.agents/`: Shared agent resources, including the external MarketingSkills submodule.
 - `product/`: Positioning, ICP, product modules, objections, pricing hypotheses, and pilot offer.
 - `research/`: Seller pain points, customer language, competitor notes, interview templates, and market questions.
@@ -40,6 +41,8 @@ When this repo mentions suppliers or distributors, it means the supplier relatio
 - `website/`: Homepage, landing page, demo page, scorecard page, and CRO notes.
 - `analytics/`: Growth reporting, funnel tracking, experiment logs, and learning logs.
 - `workflows/`: Weekly growth cadence and production/review workflows.
+- `automations/`: Non-credentialed automation specifications for research, QA, publishing approval, DM triage, scorecard delivery, audit booking, and reporting.
+- `launch/`: Founder-facing launch command center, readiness checklists, publishing calendar, risk register, approval board, and retrospective.
 - `templates/`: Reusable Markdown templates for agents and growth work.
 - `.github/`: Issue and pull request templates.
 

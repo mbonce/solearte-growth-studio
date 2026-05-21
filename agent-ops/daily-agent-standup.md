@@ -2,7 +2,7 @@
 
 ## Date
 
-TODO
+[YYYY-MM-DD]
 
 ## Yesterday's Outputs
 

@@ -6,7 +6,7 @@ Use this file to capture seller phrases exactly. Mark source, date, context, and
 
 | Date | Source | Phrase | Workflow Area | Notes |
 |---|---|---|---|---|
-| TODO | TODO | TODO | TODO | TODO |
+| [YYYY-MM-DD] | [DM/comment/interview/call] | "[exact phrase]" | [supplier/catalog/buy-list/replenishment/etc.] | [fit, confidence, permission notes] |
 
 ## Sample Phrases To Validate
 
@@ -24,4 +24,3 @@ Use this file to capture seller phrases exactly. Mark source, date, context, and
 - Confirm which phrases come from qualified FBA wholesale sellers.
 - Track whether language appears in interviews, DMs, comments, or sales calls.
 - Avoid publishing seller quotes without permission.
-

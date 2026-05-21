@@ -121,7 +121,7 @@ Send public-facing copy to QA before use. Send qualified prospects or sales-read
 ## First 5 Launch Tasks
 
 1. Mine Week 1 comments for workflow complaints.
-2. Update direct quotes placeholders.
+2. Update direct-quote capture fields with validated seller language.
 3. Tag beginner vs operator language.
 4. Summarize top five pains.
 5. Feed phrases to carousel hooks.

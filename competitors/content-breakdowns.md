@@ -22,11 +22,10 @@ Use this template to break down high-performing creator content.
 
 ## Example Pattern
 
-- Creator: TODO validated account.
+- Creator: [validated public account].
 - Platform: Instagram.
 - Format: carousel.
 - Hook: "Stop doing X before Y."
 - Visual structure: 1 hook slide, 4 mistake slides, 1 checklist, 1 CTA.
 - Audience pain: beginners want clarity.
 - Wholesale-Ops adaptation: "Stop moving ASINs to a buy list before decision history exists."
-

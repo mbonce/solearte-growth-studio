@@ -12,11 +12,11 @@
 
 ## Recommended Posting Times
 
-Use placeholders until account data exists:
+Use these as launch-week starting slots until account data exists:
 
-- Morning slot: TODO.
-- Midday slot: TODO.
-- Evening slot: TODO.
+- Morning slot: 8:00-10:00 local audience time.
+- Midday slot: 12:00-2:00 local audience time.
+- Evening slot: 6:00-8:00 local audience time.
 
 Initial recommendation:
 
@@ -74,4 +74,3 @@ Initial recommendation:
 - Stories: Week 2 topic poll.
 - Monitor: final audit requests.
 - Metrics review: choose Week 2 theme.
-

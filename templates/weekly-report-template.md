@@ -2,7 +2,7 @@
 
 ## Week
 
-TODO
+[YYYY-MM-DD to YYYY-MM-DD]
 
 ## Activity
 
@@ -31,4 +31,3 @@ TODO
 - Experiment:
 - Owner:
 - Success metric:
-

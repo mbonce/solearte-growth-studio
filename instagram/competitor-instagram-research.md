@@ -6,8 +6,8 @@ Track public Instagram accounts, creators, communities, and content patterns tha
 
 | Account | Audience | Content Style | Strong Hooks | Weak Spots | Wholesale-Ops Angle |
 |---|---|---|---|---|---|
-| TODO | FBA wholesale sellers | TODO | TODO | TODO | Ops discipline |
-| TODO | Amazon sellers | TODO | TODO | TODO | FBA wholesale specificity |
+| [account to validate] | FBA wholesale sellers | [reel/carousel/story] | [exact hook] | [sourcing-heavy / beginner-heavy / claims risk] | Ops discipline |
+| [account to validate] | Amazon sellers | [reel/carousel/story] | [exact hook] | [generic ecommerce / tool-first / income-claim risk] | FBA wholesale specificity |
 
 ## What To Capture
 
@@ -32,4 +32,3 @@ Track public Instagram accounts, creators, communities, and content patterns tha
 - Who talks about operations after sourcing?
 - Which posts produce comments from real FBA wholesale sellers?
 - What language do sellers use when complaining about spreadsheets, VAs, catalogs, and buy lists?
-

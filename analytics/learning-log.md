@@ -2,25 +2,24 @@
 
 ## Validated Learnings
 
-- TODO
+- [Learning] - [Evidence source] - [Confidence]
 
 ## Open Questions
 
-- TODO
+- [Question] - [Why it matters] - [Owner]
 
 ## Seller Language To Reuse
 
-- TODO
+- "[Exact seller phrase]" - [Source] - [Workflow area]
 
 ## Messaging To Avoid
 
-- TODO
+- [Phrase or angle to avoid] - [Reason] - [Replacement]
 
 ## Product Feedback
 
-- TODO
+- [Feedback] - [Source] - [Product/module implication]
 
 ## Next Actions
 
-- TODO
-
+- [Action] - [Owner] - [Due date]

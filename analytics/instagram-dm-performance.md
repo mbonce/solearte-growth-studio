@@ -2,7 +2,7 @@
 
 | Date | Class | Count | Replies Drafted | Replies Approved | Scorecards Sent | Audits Booked | Escalations |
 |---|---|---|---|---|---|---|---|
-| TODO | Scorecard request | TODO | TODO | TODO | TODO | TODO | TODO |
+| [YYYY-MM-DD] | Scorecard request | [count] | [count] | [count] | [count] | [count] | [risk classes] |
 
 ## Conversation Classes
 
@@ -16,4 +16,3 @@
 - Support issue.
 - Spam/vendor pitch.
 - Ambiguous.
-

@@ -16,7 +16,7 @@ Create one daily summary of launch activity and signal shifts.
 - audits booked
 - objections heard
 - top pain points
-- tomorrow’s actions
+- tomorrow's actions
 
 ## Data sources
 

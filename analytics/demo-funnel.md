@@ -2,12 +2,12 @@
 
 | Stage | Count | Source | Conversion Notes | Blockers |
 |---|---|---|---|---|
-| Scorecard download | TODO | TODO | TODO | TODO |
-| Workflow audit booked | TODO | TODO | TODO | TODO |
-| Workflow audit completed | TODO | TODO | TODO | TODO |
-| Demo completed | TODO | TODO | TODO | TODO |
-| Pilot proposed | TODO | TODO | TODO | TODO |
-| Pilot started | TODO | TODO | TODO | TODO |
+| Scorecard download | [count] | Instagram / DM / outbound | [quality of fit] | [blocker] |
+| Workflow audit booked | [count] | Instagram / DM / outbound | [pain area] | [blocker] |
+| Workflow audit completed | [count] | booking page / manual | [fit notes] | [blocker] |
+| Demo completed | [count] | workflow audit | [objections] | [blocker] |
+| Pilot proposed | [count] | demo / audit | [scope] | [blocker] |
+| Pilot started | [count] | proposal | [success criteria] | [blocker] |
 
 ## Qualitative Notes
 
@@ -15,4 +15,3 @@
 - Most common objection:
 - Best-fit segment:
 - Poor-fit segment:
-

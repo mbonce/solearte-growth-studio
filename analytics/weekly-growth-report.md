@@ -2,7 +2,7 @@
 
 ## Week Of
 
-TODO
+[YYYY-MM-DD to YYYY-MM-DD]
 
 ## Content Published
 

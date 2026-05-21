@@ -2,7 +2,7 @@
 
 | Date | Channel | Asset | Pillar | Hook | CTA | Saves/Shares | Replies/DMs | Learning |
 |---|---|---|---|---|---|---|---|---|
-| TODO | Instagram | Carousel | TODO | TODO | Scorecard | TODO | TODO | TODO |
+| [YYYY-MM-DD] | Instagram | [carousel/reel/story] | [pillar] | [hook] | Scorecard / workflow audit | [count] | [count + quality] | [operator insight] |
 
 ## Notes
 

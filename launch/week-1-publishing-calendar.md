@@ -12,6 +12,5 @@
 | Thursday | VA workflow gaps | Stories | Does a VA help review catalogs or ASINs? | DM VA | Instagram Content Agent | Needs QA | Needed | Not started |
 | Friday | VA process | Carousel | Hiring a VA does not fix a broken FBA wholesale process. | Scorecard | Instagram Content Agent | Needs QA | Needed | Not started |
 | Friday | Replenishment memory | Stories | Do you reorder from a system or from memory? | DM REORDER | Instagram Content Agent | Needs QA | Needed | Not started |
-| Saturday | Pain-pattern meme | Meme | TODO from Week 1 pain pattern | Scorecard | Instagram Content Agent | Needs QA | Needed | Optional |
+| Saturday | Pain-pattern meme | Meme | Your messiest workflow is probably showing up in your buy list. | Scorecard | Instagram Content Agent | Needs QA | Needed | Optional |
 | Sunday | Week 2 poll | Story | Which workflow should we cover next? | Reply | Audience Research Agent | Needs QA | Needed | Optional |
-

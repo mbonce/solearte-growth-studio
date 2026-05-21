@@ -6,7 +6,7 @@ Copy a template into the relevant folder, fill it with FBA wholesale-specific co
 
 ## Template Rules
 
-- Replace every TODO before using externally.
+- Replace every bracketed field before using externally.
 - Add the workflow area and target seller.
 - Mark unsupported claims as hypotheses.
 - Keep sensitive pricing, compliance, account-health, and profit questions out of auto-generated copy.
