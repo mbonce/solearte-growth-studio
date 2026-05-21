@@ -1,0 +1,51 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Node modules
+node_modules/
+
+# Build artifacts
+dist/
+build/
+out/
+coverage/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+
+# Local secrets
+secrets/
+*.pem
+*.key
+*.crt
+local-secrets.*
+
