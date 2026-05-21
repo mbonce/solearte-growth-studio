@@ -1,4 +1,4 @@
-# Week 1 Instagram Launch
+# Week 1 Instagram Launch Campaign
 
 ## Campaign Theme
 
@@ -6,134 +6,321 @@ FBA wholesale is not just sourcing. It is operations.
 
 ## Target
 
-Amazon FBA wholesale sellers with VAs or sourcing teams who are managing supplier catalogs and buy-list decisions through spreadsheets.
+Amazon FBA wholesale sellers with VAs or sourcing teams managing supplier catalogs and buy-list decisions through spreadsheets.
 
-## Goals
+## Primary CTA
 
-- Establish the operations thesis.
-- Drive saves and shares from practical carousel content.
-- Trigger DMs about spreadsheet, catalog, VA, and buy-list pain.
-- Route qualified sellers to the FBA Wholesale Ops Scorecard.
+Get the FBA Wholesale Ops Scorecard.
 
-## 3 Carousel Posts
+## Campaign Goal
 
-### Carousel 1: Your Spreadsheet Is Doing Too Many Jobs
+Make Wholesale-Ops feel like the clearest Instagram-native operator voice for FBA wholesale sellers who know their sourcing volume is outgrowing their spreadsheet discipline.
 
-- Slide 1: Your FBA wholesale spreadsheet is doing too many jobs.
-- Slide 2: Supplier CRM.
-- Slide 3: Catalog intake.
-- Slide 4: ASIN review.
-- Slide 5: Buy-list approval.
-- Slide 6: PO, shipment, and replenishment notes.
-- Slide 7: CTA: Comment "scorecard" for the FBA Wholesale Ops Scorecard.
+## Carousel 1: Your FBA Wholesale Spreadsheet Is Becoming Technical Debt
 
-### Carousel 2: Catalog Review Is Not Done Until Decisions Are Documented
+### Slide Copy
 
-- Slide 1: A supplier catalog is not analyzed until the decisions are documented.
-- Slide 2: Uploaded is not reviewed.
-- Slide 3: Matched is not approved.
-- Slide 4: Approved needs assumptions.
-- Slide 5: Rejected needs a reason.
-- Slide 6: Paused needs a revisit date.
-- Slide 7: CTA: DM "OPS" if your catalog review is still spreadsheet chaos.
+1. Your FBA wholesale spreadsheet is becoming technical debt.
+2. At first, it was simple: suppliers, catalogs, ASINs, buy list.
+3. Then the tabs multiplied: VA notes, PO status, FBA shipments, replenishment, risk flags.
+4. Now one row can mean five different things depending on who updated it.
+5. That is not just messy. It is an operating risk.
+6. The issue is not Google Sheets. The issue is no enforced workflow.
+7. Every item needs owner, status, decision, assumptions, and next action.
+8. FBA wholesale is not just sourcing. It is operations.
+9. Get the FBA Wholesale Ops Scorecard.
 
-### Carousel 3: Your VA Should Not Be The Operating System
+### Caption
 
-- Slide 1: Your VA should not be the operating system.
-- Slide 2: VA output needs review states.
-- Slide 3: Found.
-- Slide 4: Reviewed.
-- Slide 5: Approved or rejected.
-- Slide 6: Buy-list-ready.
-- Slide 7: CTA: Save this before assigning the next supplier catalog.
+Your spreadsheet probably did its job early.
 
-## 2 Reel Scripts
+The problem starts when it becomes the supplier CRM, catalog intake queue, ASIN review log, buy-list approval system, PO tracker, shipment note pad, replenishment memory, and VA task board at the same time.
 
-### Reel 1: FBA Wholesale Is Not Just Sourcing
+That is when the workflow gets fragile.
 
-- Hook: FBA wholesale is not just sourcing.
-- Pain: you can find products and still lose control of supplier follow-ups, catalog review, buy lists, shipments, and replenishment.
-- Principle: the sellers who scale build operating discipline.
-- Fix: document status, owner, decision, and next action.
-- CTA: Comment "scorecard" for the FBA Wholesale Ops Scorecard.
+The scorecard helps you find which part of the operation is weakest before adding more sourcing volume.
 
-### Reel 2: The Buy List Problem
+### CTA
 
-- Hook: If your buy list cannot explain why an ASIN made it, it is not ready.
-- Pain: too many sellers move products from analysis to buy list without decision history.
-- Principle: buy-list quality control protects the workflow.
-- Fix: require owner, assumptions, risk notes, and approval state.
-- CTA: DM "BUY LIST" if this is messy in your operation.
+Comment "scorecard" or DM "OPS" for the FBA Wholesale Ops Scorecard.
 
-## 5 Story Sequences
+### Suggested Visual Layout
 
-### Story 1: Workflow Poll
+- Dark-mode spreadsheet screenshot style.
+- Use red callouts around unclear columns: status, owner, reason, next step.
+- Slide 7 becomes a checklist layout with five required fields.
+- Final slide uses a simple workflow line: Supplier -> Catalog -> ASIN -> Buy List -> PO -> FBA Shipment -> Replenishment.
 
-- Slide 1: "Which FBA wholesale workflow is messiest right now?"
-- Slide 2 poll: "Catalog review / Buy list"
-- Slide 3 poll: "Supplier follow-up / Replenishment"
-- Slide 4 CTA: "Reply with yours and I will send the scorecard."
+### DM Prompt
 
-### Story 2: Catalog Quiz
+"Which tab is most out of control right now: suppliers, catalogs, buy list, shipments, or replenishment?"
 
-- Slide 1: "A catalog is analyzed when..."
-- Slide 2 quiz: "Uploaded / ASINs matched / decisions documented"
-- Slide 3: "Decision history is the missing piece."
-- Slide 4 CTA: "DM OPS for the scorecard."
+## Carousel 2: A Supplier Catalog Is Not an Opportunity Until It Has Workflow
 
-### Story 3: VA Accountability
+### Slide Copy
 
-- Slide 1: "Does your VA review supplier catalogs?"
-- Slide 2 poll: "Yes / Not yet"
-- Slide 3: "Can you audit the decisions without asking them?"
-- Slide 4 CTA: "Reply VA if this is painful."
+1. A supplier catalog is not an opportunity until it has workflow.
+2. A catalog sitting in a folder is just a file.
+3. A catalog matched to ASINs is only partly reviewed.
+4. An ASIN with no decision history is future rework.
+5. A buy-list item with no approval logic is a guess.
+6. Your team needs review states: received, matched, reviewed, approved, rejected, paused.
+7. Every decision should explain cost assumptions, risk notes, owner, and next action.
+8. Catalog analysis is not done when the sheet is filled out. It is done when the workflow is clear.
+9. Get the FBA Wholesale Ops Scorecard.
 
-### Story 4: Margin Check
+### Caption
 
-- Slide 1: "The first ROI estimate is not the final margin story."
-- Slide 2: "Prep. Inbound shipping. Storage. Returns. Repricing."
-- Slide 3 poll: "Do you update assumptions before replenishment? Yes / Not cleanly"
-- Slide 4 CTA: "Comment scorecard."
+Catalog analysis breaks when the team treats "matched" as "managed."
 
-### Story 5: Seller To Operator
+For FBA wholesale sellers with VAs or sourcing teams, the catalog-to-buy-list handoff needs more than rows. It needs review states, decision history, and accountability.
 
-- Slide 1: "At first, the founder remembers everything."
-- Slide 2: "Then suppliers, catalogs, ASINs, POs, shipments, and VAs multiply."
-- Slide 3: "That is the shift from seller to operator."
-- Slide 4 CTA: "Book an ops workflow audit if this is where you are."
+That is the difference between more sourcing volume and a cleaner operation.
 
-## 2 Single-Image Posts
+### CTA
 
-### Single Image 1
+DM "CATALOG" for the scorecard.
 
-Text: "A buy list without decision history is just another spreadsheet."
+### Suggested Visual Layout
 
-Caption: Explain the four fields every buy-list item should carry: owner, reason, assumptions, risk notes.
+- Whiteboard-style flow: Catalog Received -> ASIN Match -> Review -> Decision -> Buy List.
+- Use status chips for received, matched, reviewed, approved, rejected, paused.
+- Use one slide with a "bad handoff" column and a "clean handoff" column.
 
-### Single Image 2
+### DM Prompt
 
-Text: "Your VA should run the workflow, not be the workflow."
+"When a catalog gets reviewed, can you see why each ASIN was approved, rejected, or paused?"
 
-Caption: Explain review states and approval rules for catalog analysis.
+## Carousel 3: Hiring a VA Does Not Fix a Broken FBA Wholesale Process
 
-## 10 DM Engagement Replies
+### Slide Copy
 
-1. "Are you currently selling through Amazon FBA wholesale, or still setting up the model?"
-2. "Which workflow is messiest right now: supplier follow-up, catalog review, buy list, shipments, or replenishment?"
-3. "Do you use VAs or a sourcing team for catalog review?"
-4. "If you want, I can send the FBA Wholesale Ops Scorecard. It helps identify the weakest workflow area."
-5. "That sounds like a catalog-to-buy-list handoff problem. How are decisions documented today?"
-6. "Do you have a review state between ASIN analysis and buy-list approval?"
-7. "Replenishment from memory gets risky fast. Are updated costs and stock levels reviewed before reorder?"
-8. "I cannot advise on account-health specifics here, but the scorecard includes risk-control workflow hygiene."
-9. "If the workflow is active and messy, a short ops audit may be useful."
-10. "The scorecard is probably the best first step. Want that link?"
+1. Hiring a VA does not fix a broken FBA wholesale process.
+2. It usually exposes it.
+3. If the workflow is unclear, the VA has to guess what "good" looks like.
+4. If review states are missing, the founder still has to inspect everything manually.
+5. If decision history is private, the buy list becomes hard to trust.
+6. A VA needs a process: intake, review, exception, approval, handoff.
+7. The operator needs visibility: owner, status, reason, blocker, next action.
+8. Delegation only scales when the workflow is visible.
+9. Get the FBA Wholesale Ops Scorecard.
+
+### Caption
+
+VAs can be a huge advantage in FBA wholesale.
+
+But a VA should run the workflow, not be the workflow.
+
+If catalog review, ASIN decisions, buy-list approval, and replenishment notes live in private messages or scattered tabs, delegation creates more inspection work for the operator.
+
+The scorecard helps find the handoffs that need cleanup first.
+
+### CTA
+
+Comment "VA" if your VA workflow needs a cleaner review process.
+
+### Suggested Visual Layout
+
+- Split screen: "VA as memory" vs "VA inside workflow."
+- Use checklist cards for intake, review, exception, approval, handoff.
+- Show a final operator dashboard-style view with owner/status/reason/blocker/next action.
+
+### DM Prompt
+
+"Does your VA review supplier catalogs, and can you audit their decisions without asking for context?"
+
+## Reel 1: FBA Wholesale Is Not Just Sourcing
+
+### Hook
+
+FBA wholesale is not just sourcing.
+
+### On-Screen Text
+
+- "Sourcing volume without ops discipline creates chaos."
+- "Suppliers -> Catalogs -> ASINs -> Buy Lists -> POs -> FBA Shipments -> Replenishment"
+- "That is an operating system problem."
+
+### Voiceover
+
+FBA wholesale sellers talk a lot about finding more products.
+
+But once sourcing starts working, the real problem becomes operations.
+
+Who followed up with the supplier? Which catalog was reviewed? Why did this ASIN make the buy list? What assumptions changed before replenishment? Where are the risk notes?
+
+If all of that lives in spreadsheets, Slack, Gmail, VA notes, and memory, more sourcing volume just creates more mess.
+
+FBA wholesale is not just sourcing. It is operations.
+
+### Shot Direction
+
+- Shot 1: founder/operator speaking to camera.
+- Shot 2: quick screen pan over a messy spreadsheet mockup.
+- Shot 3: overlay workflow diagram.
+- Shot 4: close on "owner / status / decision / next action."
+- Shot 5: CTA screen for scorecard.
+
+### Caption
+
+More sourcing volume does not automatically create a better FBA wholesale business.
+
+It creates more suppliers, catalogs, ASIN decisions, buy-list handoffs, POs, shipments, replenishment decisions, and VA work to manage.
+
+Start by scoring the operation.
+
+### CTA
+
+Comment "scorecard" for the FBA Wholesale Ops Scorecard.
+
+### Suggested Length
+
+35-45 seconds.
+
+## Reel 2: The Catalog-To-Buy-List Handoff Is Where Chaos Starts
+
+### Hook
+
+The catalog-to-buy-list handoff is where FBA wholesale chaos starts.
+
+### On-Screen Text
+
+- "Matched does not mean approved."
+- "Approved does not mean ready to buy."
+- "Buy-list items need decision history."
+
+### Voiceover
+
+Here is where a lot of FBA wholesale teams lose control.
+
+A supplier catalog gets uploaded. A VA matches ASINs. Some products look interesting. A few rows make it to a buy list.
+
+But two weeks later, nobody can explain why one ASIN was approved, why another was rejected, or what assumptions mattered.
+
+That is not a product research issue. That is a workflow issue.
+
+The handoff needs status, owner, decision reason, margin assumptions, risk notes, and next action.
+
+### Shot Direction
+
+- Shot 1: point to "catalog" on a whiteboard.
+- Shot 2: draw arrow to "ASIN review."
+- Shot 3: draw arrow to "buy list" and pause.
+- Shot 4: add missing labels: owner, decision, assumptions, risk.
+- Shot 5: CTA screen.
+
+### Caption
+
+A buy list should not be a mystery file.
+
+If the team cannot explain why an ASIN made it from catalog review to buy list, the operation is creating rework and risk.
+
+### CTA
+
+DM "BUY LIST" for the scorecard.
+
+### Suggested Length
+
+30-40 seconds.
+
+## Story Sequence 1: Supplier Follow-Up Chaos
+
+1. Frame 1: "Where do supplier follow-ups live right now?"
+2. Frame 2: Poll sticker: "One tracker / Gmail + memory"
+3. Frame 3: "If status, owner, and next follow-up are unclear, the supplier pipeline leaks."
+4. Frame 4: Question sticker: "Which supplier status gets lost most often?"
+5. Frame 5 CTA: "DM OPS for the FBA Wholesale Ops Scorecard."
+
+## Story Sequence 2: Catalog Review Backlog
+
+1. Frame 1: "How many supplier catalogs are waiting for review?"
+2. Frame 2: Poll sticker: "0-2 / Too many"
+3. Frame 3: "Backlog is not just volume. It is unclear owner, status, and decision rules."
+4. Frame 4 CTA: "Reply CATALOG if this is your bottleneck."
+
+## Story Sequence 3: Buy-List Approval Confusion
+
+1. Frame 1: "Can every buy-list item explain why it made the list?"
+2. Frame 2: Poll sticker: "Yes / Not cleanly"
+3. Frame 3: "A buy list needs decision history, not just ASINs."
+4. Frame 4: Question sticker: "Who approves buys in your workflow?"
+5. Frame 5 CTA: "Comment scorecard for the checklist."
+
+## Story Sequence 4: VA Workflow Gaps
+
+1. Frame 1: "Does a VA help review catalogs or ASINs?"
+2. Frame 2: Poll sticker: "Yes / Not yet"
+3. Frame 3: "Can you audit the VA's decision without asking for context?"
+4. Frame 4: Question sticker: "What is the hardest VA handoff?"
+5. Frame 5 CTA: "DM VA if you want the scorecard."
+
+## Story Sequence 5: Replenishment From Memory
+
+1. Frame 1: "Do you reorder from a system or from memory?"
+2. Frame 2: Poll sticker: "System / Memory"
+3. Frame 3: "Replenishment needs updated cost, velocity, stock, margin assumptions, and risk notes."
+4. Frame 4 CTA: "DM REORDER for the scorecard."
+
+## 10 Instagram DM Engagement Replies
+
+### "Send scorecard."
+
+"Absolutely. Are you currently doing FBA wholesale with supplier catalogs or buy lists? If yes, I will send the scorecard."
+
+### "What is this?"
+
+"Wholesale-Ops is an operations system for FBA wholesale sellers managing suppliers, catalogs, ASIN decisions, buy lists, shipments, replenishment, and VA workflow."
+
+### "I use sheets."
+
+"That is normal. The scorecard is built for sellers using sheets. It helps identify where the workflow is getting fragile."
+
+### "My VA handles this."
+
+"That can work if the review states are clear. The question is whether you can audit the VA's decisions without asking for extra context."
+
+### "I'm just starting."
+
+"If you do not have active supplier outreach or catalogs yet, you may be early. The scorecard is most useful once catalogs, buy lists, or VA work are in motion."
+
+### "Does this find products?"
+
+"No. It is not a magic product finder. It helps organize the workflow around suppliers, catalogs, ASIN decisions, buy lists, shipments, replenishment, and margins."
+
+### "Does this guarantee profit?"
+
+"No. Nothing here guarantees profit. The scorecard helps you inspect workflow and decision discipline, not promise outcomes."
+
+### "Can this help with account health?"
+
+"It can help organize risk-control notes and documentation hygiene, but it does not prevent account issues or replace Amazon policy/compliance advice. I would route specifics to human review."
+
+### "How much is it?"
+
+"Pricing is still being validated through pilot-first conversations. I can route this for human follow-up if you want details."
+
+### "Can I see a demo?"
+
+"Yes. Best next step is a workflow audit first so the demo maps to your actual supplier, catalog, buy-list, shipment, or replenishment process. I can route that for human follow-up."
+
+## 10 Meme Angles
+
+1. The supplier catalog called "quick review" with 4,000 rows.
+2. The buy list where every product is "approved" but nobody knows why.
+3. The founder asking the VA for context because the sheet has none.
+4. The supplier follow-up hiding in a Gmail thread from three weeks ago.
+5. The ASIN rejected twice because nobody documented the first rejection.
+6. The reorder decision powered by memory and hope.
+7. The spreadsheet tab named "final final real buy list."
+8. The ROI estimate before prep, inbound shipping, storage, returns, and repricing.
+9. The PO, invoice, and shipment status living in three different places.
+10. The operator realizing the VA did not break the process; the process was never defined.
 
 ## 5 Scorecard CTAs
 
-1. Comment "scorecard" and I will send the FBA Wholesale Ops Scorecard.
-2. DM "OPS" if your catalog-to-buy-list workflow is still mostly spreadsheets.
-3. Get the scorecard before reviewing your next supplier catalog.
-4. Use the scorecard to find the weakest part of your FBA wholesale operation.
-5. If suppliers, catalogs, buy lists, and replenishment feel scattered, start with the scorecard.
+1. Get the FBA Wholesale Ops Scorecard.
+2. Comment "scorecard" and I will send the checklist.
+3. DM "OPS" if suppliers, catalogs, buy lists, and replenishment are still scattered.
+4. Use the scorecard before reviewing your next supplier catalog.
+5. Start with the scorecard if your FBA wholesale workflow depends on spreadsheets and memory.
 

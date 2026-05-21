@@ -1,54 +1,64 @@
 # Carousel Hooks
 
-Use carousel hooks for high-save posts. The first slide should name a painful FBA wholesale workflow problem in plain language.
+Carousels are the primary Week 1 format because the campaign should optimize for saves, shares, DMs, and scorecard clicks.
 
-## Starter Hooks
+## Week 1 Hero Carousels
 
-1. Your FBA wholesale spreadsheet is doing too many jobs.
-2. A supplier catalog is not analyzed until the decisions are documented.
-3. Your VA should not be the operating system.
-4. The buy list needs decision history, not just ASINs.
-5. Replenishment is where FBA wholesale becomes operations.
-6. More sourcing volume will expose weak workflow.
-7. If you cannot explain why an ASIN was rejected, you will analyze it again.
-8. The first ROI estimate is not the final margin story.
-9. Supplier follow-ups should not live in memory.
-10. Account-risk notes should travel with the product decision.
-11. The problem is not Google Sheets. The problem is no workflow control.
-12. Catalog chaos becomes buy-list chaos.
-13. Your team needs review states, not more Slack messages.
-14. Every buy-list item should answer these five questions.
-15. FBA wholesale is not just sourcing. It is operations.
+### 1. Your FBA Wholesale Spreadsheet Is Becoming Technical Debt
 
-## Carousel Structures
+Use when the post is about spreadsheet chaos, operating debt, and why sourcing volume makes messy systems worse.
 
-### Mistakes
+Strong first-slide variants:
 
-1. Hook.
-2. Mistake 1.
-3. Mistake 2.
-4. Mistake 3.
-5. Better workflow.
-6. Checklist.
-7. CTA.
+- Your FBA wholesale spreadsheet is becoming technical debt.
+- That spreadsheet was fine until it became the whole operation.
+- Your buy list is not the problem. The workflow behind it is.
 
-### Workflow Map
+### 2. A Supplier Catalog Is Not an Opportunity Until It Has Workflow
 
-1. Hook.
-2. Current messy flow.
-3. Clean flow.
-4. Decision fields.
-5. Owner and status.
-6. Review points.
-7. CTA.
+Use when the post is about catalog intake, ASIN review, decision history, and buy-list handoff.
 
-### Saveable Checklist
+Strong first-slide variants:
 
-1. Hook.
-2. Supplier checklist.
-3. Catalog checklist.
-4. ASIN decision checklist.
-5. Buy-list checklist.
-6. Replenishment checklist.
-7. Scorecard CTA.
+- A supplier catalog is not an opportunity until it has workflow.
+- Matched ASINs are not the same as approved buys.
+- Catalog review is not done when the sheet is filled out.
+
+### 3. Hiring a VA Does Not Fix a Broken FBA Wholesale Process
+
+Use when the post is about delegation, review states, approval rules, and operator visibility.
+
+Strong first-slide variants:
+
+- Hiring a VA does not fix a broken FBA wholesale process.
+- Your VA should not be the operating system.
+- Delegation without workflow just creates hidden rework.
+
+## Additional Saveable Hooks
+
+1. Every buy-list item should answer these five questions.
+2. Supplier follow-up is not a memory game.
+3. Replenishment from memory is a warning sign.
+4. The first ROI estimate is not the final margin story.
+5. Catalog backlog is usually a workflow problem.
+6. Your ASIN decision history should survive a team handoff.
+7. The second buy is where wholesale becomes operations.
+8. More sourcing volume will not fix broken handoffs.
+9. Account-risk notes should travel with the product decision.
+10. Your VA needs review states, not vague instructions.
+
+## Carousel Layout Rules
+
+- Slide 1: blunt operator pain.
+- Slides 2-3: explain the current messy workflow.
+- Slides 4-6: name the hidden operational cost.
+- Slides 7-8: give the better operating principle.
+- Final slide: scorecard CTA or DM prompt.
+
+## Visual Rules
+
+- Dark-mode command center feel.
+- Spreadsheet callouts, workflow arrows, checklist layouts.
+- One idea per slide.
+- No guru aesthetics, luxury imagery, or fake income screenshots.
 

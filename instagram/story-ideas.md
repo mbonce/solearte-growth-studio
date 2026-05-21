@@ -1,49 +1,49 @@
 # Story Ideas
 
-Stories should trigger replies, poll responses, and lightweight qualification. Keep them practical and conversational.
+Stories should trigger replies and lightweight qualification. Use them to find the seller's messiest workflow before pushing a scorecard or audit.
 
-## Story Sequences
+## Sequence 1: Supplier Follow-Up Chaos
 
-### 1. Spreadsheet Chaos Poll
+1. "Where do supplier follow-ups live right now?"
+2. Poll sticker: "One tracker / Gmail + memory"
+3. "If status, owner, and next follow-up are unclear, the supplier pipeline leaks."
+4. Question sticker: "Which supplier status gets lost most often?"
+5. CTA: "DM OPS for the FBA Wholesale Ops Scorecard."
 
-- Slide 1: "How many sheets run your FBA wholesale operation?"
-- Slide 2 poll: "1-2 / Too many"
-- Slide 3: "Which one is messiest: suppliers, catalogs, buy lists, shipments, replenishment?"
-- Slide 4 CTA: "Reply with the messiest one and I will send the scorecard."
+## Sequence 2: Catalog Review Backlog
 
-### 2. Catalog Review Quiz
+1. "How many supplier catalogs are waiting for review?"
+2. Poll sticker: "0-2 / Too many"
+3. "Backlog is not just volume. It is unclear owner, status, and decision rules."
+4. CTA: "Reply CATALOG if this is your bottleneck."
 
-- Slide 1: "A catalog is analyzed when..."
-- Slide 2 quiz: "Uploaded / ASINs matched / decisions documented"
-- Slide 3: "The answer is decisions documented."
-- Slide 4 CTA: "DM OPS for the catalog workflow section of the scorecard."
+## Sequence 3: Buy-List Approval Confusion
 
-### 3. VA Accountability
+1. "Can every buy-list item explain why it made the list?"
+2. Poll sticker: "Yes / Not cleanly"
+3. "A buy list needs decision history, not just ASINs."
+4. Question sticker: "Who approves buys in your workflow?"
+5. CTA: "Comment scorecard for the checklist."
 
-- Slide 1: "If your VA reviews supplier catalogs, can you audit the decisions?"
-- Slide 2 poll: "Yes / Not cleanly"
-- Slide 3: "The issue is usually review states, not work ethic."
-- Slide 4 CTA: "Reply VA if this is the bottleneck."
+## Sequence 4: VA Workflow Gaps
 
-### 4. Buy-List Review
+1. "Does a VA help review catalogs or ASINs?"
+2. Poll sticker: "Yes / Not yet"
+3. "Can you audit the VA's decision without asking for context?"
+4. Question sticker: "What is the hardest VA handoff?"
+5. CTA: "DM VA if you want the scorecard."
 
-- Slide 1: "Every buy-list item should explain why it made the list."
-- Slide 2: "Who approved it?"
-- Slide 3: "What assumptions mattered?"
-- Slide 4 CTA: "Save the next carousel: buy-list quality checklist."
+## Sequence 5: Replenishment From Memory
 
-### 5. Replenishment Check
+1. "Do you reorder from a system or from memory?"
+2. Poll sticker: "System / Memory"
+3. "Replenishment needs updated cost, velocity, stock, margin assumptions, and risk notes."
+4. CTA: "DM REORDER for the scorecard."
 
-- Slide 1: "Do you reorder from a system or from memory?"
-- Slide 2 poll: "System / Memory"
-- Slide 3: "Replenishment needs updated cost, velocity, stock, and risk context."
-- Slide 4 CTA: "Comment scorecard if this is still manual."
+## Daily Story Rules
 
-## Daily Prompts
-
-- "What is the messiest tab in your wholesale sheet?"
-- "Which workflow breaks first when catalog volume goes up?"
-- "Do you use a VA for catalog review?"
-- "What is harder: finding ASINs or managing the buy list?"
-- "What do you wish Seller Central made easier?"
+- Use one poll or question sticker per sequence.
+- Keep each frame to one idea.
+- Route account-health and pricing replies to human review.
+- Log useful phrases in `research/customer-language.md`.
 

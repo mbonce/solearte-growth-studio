@@ -1,52 +1,74 @@
 # Engagement Replies
 
-Use replies to start useful conversations, not to win comment threads.
+Keep replies short, human, and safe. Do not promise profit, Amazon compliance outcomes, or account protection.
+
+## Instagram DM Replies
+
+### "Send scorecard."
+
+"Absolutely. Are you currently doing FBA wholesale with supplier catalogs or buy lists? If yes, I will send the scorecard."
+
+### "What is this?"
+
+"Wholesale-Ops is an operations system for FBA wholesale sellers managing suppliers, catalogs, ASIN decisions, buy lists, shipments, replenishment, and VA workflow."
+
+### "I use sheets."
+
+"That is normal. The scorecard is built for sellers using sheets. It helps identify where the workflow is getting fragile."
+
+### "My VA handles this."
+
+"That can work if the review states are clear. The question is whether you can audit the VA's decisions without asking for extra context."
+
+### "I'm just starting."
+
+"If you do not have active supplier outreach or catalogs yet, you may be early. The scorecard is most useful once catalogs, buy lists, or VA work are in motion."
+
+### "Does this find products?"
+
+"No. It is not a magic product finder. It helps organize the workflow around suppliers, catalogs, ASIN decisions, buy lists, shipments, replenishment, and margins."
+
+### "Does this guarantee profit?"
+
+"No. Nothing here guarantees profit. The scorecard helps you inspect workflow and decision discipline, not promise outcomes."
+
+### "Can this help with account health?"
+
+"It can help organize risk-control notes and documentation hygiene, but it does not prevent account issues or replace Amazon policy/compliance advice. I would route specifics to human review."
+
+### "How much is it?"
+
+"Pricing is still being validated through pilot-first conversations. I can route this for human follow-up if you want details."
+
+### "Can I see a demo?"
+
+"Yes. Best next step is a workflow audit first so the demo maps to your actual supplier, catalog, buy-list, shipment, or replenishment process. I can route that for human follow-up."
 
 ## Comment Replies
 
 ### Spreadsheet Chaos
 
-"That is usually the first place the workflow starts showing stress. Which tab is the messiest right now: suppliers, catalog review, buy list, or replenishment?"
-
-### VA Workflow
-
-"Exactly. VA help is powerful, but the review states have to be visible. Otherwise the founder still has to inspect everything manually."
+"That is usually where the operating debt shows up first. Which tab is messiest right now?"
 
 ### Catalog Review
 
-"Catalog review without decision history gets expensive fast. The key question is: can someone explain why each ASIN was approved, rejected, or paused?"
+"Matched ASINs are not enough. The decision history is what makes the workflow useful."
 
-### Margin Erosion
+### VA Workflow
 
-"Right. The first ROI estimate is only one checkpoint. Prep, inbound shipping, storage, returns, and repricing can all change the decision."
+"Exactly. The VA can do the work, but the process needs review states the operator can audit."
 
 ### Replenishment
 
-"Replenishment is where the system gets tested. The reorder should use updated assumptions, not just memory."
+"The second buy needs updated assumptions. Memory is not a replenishment system."
 
-## DM Replies
+## Escalate Before Replying To
 
-### Scorecard Request
-
-"Yep. I can send it. Quick context first: are you currently selling through Amazon FBA wholesale, and are you reviewing supplier catalogs or buy lists?"
-
-### Workflow Pain
-
-"That sounds like an ops workflow issue, not just a sourcing issue. Which part is most painful right now: supplier follow-up, catalog review, buy-list approval, shipments, or replenishment?"
-
-### Qualified Prospect
-
-"This is exactly the kind of workflow the scorecard is meant to diagnose. Want the scorecard first, or do you want to map the workflow on a quick audit?"
-
-### Beginner Seller
-
-"The scorecard may be more useful once you have active supplier outreach or catalogs to manage. If you are still pre-wholesale, focus there first."
-
-### Pricing Question
-
-"Pricing is still being validated through pilot-first conversations. I can explain the pilot scope, but I do not want to invent a fixed plan that is not finalized."
-
-## Reply Boundaries
-
-Escalate before replying to account-health, IP complaint, suspension, legal/compliance, pricing, refund, billing, integration, product promise, or profit guarantee questions.
+- Pricing details.
+- Account-health specifics.
+- IP complaints.
+- Suspensions.
+- Legal/compliance questions.
+- Custom product promises.
+- Real customer screenshots or data.
 
