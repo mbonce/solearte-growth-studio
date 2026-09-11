@@ -1,39 +1,31 @@
 # Newsletter Drafts
 
-## Template
+Small list, sent when there is something real to say. Cadence: monthly or on events only.
 
-- Subject:
-- Opening pain:
-- Operator lesson:
-- Practical checklist:
-- Example:
-- CTA:
+## 1. Welcome
 
-## Draft 1: The Spreadsheet Is Not The Strategy
+Subject: Carry your colors
 
-Subject: Your FBA wholesale spreadsheet is doing too many jobs
+"Thank you for being here. I'm SOLEARTé, a Denver contemporary artist. I paint saturated portraits, take a small number of commissions, and make a wearable-art collection called Carry Your Colors, where 15% of proceeds go to Rocky Mountain Immigrant Advocacy Network.
 
-Most wholesale sellers do not start with an operations problem. They start with a simple sheet that works.
+This list gets: new work first, commission openings, and where I'll be in Denver. Nothing else.
 
-Then supplier outreach grows. Catalogs arrive. ASIN review gets delegated. Buy lists need approval. POs, invoices, shipments, and replenishment need tracking.
+Reply and tell me who you'd paint if you could."
 
-The sheet did not fail because spreadsheets are bad. It failed because the workflow grew beyond it.
+## 2. New Work Available
 
-This week, inspect one workflow: catalog intake to buy-list approval. Can you see owner, status, decision, assumptions, and next action?
+Subject: [Title] is finished
 
-CTA: Take the FBA Wholesale Ops Scorecard.
+"[One paragraph about the piece.] [Size, surface.] It's available. Reply to this email if you want it or want to see it in person in Denver."
 
-## Draft 2: Replenishment Is The Operator Test
+## 3. Commissions Open
 
-Subject: The second order needs better systems
+Subject: Commissions are open for [month]
 
-The first buy proves a product might work. The reorder tests the operation.
+"I'm opening [number] commission spots. Send me the subject, the size you're imagining, and when you need it, and I'll reply with a proposal. Milestones, memorials, self-portraits. Imperfect photos are fine."
 
-Before replenishing, a seller needs updated cost, fee, prep, inbound shipping, sales velocity, competition, stock level, supplier availability, and risk context.
+## 4. Carry Your Colors
 
-If those details live in scattered tabs and messages, replenishment becomes guesswork.
+Subject: A painting you can walk in
 
-The goal is not perfect certainty. The goal is a cleaner decision.
-
-CTA: Book an ops workflow audit.
-
+"[Story of the collection in three sentences.] 15% of proceeds support RMIAN. [Link.]"

@@ -1,21 +1,11 @@
 # Voice Of Customer
 
-This folder stores seller language from comments, DMs, interviews, calls, communities, and public creator ecosystems.
+Only real words, captured with date and source. Nothing here is invented. If a file is empty, it stays empty until a real quote arrives.
 
-## Capture Rules
+- `direct-quotes.md`: exact quotes with permission status.
+- `buying-language.md`: phrases people use when deciding to buy or commission.
+- `common-phrases.md`: recurring words in comments and DMs.
+- `hesitations.md`: what people say when they do not buy.
 
-- Mark direct quotes clearly.
-- Include source, date, context, and confidence.
-- Do not publish private material without permission.
-- Do not add fake testimonials, fake metrics, or invented customer stories.
-
-## Use Cases
-
-- Instagram hooks.
-- Carousel first slides.
-- DM replies.
-- Landing page language.
-- Outreach copy.
-- Workflow audit questions.
-- Product positioning.
-
+Feed: `research/interview-notes.md`, Instagram comments and DMs, emails, in-person conversations.
+Output: `swipe-files/`, `content/`, `product/objections.md`.

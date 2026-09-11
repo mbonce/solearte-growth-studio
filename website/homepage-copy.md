@@ -1,35 +1,15 @@
-# Homepage Copy
+# Homepage Copy (proposed)
 
-## Headline
+Keep the live H1. Tighten the body and add three clear paths.
 
-Wholesale-Ops is the operations command center for Amazon FBA wholesale sellers.
+**H1:** Expressive Portraits and Original Art in Denver
 
-## Subheadline
+**Intro:** SOLEARTé creates saturated contemporary portraiture, original paintings, commissions, and wearable art rooted in identity, resilience, and movement.
 
-Manage supplier outreach, catalog analysis, ASIN decisions, buy lists, purchase orders, FBA shipments, replenishment, margin tracking, VA workflows, and account-risk notes in one repeatable operating system.
+**Three paths:**
 
-## Core Thesis
+- **Commission a portrait.** Tell me who it's for and where it will live. Scope, price, and delivery are confirmed with you before I begin. → /commission
+- **Carry Your Colors.** Wearable art made to honor the courage it takes to begin again. 15% of proceeds support Rocky Mountain Immigrant Advocacy Network. → /carryyourcolors
+- **Meet the artist.** Denver-based, immigrant, unapologetically saturated. → /about
 
-FBA wholesale is not just sourcing. It is operations.
-
-The practical path:
-
-- scorecard → workflow audit → 30-day ops cleanup pilot → Wholesale Ops SaaS beta.
-
-## For
-
-- FBA wholesale sellers scaling beyond solo workflows.
-- Teams using VAs for sourcing and operations.
-- Operators reviewing supplier catalogs and managing repeat buys.
-
-## Not For
-
-- Brick-and-mortar wholesalers.
-- Traditional distributor ERP buyers.
-- Retail stores.
-- Warehouse operators.
-- Sellers looking for guaranteed profitable products.
-
-## CTA
-
-Get the FBA Wholesale Ops Scorecard.
+**Footer:** Denver, Colorado, 80211 · solearté@gmail.com · Instagram

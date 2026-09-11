@@ -1,24 +1,12 @@
-# Agent Routing Map
+# Routing Map
 
-## Routing Rules
-
-- Instagram content -> Instagram Content Agent first, then QA Agent.
-- Audience questions -> Audience Research Agent first.
-- Content trends -> Audience Research Agent, then Instagram Content Agent.
-- Creator analysis -> Audience Research Agent.
-- Hooks -> Audience Research Agent, then Instagram Content Agent.
-- DM replies -> Instagram DM Agent, then QA or human if risky.
-- Product positioning -> FBA Product Marketing Agent, then QA.
-- Scorecard copy -> Product Marketing Agent + Instagram Content Agent + QA.
-- Supplier workflow content -> Supplier Workflow Agent, then Instagram Content Agent, then QA.
-- Catalog/ASIN/buy-list content -> Catalog Analysis Agent, then QA.
-- Margin/replenishment content -> Profitability Agent, then QA.
-- Account-risk content -> Account Risk Agent, then QA and human if specific.
-- Sales materials -> Sales Enablement Agent + QA.
-- Outreach -> Outbound Agent + QA.
-- Metrics -> Analytics Agent.
-- Launch blockers -> Orchestrator Agent.
-
-## Default Path
-
-`[Request] --> [Specialist Agent] --> [QA] --> [Orchestrator] --> [Publish/Use] --> [Analytics]`
+| Trigger | Route to | Then |
+|---|---|---|
+| New footage / finished piece | Instagram Content | QA --> artist |
+| Comment or DM | Instagram DM | Commission Sales or Collab Outreach if qualified |
+| Commission / originals inquiry | Commission Sales | artist decides scope and price |
+| Partner opportunity | Collab Outreach | Commission Sales for proposal |
+| Product or site issue | Shop | artist approves site change |
+| Anything RMIAN / community | Community Impact | QA |
+| Weekly numbers | Analytics | Orchestrator |
+| Anything external | QA | artist |

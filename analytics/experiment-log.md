@@ -1,12 +1,7 @@
 # Experiment Log
 
-| Experiment | Hypothesis | Audience | Channel | Start | End | Metric | Result | Decision |
-|---|---|---|---|---|---|---|---|---|
-| [experiment name] | [testable hypothesis] | FBA wholesale sellers | [Instagram/X/outbound] | [date] | [date] | [success metric] | [result] | [keep/change/stop] |
+| Date | Hypothesis | Change | Metric | Result | Keep? |
+|---|---|---|---|---|---|
+| | | | | | |
 
-## Experiment Rules
-
-- Test one main variable at a time.
-- Define success before launch.
-- Record weak or inconclusive results honestly.
-- Convert learnings into next actions.
+Starter hypotheses: natural sound beats trending audio for process reels; "how a commission works" carousel drives most inquiries; RMIAN line raises shares more than purchases.

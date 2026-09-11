@@ -1,38 +1,16 @@
-# Instagram Publishing Checklists
+# Publishing Checklists
 
-## Before Posting Checklist
+Before posting:
 
-- [ ] Asset exported
-- [ ] Caption finalized
-- [ ] CTA confirmed
-- [ ] Link working (`{{scorecard_link}}`)
-- [ ] First 3 comment replies prepared
-- [ ] DM responses prepared
-- [ ] Story sequence prepared and queued
-- [ ] Founder approval recorded
+- [ ] Facts match `product/brand-brief.md` (prices, 15% RMIAN, offers).
+- [ ] No commission price or timeline stated.
+- [ ] Any person shown or named has given permission.
+- [ ] Caption first line is the hook; one CTA only.
+- [ ] Alt text written (describe the artwork and colors).
+- [ ] Link in bio points where the CTA says.
+- [ ] Artist approved.
 
-## During Publish Checklist
+After posting:
 
-- [ ] Publish at planned time slot
-- [ ] Confirm final post preview appears correctly
-- [ ] Verify scorecard link is clickable
-- [ ] Confirm first pinned comment is intentional (if used)
-- [ ] Post corresponding story sequence immediately after
-
-## After Posting Checklist
-
-- [ ] First comment added if needed
-- [ ] Story sequence reposted where required
-- [ ] Replies monitored for first 20 minutes
-- [ ] DMs monitored for scorecard and escalation cases
-- [ ] Metrics captured at 60 minutes
-- [ ] Pain points logged (comments + DMs)
-- [ ] Founder escalation log updated
-
-## Daily End Checklist
-
-- [ ] Update daily metrics log
-- [ ] Note strongest hook and pain phrase
-- [ ] Note objections that came up
-- [ ] Record whether scorecard requests increased
-- [ ] Decide tomorrow’s posting adjustment
+- [ ] Reply to comments in the first hour.
+- [ ] Log in `instagram/metrics-capture-template.md` after 48 hours.

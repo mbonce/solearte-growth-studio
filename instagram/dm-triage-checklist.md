@@ -1,51 +1,11 @@
 # DM Triage Checklist
 
-## scorecard request
+1. Commission inquiry --> reply with the commission template, log in `analytics/commission-pipeline.md`, move to email.
+2. Original inquiry --> reply with availability, log.
+3. Carry Your Colors question --> answer, note recurring questions for the site.
+4. Collaboration --> route to email, log in `analytics/collab-pipeline.md`.
+5. Personal story --> personal reply, ask permission before quoting.
+6. Press or event --> route to artist.
+7. Spam --> ignore.
 
-- [ ] Send `{{scorecard_link}}` immediately.
-- [ ] Ask one qualifying follow-up question.
-
-## workflow pain
-
-- [ ] Identify stage: suppliers / catalog / buy-list / shipment / replenishment / VA / risk.
-- [ ] Send practical diagnostic question.
-
-## beginner seller
-
-- [ ] Validate if they have active catalog workflow.
-- [ ] Avoid complex process overviews; direct to scorecard only.
-
-## qualified operator
-
-- [ ] Confirm current volume and team.
-- [ ] Ask for lowest section and discuss workflow audit path.
-
-## pricing question
-
-- [ ] Route to founder.
-
-## account-health question
-
-- [ ] Route to founder immediately.
-
-## demo request
-
-- [ ] Route to founder.
-
-## integration question
-
-- [ ] Route to founder.
-
-## spam
-
-- [ ] Ignore low-signal repetitive messages.
-- [ ] No scorecard push.
-
-## escalation required
-
-- [ ] Flag in escalation log.
-- [ ] Assign to founder before any detailed response.
-
-## quick rule
-
-- Always answer scorecard and workflow questions with scorecard-first flow unless escalation applies.
+Anything involving money, timeline, or the artist's story goes to the artist before sending.

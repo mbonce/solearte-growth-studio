@@ -1,33 +1,13 @@
-# Wholesale-Ops One-Pager
+# SOLEARTé One-Pager (for collaborators and venues)
 
-## What It Is
+**SOLEARTé** · Denver contemporary artist · solearte.co · solearté@gmail.com
 
-Wholesale-Ops is an operations command center for Amazon FBA wholesale sellers.
+**The work:** saturated contemporary portraiture, original paintings, commissions, and Carry Your Colors wearable art, rooted in identity, migration, resilience, movement, and unapologetic individuality.
 
-## Who It Is For
+**What I do with partners:** murals and walls · live painting at events · product and wearable collaborations · pieces for hospitality, retail, and creative spaces · talks and workshops on art, identity, and beginning again.
 
-FBA wholesale sellers managing suppliers, catalogs, ASIN review, buy lists, purchase orders, FBA shipments, replenishment, margins, VA workflows, and account-risk notes.
+**Why it fits:** a real story told in the artist's own voice, color that holds a room, and a collection where 15% of proceeds support Rocky Mountain Immigrant Advocacy Network.
 
-## Problem
+**How it works:** you share the space, timing, and idea; I reply with scope, fee, and timeline before anything begins.
 
-The workflow often spreads across Google Sheets, Slack, Gmail, Seller Central, VA notes, and memory.
-
-## How It Helps
-
-Wholesale-Ops helps organize the operating workflow around suppliers, catalogs, decisions, buys, shipments, replenishment, margins, and risk-control hygiene.
-
-## Pilot Offer
-
-Start with a 30-Day FBA Wholesale Ops Cleanup Pilot focused on one painful workflow.
-
-## Sales Path
-
-- First ask: run the scorecard.
-- Qualification: map fit and bottlenecks.
-- Conversion: recommend workflow audit.
-- Execution: 30-Day Ops Cleanup Pilot.
-- Expansion: move one workflow into Wholesale Ops SaaS beta when stable.
-
-## Positioning Note
-
-This is a workflow-audit and cleanup service as the primary GTM entry, with Wholesale-Ops SaaS beta as the repeatable operating layer.
+(Add three images: a portrait, a process shot, the sneakers.)

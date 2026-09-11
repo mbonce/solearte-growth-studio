@@ -1,38 +1,10 @@
 # Positioning Gaps
 
-## Creators Are Too Beginner-Focused
+Hypotheses about what is under-served in the adjacent space.
 
-Opportunity: speak to sellers already managing suppliers, catalogs, VAs, buy lists, shipments, and replenishment.
+1. Portrait artists rarely have a wearable line with a real story and a documented cause.
+2. Art-on-sneaker makers rarely have serious portrait work behind the product.
+3. Diaspora-story artists often lead with message over craft; SOLEARTé can lead with craft and let the story land.
+4. Few Denver painters run a clean commission intake that respects the artist's scoping.
 
-Content angle: "If you already have catalogs and a VA, your problem is no longer basic sourcing."
-
-## Creators Focus Only On Sourcing
-
-Opportunity: own the post-sourcing operating system.
-
-Content angle: "Finding an ASIN is only the beginning. The handoffs decide whether the operation scales."
-
-## Creators Ignore Operations
-
-Opportunity: make workflow discipline the category.
-
-Content angle: "FBA wholesale is not just sourcing. It is operations."
-
-## Creators Ignore Workflow Maturity
-
-Opportunity: define maturity levels from hustler to scaled operator.
-
-Content angle: "Your tools should change when your workflow changes."
-
-## Creators Ignore Scaling Pain
-
-Opportunity: target sellers whose current systems break under more catalog volume and team involvement.
-
-Content angle: "More sourcing volume creates more operating debt."
-
-## Creators Ignore Operational Psychology
-
-Opportunity: name the founder's fear of losing control, distrust of invisible VA work, and desire to become a real operator.
-
-Content angle: "The founder should not be the only person who knows why a product was approved."
-
+Verify each against `competitors/artist-accounts.md` before treating as true.

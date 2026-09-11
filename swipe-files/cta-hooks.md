@@ -1,24 +1,18 @@
-# CTA Hook Swipe File
+# CTA Hooks
 
-## Scorecard CTAs
+Commissions:
+- "Send me the subject, the size, and when you need it. I'll reply with a proposal."
+- "Commissions open. Email solearté@gmail.com or DM 'portrait'."
 
-- Get the FBA Wholesale Ops Scorecard.
-- Comment "scorecard" and I will send it.
-- DM "OPS" if your workflow is still mostly spreadsheets.
-- Use the scorecard before reviewing your next supplier catalog.
-- Start with the scorecard if the operation feels scattered.
+Carry Your Colors:
+- "Carry your colors. Link in bio."
+- "15% of every piece supports immigrant legal aid through RMIAN."
 
-## Audit CTAs
+Originals:
+- "This one's available. DM for size and details."
 
-- Book an ops workflow audit.
-- Map the messiest workflow before adding more sourcing volume.
-- If one section scores low, audit that workflow first.
+Collabs:
+- "Have a wall, an event, or a product that needs color? Email me."
 
-## Engagement CTAs
-
-- Which tab is messiest right now?
-- Which handoff breaks first?
-- Who owns buy-list approval in your workflow?
-- Does your VA review catalogs?
-- Do you reorder from memory or a system?
-
+Follow:
+- "Stay for the process."

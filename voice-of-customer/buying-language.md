@@ -1,32 +1,16 @@
 # Buying Language
 
-Track how qualified sellers talk when they are close to wanting help.
+Phrases people use at the moment of deciding. Capture exact words; hypotheses are marked.
 
-## High-Intent Phrases
+## Captured
 
-- "Can you look at my workflow?"
-- "I need to clean this up."
-- "Can I see how this would work for my catalogs?"
-- "We have VAs and it is getting hard to manage."
-- "I need a better system."
+(none yet)
 
-## Medium-Intent Phrases
+## Hypotheses to verify
 
-- "Send the scorecard."
-- "I use sheets."
-- "This sounds like us."
-- "Our buy list is messy."
-
-## Low-Intent Or Poor-Fit Phrases
-
-- "Does this find products?"
-- "I am just starting."
-- "Can this guarantee profit?"
-- "Can this fix account health?"
-
-## Follow-Up Use
-
-- High intent: offer workflow audit.
-- Medium intent: send scorecard and ask lowest-scoring workflow.
-- Low intent: qualify model and avoid overpitching.
-
+- "I want this for my mom."
+- "Is this one still available?"
+- "What size is it?"
+- "Can you do one of my grandfather from an old photo?"
+- "Do these run true to size?"
+- "Where does the 15% go?"

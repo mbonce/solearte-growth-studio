@@ -1,23 +1,12 @@
 # Research
 
-This folder captures evidence about Amazon FBA wholesale sellers: pains, language, alternatives, interview notes, community themes, and open market questions.
+Captured and structured knowledge about who buys, commissions, wears, and partners with SOLEARTé, and the world she works in.
 
-Separate direct seller language from interpretation. Do not turn one comment into a claim unless it appears repeatedly or comes from a qualified seller conversation.
+- `audience-questions.md`: what we still need to learn.
+- `collector-language.md`: how people describe wanting, buying, and living with her work.
+- `comparable-artists.md`: artists with adjacent styles or models, studied for pattern, not imitation.
+- `community-research.md`: Denver, immigrant, and first-generation communities where the work resonates.
+- `denver-art-scene.md`: venues, markets, districts, and moments to show up.
+- `interview-notes.md`: template and log for real conversations.
 
-## Evidence Rules
-
-- Mark direct quotes separately from summaries.
-- Record source, date, context, and confidence.
-- Do not publish private community material without permission.
-- Do not infer business size, revenue, or account-health status from weak signals.
-- Route sensitive Amazon policy or account-health themes to QA before using them in copy.
-
-## Research Output
-
-Each research pass should produce at least one of:
-
-- A seller phrase to validate.
-- A workflow pain pattern.
-- A disqualification signal.
-- A content angle.
-- A sales or audit question.
+Rule: capture, do not invent. If a file has no real entries yet, it says so.

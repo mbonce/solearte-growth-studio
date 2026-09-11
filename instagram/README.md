@@ -1,35 +1,9 @@
 # Instagram
 
-Instagram is the primary launch channel for Wholesale-Ops because FBA wholesale sellers are more Instagram-native than LinkedIn-native.
+Instagram is SOLEARTé's primary channel. This folder is the operating system for it.
 
-Use this folder to plan Instagram-native content that turns Amazon FBA wholesale operating pain into carousels, reels, stories, single-image posts, memes, DM prompts, and engagement replies.
-
-## Channel Role
-
-Instagram should make Wholesale-Ops feel like an operator media brand for FBA wholesale sellers, not a corporate SaaS account.
-
-Primary jobs:
-
-- Teach FBA wholesale operational discipline.
-- Create high-save carousel content.
-- Create high-share reel and meme angles.
-- Trigger useful DMs from qualified sellers.
-- Route pain-aware sellers to the FBA Wholesale Ops Scorecard.
-- Capture repeated pain language for research and product marketing.
-
-## Audience
-
-Amazon FBA wholesale sellers with VAs or sourcing teams who are managing supplier catalogs and buy-list decisions through spreadsheets.
-
-## Content Flow
-
-`[Pain Point] --> [Instagram Format] --> [Engagement Prompt] --> [DM/Scorecard] --> [Workflow Audit]`
-
-## Guardrails
-
-- No generic ecommerce guru content.
-- No Lamborghini, passive-income, or flex culture.
-- No fake income claims.
-- No Amazon compliance or account-protection guarantees.
-- No brick-and-mortar wholesale or distributor ERP language.
-
+Strategy and setup: `content-strategy.md`, `profile-setup.md`, `bio-options.md`, `highlights-plan.md`, `link-in-bio-plan.md`, `visual-style-guide.md`, `posting-schedule.md`.
+Launch: `week-1-instagram-launch.md`, `week-1-content-queue.md`, `design-ready-carousel-1.md`, `design-ready-reel-1.md`.
+Engagement: `engagement-playbook.md`, `comment-reply-library.md`, `dm-response-library.md`, `dm-triage-checklist.md`, `response-timing-guidelines.md`.
+Hooks: `reel-hooks.md`, `carousel-hooks.md`, `story-ideas.md`.
+Ops: `publishing-checklists.md`, `metrics-capture-template.md`.

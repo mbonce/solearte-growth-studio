@@ -1,25 +1,7 @@
-# Story Hook Swipe File
+# Story Hooks
 
-## Poll Hooks
-
-- Where do supplier follow-ups live right now?
-- How many supplier catalogs are waiting for review?
-- Can every buy-list item explain why it made the list?
-- Does a VA help review catalogs or ASINs?
-- Do you reorder from a system or from memory?
-
-## Question Stickers
-
-- What is the messiest tab in your wholesale sheet?
-- Which workflow breaks first when catalog volume increases?
-- What does your VA handoff usually miss?
-- What makes replenishment stressful?
-- What do you wish Seller Central made easier for your team?
-
-## Quiz Hooks
-
-- A catalog is analyzed when...
-- A buy-list item is ready when...
-- Replenishment should happen when...
-- Supplier follow-up is controlled when...
-
+- "I came to Denver with [what she carried]. This painting is that."
+- "Beginning again isn't brave. It's necessary. This is what it looks like in color."
+- "People ask why my colors are so loud. Because quiet didn't get me here."
+- "Movement is natural. I made a whole collection about it."
+- "This is the first portrait I painted of [subject, with permission]. Here's what changed."

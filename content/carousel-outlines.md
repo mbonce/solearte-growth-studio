@@ -1,42 +1,33 @@
 # Carousel Outlines
 
-## Template
+## 1. How A Commission Works (8 slides)
 
-1. Title slide:
-2. Problem slide:
-3. Current workflow:
-4. Hidden cost:
-5. Better operating principle:
-6. Checklist:
-7. CTA:
+1. Finished portrait. Headline: "How a portrait commission works."
+2. "Tell me who it's for." (photo of a reference on the easel)
+3. "Tell me where it'll live." (piece on a wall)
+4. "Send a few photos. Imperfect is fine."
+5. "I come back with scope, price, and timing before anything begins."
+6. Process shot: "Then I paint."
+7. Finished piece delivered.
+8. "Start: solearté@gmail.com or DM 'portrait'."
 
-## Idea 1: FBA Wholesale Is Operations
+## 2. Carry Your Colors, Eight Angles (8 slides)
 
-1. FBA wholesale is not just sourcing.
-2. Sourcing creates the opportunity.
-3. Operations manages the work after.
-4. Supplier, catalog, ASIN, buy list, PO, shipment, replenishment.
-5. If it lives in memory, it will break.
-6. Build a workflow that preserves decisions.
-7. Get the scorecard.
+Sneakers front three-quarter, back three-quarter, top, front, left front, side and rear, rear, side profile (matches the site's product photography). Final slide text: "15% of proceeds to RMIAN. Link in bio."
 
-## Idea 2: Why Buy Lists Get Messy
+## 3. The Story Behind The Collection (6 slides)
 
-1. Your buy list needs decision history.
-2. A row is not enough.
-3. Who approved it?
-4. What margin assumptions mattered?
-5. What risk notes were attached?
-6. What changed since review?
-7. Audit your buy-list workflow.
+1. Sneakers on feet. "Movement is natural."
+2. "As an immigrant and artist, I designed these to honor identity, resilience, and the courage it takes to begin again."
+3. "Carry Your Colors is about stepping forward without leaving behind where you come from."
+4. Mug and pillow in a real space.
+5. "15% of proceeds support Rocky Mountain Immigrant Advocacy Network."
+6. "Carry your colors. Link in bio."
 
-## Idea 3: VA Workflow For Wholesale
+## 4. Color Study (5 slides)
 
-1. Delegation needs a system.
-2. More VA hours do not fix unclear process.
-3. Define intake, review, approval, exception, and handoff.
-4. Keep notes attached to suppliers and ASINs.
-5. Review quality, not just output volume.
-6. Make blockers visible.
-7. Book a workflow audit.
+Detail crops of one portrait, one line per slide about a color decision. Last slide: full piece.
 
+## 5. Available Work (up to 6 slides)
+
+One piece per slide with title, size, surface. Last slide: "DM for details."

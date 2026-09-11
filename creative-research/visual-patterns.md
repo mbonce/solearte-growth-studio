@@ -1,44 +1,23 @@
 # Visual Patterns
 
-## Dark Mode Dashboards
+Grounded in the site: saturated color, bold sans-serif, dark header, portraits as hero, square grid ratios, pill buttons.
 
-- Use for command-center positioning.
-- Works well for workflow maps, scorecard summaries, and operator dashboards.
-- Avoid fake product UI that implies undocumented features.
+## Feed
 
-## Spreadsheet Callouts
+- Alternate finished portraits, process, and Carry Your Colors so the grid reads as one artist, not a shop.
+- Keep backgrounds neutral so the color in the work carries.
+- Consistent crop: square or 4:5 for feed, 9:16 for reels.
 
-- Use for pain recognition.
-- Circle missing owner, status, decision, reason, next action, margin assumption.
-- Use mock data only.
+## Type
 
-## Workflow Diagrams
+- Bold sans-serif (Poppins or close) for text overlays. Few words.
+- No script fonts, no pastel gradients. The work is loud; the type is clean.
 
-- Use for supplier-to-replenishment journeys.
-- Keep arrows simple and legible.
-- Show break points in red or amber.
+## Product
 
-## Command-Center Aesthetic
+- Sneakers: on feet, in motion, in Denver light. Studio shots for the carousel angles.
+- Mug and pillow: in a real workspace or home, not a white void.
 
-- Dark background.
-- Clean typography.
-- Sparse accent colors.
-- Status chips: received, reviewed, approved, paused, blocked.
-- Checklist cards.
+## Portraits
 
-## Operator-Style Layouts
-
-- Whiteboard logic.
-- Audit checklist.
-- "Bad handoff vs clean handoff."
-- One-slide scorecard preview.
-- Before/after workflow.
-
-## Avoid
-
-- Pastel SaaS templates.
-- Glossy startup illustrations.
-- Fake luxury imagery.
-- Course-seller thumbnails.
-- Real seller data without approval.
-
+- Show the eyes. Show the hand holding the brush. Show the scale next to a person.

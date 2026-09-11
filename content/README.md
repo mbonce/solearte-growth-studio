@@ -1,29 +1,13 @@
 # Content
 
-This folder contains Wholesale-Ops content strategy and drafts for LinkedIn, X, long-form posts, short-form video, carousels, and newsletters.
+Drafts and systems for SOLEARTé's content. Instagram-first; everything else is reuse.
 
-Content should teach operational discipline for Amazon FBA wholesale sellers. Avoid hype, fake metrics, passive-income language, and generic social media agency advice.
+- `content-pillars.md`: the six pillars and their ratio.
+- `content-calendar.md`: rolling four-week plan.
+- `captions.md`: caption drafts by pillar.
+- `carousel-outlines.md`: slide-by-slide outlines.
+- `short-form-video-scripts.md`: reel scripts.
+- `long-form-posts.md`: artist statements and longer stories for site, email, LinkedIn.
+- `newsletter-drafts.md`: collector and commission list emails.
 
-## Content Standard
-
-Every draft should answer:
-
-- Which FBA wholesale workflow is this about?
-- What operator pain does it name?
-- What practical habit or diagnostic does it teach?
-- What is the CTA?
-- What claim needs QA review?
-
-## Approved CTAs
-
-- Get the FBA Wholesale Ops Scorecard.
-- Book an ops workflow audit.
-- Reply with the messiest workflow.
-- Compare your current supplier, catalog, buy-list, shipment, or replenishment process.
-
-## Avoid
-
-- Viral-for-viral-sake takes.
-- Generic founder content.
-- Product-hunting hype.
-- Profit guarantees or account-protection promises.
+Every draft passes `workflows/qa-review.md` before publishing.

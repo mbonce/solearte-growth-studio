@@ -1,59 +1,33 @@
 # Instagram Content Strategy
 
-## Positioning
+## Goal
 
-Wholesale-Ops should act like an operator media brand for FBA wholesale sellers, not a corporate SaaS account.
+Turn the work and the story into three outcomes: commission inquiries, Carry Your Colors orders, and a growing audience that shares the collection story.
 
-The account should feel like it understands the daily mess: supplier follow-ups, catalog tabs, ASIN decisions, VA review, buy-list approval, POs, FBA shipment handoffs, replenishment timing, margin erosion, and account-risk hygiene.
+## Positioning On The Grid
 
-## Core Thesis
+One artist. Portraits are the hero, process builds trust, Carry Your Colors extends reach, the RMIAN line keeps it honest. The grid should never look like a shop.
 
-Most FBA wholesale sellers are trying to scale sourcing volume without scaling operational discipline.
+## Ratios
 
-## Content Should Focus On
+See `content/content-pillars.md`: 30% process, 20% finished work, 15% story, 15% commissions, 15% collection, 5% community.
 
-- Spreadsheet chaos.
-- Supplier pipeline breakdowns.
-- Catalog analysis workflow.
-- Buy-list mistakes.
-- VA accountability.
-- Margin erosion.
-- Replenishment discipline.
-- Account-risk hygiene.
-- Moving from seller to operator.
+## Formats
 
-## Primary Formats
+- Reels for reach (timelapse, hands, artist to camera, sneaker walk).
+- Carousels for saves and commission education.
+- Single images for finished work and available pieces.
+- Stories daily-ish for studio life, polls, question boxes, order packing.
 
-- Carousels: saveable frameworks, mistakes, checklists, workflow maps.
-- Reels: blunt operator takes, quick audits, before/after workflow explanations.
-- Stories: polls, quizzes, workflow questions, scorecard prompts, behind-the-scenes planning.
-- Single-image posts: sharp principles, workflow diagrams, spreadsheet callouts.
-- Memes: painful but useful operator truth.
-- DM prompts: questions that reveal fit and workflow pain.
+## CTAs (rotate, one per post)
 
-## Do Not Create
+- Commissions: DM "portrait" or email solearté@gmail.com.
+- Shop: link in bio.
+- Originals: DM for details.
+- Follow: "stay for the process."
 
-- Generic ecommerce guru content.
-- Motivational hustle posts.
-- Lamborghini/passive-income content.
-- Fake income claims.
-- Corporate SaaS filler.
-- Brick-and-mortar wholesale content.
+## What we do not do
 
-## CTAs
-
-- Comment "scorecard" for the FBA Wholesale Ops Scorecard.
-- DM "OPS" if your catalog-to-buy-list workflow is messy.
-- Reply with the messiest part of your wholesale workflow.
-- Save this before reviewing your next supplier catalog.
-- Book an ops workflow audit.
-
-## Weekly Mix
-
-- 3 carousels.
-- 2 reels.
-- 5 story sequences.
-- 2 single-image posts.
-- Daily engagement replies.
-- Repurpose strongest Instagram ideas into X and occasional LinkedIn.
-
+- Buy followers, run giveaway loops, post trending audio with no connection to the work.
+- Post prices for commissions.
+- Use RMIAN's name beyond the documented 15% line.

@@ -1,20 +1,12 @@
 # Human Approval Rules
 
-Human approval is required before sending, posting, or promising anything involving:
+The artist approves, always:
 
-- Pricing.
-- Account health.
-- IP complaints.
-- Suspensions.
-- Legal/compliance advice.
-- Angry users.
-- Refunds.
-- Billing.
-- Custom integrations.
-- Profit guarantee questions.
-- Public claims about customer results.
-- Product capabilities not documented.
+- Any post, story, or reply that goes out under her name (unless she pre-approves a library).
+- Any price, deposit, timeline, or scope.
+- Any use of her story, a buyer's story, or a commission image.
+- Any mention of RMIAN beyond the documented line.
+- Any collaboration agreement.
+- Any site change.
 
-## Default Response
-
-If uncertain, draft a short safe reply and route to a human. Do not improvise.
+Agents draft. The artist decides.

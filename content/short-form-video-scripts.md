@@ -1,34 +1,31 @@
 # Short-Form Video Scripts
 
-## Template
+## Reel 1: Timelapse + One Line (10s)
 
-- Hook:
-- Problem:
-- Example:
-- Practical takeaway:
-- CTA:
+Visual: blank canvas to finished portrait, sped up.
+Voice or text: "I don't paint the photo. I paint what the photo can't show."
+End card: handle.
 
-## Script 1: Not Just Sourcing
+## Reel 2: Carry Your Colors Walk (12s)
 
-- Hook: FBA wholesale is not just sourcing.
-- Problem: sellers find products, then lose control of suppliers, catalogs, buy lists, shipments, and replenishment.
-- Example: one catalog produces ten possible ASINs, but nobody can explain which were approved or rejected two weeks later.
-- Practical takeaway: document the workflow, not just the result.
-- CTA: take the FBA Wholesale Ops Scorecard.
+Visual: sneakers on Denver sidewalk, crossing a street, close on the artwork, wide on the walker.
+Text on screen: "A painting you can walk in." then "15% of proceeds to RMIAN."
+Caption carries the collection story.
 
-## Script 2: VA Accountability
+## Reel 3: Artist To Camera (30s)
 
-- Hook: Your VA should not be your operating system.
-- Problem: if tasks live in private notes, the operator cannot audit decisions.
-- Example: the VA says a product is good, but the buy list has no decision trail.
-- Practical takeaway: create review states and approval notes.
-- CTA: book a workflow audit.
+"People ask why my colors are so loud. I'm an immigrant. I came here and started again, and quiet didn't get me anywhere. So everything I paint carries that. That's why the collection is called Carry Your Colors. It's not a slogan. It's the instruction."
+End: "Commissions open. Link in bio."
 
-## Script 3: Margin Drift
+## Reel 4: Hands And Layers (15s)
 
-- Hook: The first ROI estimate is not the final answer.
-- Problem: fees, prep, inbound shipping, storage, returns, and repricing can shift the economics.
-- Example: a product looked fine during review but changed before replenishment.
-- Practical takeaway: keep margin assumptions visible through the workflow.
-- CTA: download the scorecard.
+Natural sound. Brush on canvas. Text: "Layer 1." ... "Layer 12." Final: face revealed. No CTA beyond handle.
 
+## Reel 5: Commission Story (20s, with permission)
+
+Reference photo --> sketch --> color blocking --> finished --> on the recipient's wall.
+Text: "Commissioned for [occasion]." Caption: "Send me who it's for and where it'll live."
+
+## Reel 6: Eyes Last (8s)
+
+Portrait complete except eyes. Brush adds them. Text: "Eyes last. Always."

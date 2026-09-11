@@ -1,65 +1,40 @@
 # High-Performing Hooks
 
-Hooks should feel operational, blunt, specific, recognizable, and anti-guru.
+First-line and first-frame patterns for an artist account. Ranked by hypothesis; move to "confirmed" only with data in `analytics/content-performance.md`.
 
-## 50 FBA Wholesale Operator Hooks
+## Process hooks
 
-1. Your FBA wholesale spreadsheet is becoming technical debt.
-2. A supplier catalog is not an opportunity until it has workflow.
-3. Hiring a VA does not fix a broken FBA wholesale process.
-4. FBA wholesale is not just sourcing. It is operations.
-5. The catalog-to-buy-list handoff is where chaos starts.
-6. Your VA should not be the operating system.
-7. A buy list without decision history is just another spreadsheet.
-8. More sourcing volume will expose weak operations.
-9. Supplier follow-up is not a memory game.
-10. Replenishment from memory is a warning sign.
-11. Matched ASINs are not the same as approved buys.
-12. Your catalog review is not done until decisions are documented.
-13. The first ROI estimate is not the final margin story.
-14. The second buy is where FBA wholesale becomes operations.
-15. If your founder has to explain every row, the workflow is broken.
-16. Your spreadsheet tracks data, but does it enforce workflow?
-17. The buy list should not be a mystery file.
-18. If your VA knows the context but the sheet does not, that is a problem.
-19. More suppliers create more operating debt.
-20. Catalog backlog is usually a workflow problem.
-21. Your ASIN rejection reasons should not disappear.
-22. A supplier pipeline needs status, owner, and next action.
-23. The operation breaks before the product research does.
-24. Your replenishables need a review queue.
-25. A PO should not be disconnected from the buy-list decision.
-26. FBA shipments need workflow context, not just shipment IDs.
-27. If you cannot audit the VA's work, you did not delegate cleanly.
-28. Product research tools do not solve buy-list accountability.
-29. More tabs will not fix missing review states.
-30. If account-risk notes live in chat, they will get lost.
-31. Your catalog process should survive a team handoff.
-32. Every buy-list item should explain why now.
-33. Do not scale sourcing volume before workflow discipline.
-34. Your operator brain is not a database.
-35. Supplier terms should not be buried in email.
-36. The best wholesale sellers build decision history.
-37. A messy buy list usually starts upstream.
-38. Margin erosion hides between analysis and replenishment.
-39. The founder should not be the only source of truth.
-40. Your VA needs approval rules, not vague instructions.
-41. The next action matters as much as the ASIN.
-42. If you reviewed it once, you should not need to rediscover it.
-43. Your catalog workflow needs more than a green highlight.
-44. A stale cost can turn a good buy into a bad decision.
-45. The supplier replied. Now who owns the next step?
-46. A good operation makes boring details visible.
-47. Your team needs fewer mystery rows.
-48. If everything is urgent, your workflow has no status.
-49. Wholesale gets hard when the handoffs multiply.
-50. The real moat is operational discipline.
+- "This started as a blank canvas at 6am." (timelapse)
+- "The color I almost didn't use."
+- "Layer 1 vs layer 12."
+- "I paint the eyes last. Here's why."
 
-## Hook Types To Test
+## Story hooks (artist's voice)
 
-- Diagnosis: "Your spreadsheet is becoming technical debt."
-- Contrarian: "More sourcing volume will not fix this."
-- Identity: "The shift is from seller to operator."
-- Checklist: "Every buy-list item should answer these five questions."
-- Handoff: "The catalog-to-buy-list handoff is where chaos starts."
+- "I left home with two suitcases and this color."
+- "Movement is natural. That's the whole idea behind this collection."
+- "Nobody told me an immigrant could be an artist. So I painted it."
+- "Carry your colors. Here's what that means to me."
 
+## Commission hooks
+
+- "How a portrait of your mom actually gets made."
+- "Send me the photo you're scared isn't good enough."
+- "What people ask before commissioning a portrait."
+
+## Carry Your Colors hooks
+
+- "These sneakers are a painting you can walk in."
+- "15% of every pair goes to immigrant legal aid. Here's who does that work."
+- "Eight angles. One story."
+
+## Collector hooks
+
+- "Where this one ended up." (on the wall)
+- "This piece is available. Here's what it's about."
+
+## Rules
+
+- No "POV:" filler unless the second half is specific.
+- No clickbait about price ("you won't believe...").
+- Every hook must be true in the first three seconds of the video.

@@ -1,19 +1,15 @@
 # Agent Roster
 
-| Agent | Role | Inputs | Outputs | Primary handoff | Launch priority | Human approval needed? |
-|---|---|---|---|---|---|---|
-| Orchestrator Agent | daily launch planning, work routing, blocker detection, task assignment, QA enforcement, and launch command center maintenance | Context files, workflows, analytics | NOW / NEXT / BLOCKERS / OWNERS / QA QUEUE / HUMAN DECISIONS | all agents, especially QA and Analytics | P0 | Yes for risky routing, public claims, pricing, and launch blockers |
-| FBA Product Marketing Agent | positioning accuracy, ICP clarity, objection library, launch messaging, scorecard positioning, and landing-page messaging | Context files, workflows, analytics | POSITIONING / ICP / MESSAGE / OBJECTION / APPROVED WORDING / RISK NOTES | Instagram Content Agent, Website, Sales Enablement, QA | P0 | Yes for pricing, feature, customer-result, and positioning changes |
-| FBA Customer Research Agent | seller pain research, seller language capture, competitor messaging review, and workflow complaint tracking | Context files, workflows, analytics | SOURCE / QUOTE OR SUMMARY / WORKFLOW AREA / CONFIDENCE / CONTENT USE / ESCALATION | Audience Research Agent, Product Marketing, Instagram Content, QA | P1 | Yes before using private seller language externally |
-| Audience Research Agent | Instagram creator analysis, content pattern research, hook extraction, visual trend tracking, and save/share/DM trigger analysis | Context files, workflows, analytics | OBSERVATION / PATTERN / WHY IT WORKS / WHO IT FITS / WHO TO AVOID / ASSET IDEA | Instagram Content Agent, FBA Ops Content, Product Marketing, Analytics | P0 | Yes for low-confidence trends or creator-plagiarism risk |
-| Instagram Content Agent | carousels, reels, stories, single-image posts, meme angles, engagement prompts, and Instagram-first campaign output | Context files, workflows, analytics | FORMAT / HOOK / COPY / CAPTION / CTA / VISUAL DIRECTION / DM PROMPT / QA NOTES | QA Agent, Instagram DM Agent, Analytics Agent | P0 | QA required for all public copy; human approval for risky topics |
-| Instagram DM Agent | DM classification, draft replies, scorecard delivery flow, workflow audit routing, objection logging, and qualified prospect handoff | Context files, workflows, analytics | DM CLASS / REPLY DRAFT / QUALIFICATION / NEXT STEP / ESCALATION / LOG DESTINATION | Sales Enablement, Product Marketing, Analytics, QA | P0 | Human approval for pricing, account health, demo, angry users, or custom questions |
-| FBA Ops Content Agent | secondary content support during launch: repurposing, long-form thinking, X posts, LinkedIn credibility, and newsletter drafts | Context files, workflows, analytics | SOURCE ASSET / REPURPOSED FORMAT / COPY / CTA / CHANNEL FIT / QA NOTES | Instagram Content Agent, Product Marketing, QA | P2 | QA for public copy; human approval for risky claims |
-| Supplier Workflow Agent | supplier-pipeline content, supplier workflow diagnostics, and supplier-related audit questions | Context files, workflows, analytics | SUPPLIER PAIN / WORKFLOW STAGE / DIAGNOSTIC QUESTION / CONTENT ANGLE / CTA / RISK NOTES | Instagram Content, Sales Enablement, Product Marketing, QA | P1 | QA for public copy; human approval for authorization/legal claims |
-| Catalog Analysis Agent | catalog workflow content, ASIN review workflow, and buy-list handoff logic | Context files, workflows, analytics | CATALOG STAGE / ASIN DECISION / HANDOFF GAP / REQUIRED FIELDS / CONTENT ANGLE / QA NOTES | Instagram Content, Profitability, Account Risk, Sales Enablement, QA | P0 | QA for public copy; human approval for margin/account-risk claims |
-| Profitability Agent | margin erosion, ROI discipline, fee assumptions, prep costs, inbound shipping, storage, repricing, and replenishment economics | Context files, workflows, analytics | ECONOMIC PAIN / ASSUMPTIONS / WORKFLOW CONTROL / COPY ANGLE / DISCLAIMERS / QA NOTES | Instagram Content, Catalog Analysis, Sales Enablement, QA | P1 | Human approval for financial projections or pricing claims |
-| Account Risk Agent | risk hygiene content with strict rules not to make compliance guarantees | Context files, workflows, analytics | RISK TOPIC / SAFE LANGUAGE / BLOCKED LANGUAGE / ESCALATION LEVEL / QA DECISION | QA Agent, Instagram DM Agent, Sales Enablement, Product Marketing | P1 | Human approval required for all account-health, IP, suspension, legal, or compliance specifics |
-| Outbound Agent | outreach copy, Instagram DM support, LinkedIn DM support, cold email sequences, and reply handling | Context files, workflows, analytics | SEGMENT / CHANNEL / MESSAGE / CTA / REPLY HANDLING / ESCALATION / METRIC | Instagram DM Agent, Sales Enablement, Analytics, QA | P1 | QA for outbound copy; human approval for pricing, custom, account-health, or angry replies |
-| Sales Enablement Agent | workflow audits, demo scripts, pilot proposals, objection handling, and sales handoff | Context files, workflows, analytics | PROSPECT CONTEXT / WORKFLOW PAIN / FIT / AUDIT QUESTIONS / NEXT STEP / HUMAN DECISION | Product Marketing, Analytics, QA, Orchestrator | P1 | Human approval for pricing, pilot scope, custom work, and legal/account-health questions |
-| Analytics Agent | launch metrics, content performance, DM performance, scorecard clicks, audit bookings, and weekly learning reports | Context files, workflows, analytics | DATE / ACTIVITY / RESPONSE / INTERPRETATION / DECISION / NEXT EXPERIMENT / CONFIDENCE | Orchestrator, Audience Research, Product Marketing, Instagram Content | P0 | Human review for external claims based on analytics |
-| QA Agent | checking every public-facing output before launch | Context files, workflows, analytics | ASSET / STATUS / FINDINGS / REQUIRED EDITS / ESCALATION LEVEL / APPROVAL | All producing agents and Orchestrator | P0 | Can block; escalates Level 2/3 issues to human |
+| Agent | Status | Primary outcome |
+|---|---|---|
+| Orchestrator | active | weekly cycle runs |
+| Brand Narrative | active | story and voice hold |
+| Audience Research | active | real language captured |
+| Instagram Content | active | posts drafted and approved |
+| Instagram DM | active | inquiries answered and logged |
+| Commission Sales | active | proposals sent, pieces delivered |
+| Collab Outreach | active | conversations opened |
+| Shop | active | Carry Your Colors accurate and moving |
+| Community Impact | active | RMIAN and community language exact |
+| Analytics | active | weekly report |
+| QA | active | nothing false ships |

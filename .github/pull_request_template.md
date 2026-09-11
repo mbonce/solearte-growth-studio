@@ -1,40 +1,18 @@
-# Summary
+## What Changed
 
-- What changed:
-- Why:
+- 
 
-# Type Of Change
+## Which Folder / Agent
 
-- [ ] Product positioning
-- [ ] Research
-- [ ] Content
-- [ ] Lead magnet
-- [ ] Outbound
-- [ ] Sales
-- [ ] Website
-- [ ] Analytics
-- [ ] Workflow
-- [ ] Template
+- 
 
-# Files Changed
+## Accuracy Check
 
-- TODO
+- [ ] Every fact about the artist, prices, offers, or RMIAN matches https://solearte.co or a documented source in this repo.
+- [ ] No invented testimonials, press, galleries, metrics, or stories.
+- [ ] Voice matches `product/brand-brief.md` (warm, direct, color-forward, never corporate).
+- [ ] Commission price, timeline, and format are never promised before the artist reviews.
 
-# QA Checklist
+## QA
 
-- [ ] Targets Amazon FBA wholesale sellers.
-- [ ] Avoids brick-and-mortar wholesale language.
-- [ ] Avoids traditional distributor ERP positioning.
-- [ ] Avoids guaranteed profit claims.
-- [ ] Avoids Amazon account-protection claims.
-- [ ] CTA is clear.
-- [ ] Copy is practical and specific.
-
-# Risks
-
-- TODO
-
-# Next Steps
-
-- TODO
-
+- [ ] Reviewed against `workflows/qa-review.md`.

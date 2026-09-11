@@ -1,41 +1,42 @@
 # Positioning
 
-## Main Positioning Statement
+## One Line
 
-Wholesale-Ops is the operations command center for Amazon FBA wholesale sellers who need one repeatable system for suppliers, catalogs, ASIN decisions, buy lists, purchase orders, FBA shipments, replenishment, margins, VA workflows, and risk-control notes.
+SOLEARTé makes saturated contemporary portraits and wearable art that let people carry their identity forward, made by a Denver immigrant artist whose Carry Your Colors collection funds immigrant legal aid.
 
-Its primary motion is not a broad marketing system. It is a **GTM-to-operations funnel**:
+## Positioning Statement
 
-`scorecard → workflow audit → 30-Day Ops Cleanup Pilot → Wholesale Ops SaaS beta`.
+For collectors, commissioners, and communities who want art with a real point of view, SOLEARTé is a Denver contemporary artist whose saturated portraits, commissions, and Carry Your Colors wearable pieces turn lived experience of identity, migration, and resilience into color you can hang, wear, and carry. Unlike decorative "art for sale" or faceless print shops, every piece is rooted in the artist's own story, scoped directly with her, and 15% of Carry Your Colors proceeds go to RMIAN.
 
-## Short Positioning Statement
+## What Makes It Different
 
-The operating system for FBA wholesale sellers after sourcing gets messy, so teams can move:
+1. **Saturation as a stance.** The color is loud on purpose. It refuses to blend in.
+2. **The story is real and hers.** Migration and beginning again are lived, not a campaign theme.
+3. **Art that leaves the wall.** Carry Your Colors puts the work on sneakers, mugs, and pillows so it moves with people.
+4. **Direct with the artist.** Commissions are scoped in a conversation, not a form and a price list.
+5. **Purchase with impact.** 15% of Carry Your Colors proceeds to RMIAN, stated plainly, never inflated.
 
-supplier catalog → verified buy list → documented replenishment execution.
+## Message Hierarchy
 
-## Homepage Positioning
+1. Expressive portraits and original art in Denver. (What.)
+2. Rooted in identity, resilience, and movement. (Why it looks like this.)
+3. Commission a portrait, shop Carry Your Colors, or collaborate. (How to act.)
+4. 15% of Carry Your Colors supports RMIAN. (Why it matters beyond the piece.)
 
-Run your FBA wholesale business without spreadsheet chaos.
+## Category Frame
 
-## LinkedIn Bio Positioning
+Not "local artist selling prints." Not "activist merch." Not "luxury fine art."
 
-Wholesale-Ops helps Amazon FBA wholesale sellers manage suppliers, catalogs, buy decisions, shipments, replenishment, and margins in one operating system.
+Frame: **contemporary portrait artist with a wearable-art line and a cause.** The portrait work earns the respect; the collection extends the reach; the cause keeps it honest.
 
-## Founder Pitch
+## Tone Guardrails
 
-Most FBA wholesale sellers do not fail because they never find a product. They struggle because suppliers, catalog analysis, buy decisions, shipments, replenishment, and VA work become scattered. Wholesale-Ops gives that workflow a clear operating system.
+- Lead with the work, then the story, then the cause. Never cause first, work last.
+- Speak about immigration from her experience, not as a spokesperson for a group.
+- Denver is home base and a proof point, not a limitation. Commissions and shop ship beyond it.
 
-## Category Description
+## Hypotheses To Test (not claims)
 
-Amazon FBA wholesale operations software for sellers scaling beyond spreadsheets and disconnected tools.
-
-## Competitive Alternatives
-
-- Google Sheets and Airtable.
-- Product research tools.
-- Seller Central and manual workflows.
-- Slack, Gmail, and VA notes.
-- Task managers.
-- Broad ecommerce ERPs.
-- VA-managed manual systems.
+- Portrait commissions for milestones (weddings, memorials, first homes, graduations) are the highest-value entry point.
+- Sneakers are the collection's hero product because they are the most visible "carried" object.
+- The RMIAN commitment increases share rate more than it increases purchase rate.

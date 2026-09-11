@@ -1,23 +1,12 @@
 # CRO Notes
 
-## Conversion Hypotheses
+Priority order. Each is a hypothesis until measured.
 
-- "Spreadsheet chaos" will attract sellers with immediate workflow pain.
-- "Ops workflow audit" may convert better than "demo" for early product learning.
-- A scorecard CTA should reduce friction for sellers not ready to book.
-- Showing the workflow map may disqualify non-FBA wholesale audiences.
-
-## Test Ideas
-
-- Hero: "Run your FBA wholesale business without spreadsheet chaos" vs "The operating system for FBA wholesale sellers."
-- CTA: "Get the scorecard" vs "Audit your wholesale ops."
-- Page angle: supplier/catalog workflow vs replenishment workflow.
-- Form question: "Which workflow is messiest?" to improve qualification.
-
-## QA Rules
-
-- No guaranteed profit.
-- No account issue prevention claims.
-- No generic wholesaler language.
-- No unsupported integrations.
-
+1. Fix the $0.00 pillow. A zero price reads as broken and undermines the whole shop.
+2. Add a commission inquiry form. Email-only creates friction and no tracking.
+3. Add sneaker sizing guidance to cut hesitation and returns.
+4. Put the RMIAN 15% line near the add-to-cart button, not only in the collection intro.
+5. Enable the header button as "Commission" linking to /commission.
+6. Add Instagram to header/footer so visitors can see process and proof.
+7. Add an Available Work page so collectors have a path.
+8. Homepage: three explicit paths (commission, shop, about) above the fold.

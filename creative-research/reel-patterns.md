@@ -1,44 +1,18 @@
 # Reel Patterns
 
-## Talking-Head Style
+| Pattern | Length | Structure | Best for |
+|---|---|---|---|
+| Timelapse with one voice line | 7–15s | blank --> finished, one sentence of meaning | Reach, saves |
+| Hands and layers | 10–20s | close-up strokes, natural sound | Trust, watch time |
+| Reveal on the wall | 6–10s | studio --> installed in a home | Collectors |
+| Sneaker walk | 8–12s | feet on Denver streets, color pops | Carry Your Colors |
+| Artist to camera | 20–45s | one story, one point, no script reading | Follows, shares |
+| Commission story | 15–30s | reference photo --> sketch --> finished, who it was for (with permission) | Commission DMs |
 
-- Best for contrarian operator takes.
-- Structure: hook, one painful example, principle, CTA.
-- Example: "FBA wholesale is not just sourcing."
-- Risk: can sound generic if it lacks workflow detail.
+## Audio
 
-## Screen-Recording Style
+Natural studio sound often beats trending audio for portrait work. Test both.
 
-- Best for spreadsheet callouts and workflow breakdowns.
-- Structure: show messy sheet, circle missing fields, explain better state.
-- Example: "This buy list has ASINs but no decision history."
-- Risk: never show real seller data without approval.
+## Captions
 
-## Whiteboard Style
-
-- Best for handoffs and process maps.
-- Structure: draw current flow, mark break point, redraw clean flow.
-- Example: Catalog -> ASIN Review -> Buy List.
-- Risk: too abstract if not tied to a real seller pain.
-
-## Workflow Breakdown Style
-
-- Best for saveable educational reels.
-- Structure: name workflow, show stages, explain required fields.
-- Example: Supplier pipeline needs target, contact, status, terms, owner, next action.
-- Risk: can become too dense for short-form.
-
-## POV Style
-
-- Best for relatable operator pain.
-- Structure: "POV: your VA reviewed a catalog but the buy list has no reasons."
-- Example: founder asking for context that should be in the workflow.
-- Risk: avoid mocking team members.
-
-## Reel Pattern Rules
-
-- Hook in first two seconds.
-- One workflow per reel.
-- Use caption for nuance.
-- CTA should be scorecard, DM, or workflow audit.
-
+First line repeats the hook. Second paragraph is the story. Last line is one CTA.

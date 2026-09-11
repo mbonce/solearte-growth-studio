@@ -1,64 +1,53 @@
-# Ideal Customer Profile
+# Ideal Customer Profiles
 
-## Best-Fit Profile
+SOLEARTé has three revenue paths and therefore three overlapping audiences plus one partner audience. Fit is about resonance with the work and the story, then budget, then location.
 
-Wholesale-Ops is best for Amazon FBA wholesale sellers who already have operational movement: supplier conversations, catalog files, ASIN analysis, buy decisions, POs, shipments, and replenishment questions.
+## 1. The Commissioner
 
-Strong fit signals:
-- Uses Google Sheets to manage suppliers, catalogs, products, and buy lists.
-- Has VAs or sourcing team members touching catalog review.
-- Reviews many supplier catalogs or price lists.
-- Buys repeat inventory and needs replenishment discipline.
-- Tracks invoices, shipments, and receiving manually.
-- Has decision history spread across Slack, Gmail, Seller Central, and spreadsheets.
+Someone who wants a portrait of a specific person, pet, or moment, painted in SOLEARTé's saturated style.
 
-## Poor-Fit Profile
+- Triggers: milestone (wedding, anniversary, birth, graduation, new home), memorial, a gift for a parent or elder, a self-portrait as an act of claiming identity.
+- Cares about: likeness with feeling, color, the artist's hand, being part of the process, where it will hang.
+- Worries about: price, turnaround, whether their reference photos are good enough, whether it will "look like them."
+- Where: Denver metro first, then anywhere the piece can ship.
+- Signal: DMs or emails that mention a person, an occasion, and a wall.
 
-Poor fit signals:
-- Pure retail arbitrage beginner.
-- Private label-only seller.
-- No active wholesale sourcing workflow.
-- No inventory buying process yet.
-- Wants a magic product finder.
-- Wants guaranteed profitable products.
-- Needs a traditional distributor ERP, warehouse system, or retail POS.
+## 2. The Collector
 
-## Buyer Roles
+Someone who buys original work because it moves them and fits their space and their sense of self.
 
-- Founder/operator: wants visibility and control.
-- Sourcing lead: wants consistent catalog and ASIN review.
-- VA manager: wants accountability and repeatable task flow.
-- Replenishment manager: wants better timing and margin context.
-- Finance/operator hybrid: wants PO, invoice, shipping, and margin clarity.
+- Triggers: a finished piece posted with its story, a studio visit, a market or show, a friend's wall.
+- Cares about: originality, color, the artist's voice, owning something with a story.
+- Worries about: price relative to size, framing and shipping, whether it will hold value (answer honestly: buy because you love it).
+- Where: Denver and the Front Range, plus followers online.
 
-## Operating Maturity Stages
+## 3. The Carrier (Carry Your Colors buyer)
 
-1. Early wholesale: testing supplier outreach and first catalogs.
-2. Repeat buying: has approved products and early replenishment needs.
-3. Team workflow: VAs or sourcing team members are involved.
-4. Process strain: spreadsheets are fragile and decision history is messy.
-5. Operator stage: wants a controlled system for scale.
+Someone who wants the work on their body or in their daily life, and who cares that 15% supports RMIAN.
 
-## Buying Triggers
+- Triggers: identity pride, immigrant or first-generation story, wanting to support immigrant legal aid, gift for someone who "began again," loving the sneakers.
+- Cares about: design, quality, comfort or usability, the cause, being able to say what it means.
+- Worries about: sizing, shipping time, whether the donation is real (it is, 15% of proceeds, say it plainly).
+- Where: anywhere the shop ships.
 
-- Catalog volume increases.
-- VA output becomes hard to audit.
-- Buy-list quality becomes inconsistent.
-- Supplier follow-ups fall through.
-- Margin assumptions change after fees and prep.
-- Replenishment decisions become reactive.
-- POs, invoices, shipments, and receiving stop matching cleanly.
+## 4. The Collaborator (partner audience)
 
-## Disqualification Signals
+Brands, venues, event organizers, creators, community organizations, and businesses who want an artist with a real point of view.
 
-- No Amazon wholesale model.
-- No willingness to document workflow.
-- Seeks account-health guarantees.
-- Seeks guaranteed ROI.
-- Wants generic ecommerce ERP functionality first.
-- Cannot describe current supplier or catalog process.
+- Fits: mural walls, live painting at events, product collaborations, hospitality and retail spaces, cultural organizations, immigrant-serving nonprofits, Denver businesses with a values story.
+- Cares about: the artist's voice, visual impact, reliability, a clear scope.
+- Disqualify: partners who want the story without the artist, want to rebrand the work, or whose values conflict with the RMIAN commitment.
 
-## First Wedge Recommendation
+## Disqualifiers Across All Audiences
 
-FBA wholesale sellers with VAs or sourcing teams who are analyzing supplier catalogs and managing buy-list decisions through spreadsheets.
+- Wants a cheap print of someone else's style.
+- Wants a commission priced and scheduled before the artist has seen the inquiry.
+- Wants to use the immigrant story as their marketing without the artist's involvement.
+- Wants stock licensing, NFTs, or bulk merch with no connection to the work.
 
+## Priority Order For Growth Work
+
+1. Commissioners (highest value per conversation).
+2. Carriers (highest reach and shareability, feeds the cause).
+3. Collectors (originals move when the story lands).
+4. Collaborators (compounding reach, handle carefully).

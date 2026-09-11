@@ -1,136 +1,109 @@
-# Wholesale-Ops FBA Growth Studio
+# SOLEARTé Growth Studio
 
-Wholesale-Ops FBA Growth Studio is the internal AI-agent-powered growth repository for one product: Wholesale-Ops.
+SOLEARTé Growth Studio is the AI-agent-powered growth repository for one artist: SOLEARTé.
 
-It is not a generic AI marketing utility. It is a GTM operating engine for the FBA wholesale workflow service and SaaS pathway.
+It is not a generic AI marketing utility. It is a go-to-market operating engine that advocates for SOLEARTé's work, grows her audience, books portrait commissions and collaborations, and sells the Carry Your Colors wearable-art collection.
 
-Wholesale-Ops is an operations command center for Amazon FBA wholesale sellers. It helps sellers manage supplier outreach, catalog analysis, ASIN qualification, buy lists, purchase orders, FBA shipment workflows, replenishment, margin tracking, VA workflows, and account-risk controls in one repeatable operating system.
+SOLEARTé is a Denver-based contemporary artist creating saturated portraiture, original paintings, commissions, and wearable art rooted in identity, migration, resilience, movement, and unapologetic individuality. Her work translates lived experience into color and gesture, made to be carried forward.
 
-FBA wholesale is not just sourcing. It is operations.
+Site: https://solearte.co (also https://www.solearté.com)
+Location: Denver, Colorado, 80211
+Contact: solearté@gmail.com
 
-This repo is a growth operating shell, not an application codebase. It contains agent instructions, positioning, research capture, content drafts, outbound assets, sales assets, website copy, analytics templates, workflows, launch operations, automation specifications, and QA guardrails. Do not add app code, dependency manifests, databases, or invented product features unless the repo scope is explicitly changed.
+Art is not just something to look at. It is something to carry.
 
-## Target Customer
+This repo is a growth operating shell, not an application codebase. It contains agent instructions, brand narrative, audience research, content drafts, Instagram operations, commission sales assets, collaboration outreach, website copy, analytics templates, workflows, launch operations, automation specifications, and QA guardrails. Do not add app code, dependency manifests, databases, or invented facts about the artist unless the repo scope is explicitly changed.
 
-This repo is for growth work aimed at Amazon FBA wholesale sellers:
+## What SOLEARTé Offers
 
-- Sellers working with brands, suppliers, and distributors for Amazon resale.
-- Operators analyzing supplier catalogs and ASIN opportunities.
-- Teams using VAs, sourcing specialists, or replenishment managers.
-- Sellers moving from solo spreadsheet workflows into repeatable operations.
+Three revenue paths, documented on solearte.co:
 
-This is not for brick-and-mortar wholesalers, traditional wholesale distributors, retail stores, warehouse operators, or distributor ERP buyers.
+1. **Original paintings**: saturated contemporary portraits and original works.
+2. **Commissions and collaborations**: custom portrait commissions and collaborative artwork, scoped directly with the artist before work begins.
+3. **Carry Your Colors**: a wearable-art collection (high-top sneakers, mug, accent pillow) created to honor identity, resilience, and the courage it takes to begin again. 15% of proceeds support Rocky Mountain Immigrant Advocacy Network (RMIAN) and its legal services for immigrant families.
 
-When this repo mentions suppliers or distributors, it means the supplier relationships an Amazon FBA wholesale seller may use to source inventory for Amazon resale. It does not mean building software for distributors, distributor ERPs, wholesale ordering portals, retail buying teams, or warehouse operations.
+## Who This Repo Speaks To
+
+- Collectors and first-time art buyers in Denver and the Front Range who want expressive, personal, color-forward work.
+- People commissioning a portrait of a family member, partner, child, elder, pet, or themselves for a milestone, memorial, or gift.
+- Immigrants, first-generation families, and anyone whose story includes movement, who see themselves in the work.
+- Brands, venues, creators, and community organizations seeking an artist collaboration with a real point of view.
+- Supporters who want their purchase to fund immigrant legal aid through RMIAN.
+
+This is not for print-on-demand marketplaces, NFT drops, stock-art licensing, or generic "art for sale" churn. The work carries a story, and the growth system must carry it too.
 
 ## What This Repo Contains
 
-- `agents/`: Wholesale-Ops-specific agent cards and operating instructions.
+- `agents/`: SOLEARTé-specific agent cards and operating instructions.
 - `agent-ops/`: Launch-mode routing, activation prompts, approval rules, handoffs, and output contracts.
 - `.agents/`: Shared agent resources, including the external MarketingSkills submodule.
-- `product/`: Positioning, ICP, product modules, objections, pricing hypotheses, and pilot offer.
-- `research/`: Seller pain points, customer language, competitor notes, interview templates, and market questions.
-- `audience-research/`: FBA wholesale personas, maturity levels, emotional drivers, objections, and pain triggers.
-- `creative-research/`: Instagram hooks, carousel/reel/story patterns, visual patterns, and save/share/DM triggers.
-- `competitors/`: Creator ecosystem research, content breakdowns, and positioning gaps.
-- `swipe-files/`: Reusable hook, CTA, DM, story, contrarian, and operational content structures.
-- `voice-of-customer/`: Direct quotes, common phrases, operator frustrations, workflow complaints, and buying language.
-- `content/`: Content pillars, calendars, posts, scripts, carousels, and newsletters.
-- `instagram/`: Instagram-first launch strategy, hooks, visual style, engagement replies, and week-one plan.
-- `lead-magnets/`: Scorecard and workflow audit assets.
-- `outbound/`: Prospecting criteria, cold email, LinkedIn outreach, and reply handling.
-- `sales/`: Discovery, workflow audit, demo, objection, proposal, and one-pager assets.
-- `website/`: Homepage, landing page, demo page, scorecard page, and CRO notes.
-- `analytics/`: Growth reporting, funnel tracking, experiment logs, and learning logs.
-- `workflows/`: Weekly growth cadence and production/review workflows.
-- `automations/`: Non-credentialed automation specifications for research, QA, publishing approval, DM triage, scorecard delivery, audit booking, and reporting.
-- `launch/`: Founder-facing launch command center, readiness checklists, publishing calendar, risk register, approval board, and retrospective.
+- `product/`: Brand brief, positioning, audiences, offers, pricing notes, objections, and claim boundaries.
+- `research/`: Audience questions, collector language, comparable artists, community notes, and the Denver art scene.
+- `audience-research/`: Personas, emotional drivers, motivations, objections, and content triggers.
+- `creative-research/`: Instagram hooks, reel, carousel, and story patterns, visual patterns, and save/share triggers.
+- `competitors/`: Comparable artist accounts, content breakdowns, and positioning gaps.
+- `swipe-files/`: Reusable story, process, CTA, DM, and collection hooks.
+- `voice-of-customer/`: Quote capture, buying language, and common phrases (capture only, never invent).
+- `content/`: Content pillars, calendar, captions, carousels, scripts, and newsletter drafts.
+- `instagram/`: Instagram-first strategy, profile, visual style, engagement, DM handling, and week-one plan.
+- `lead-magnets/`: Portrait commission guide and follow-up sequences.
+- `outbound/`: Collaboration and venue prospecting, outreach sequences, and reply handling.
+- `sales/`: Commission inquiry handling, intake, proposal, delivery, and objection assets.
+- `website/`: Homepage, about, commission, Carry Your Colors, product copy, CRO, and SEO notes.
+- `analytics/`: Weekly reporting, content performance, commission pipeline, shop performance, experiments.
+- `workflows/`: Weekly growth cadence, production, commission process, research loop, QA.
+- `automations/`: Non-credentialed automation specs for publishing, DM triage, inquiry routing, order follow-up, and reporting.
+- `launch/`: Artist-facing launch command center, checklists, publishing calendar, risk register, retrospective.
 - `templates/`: Reusable Markdown templates for agents and growth work.
 - `.github/`: Issue and pull request templates.
 
-## What the Repo Supports
-
-This repo runs the GTM engine for Wholesale-Ops with this execution path:
-
-- Content generation for Instagram-first acquisition.
-- Lead magnet distribution and scorecard responses.
-- DM/email response handling and qualification.
-- Workflow audit sales and discovery.
-- 30-Day Ops Cleanup Pilot packaging.
-- SaaS beta conversion and feedback loops.
-
 ## How The Agent System Works
 
-The agent system is a coordinated growth studio, not a pile of generic prompts.
+`agents/orchestrator-agent.md` runs the weekly growth cycle and routes work to specialized agents. The Brand Narrative Agent owns the story, research captures how collectors and communities actually talk, the Instagram Content Agent turns studio life and finished work into Instagram-native posts, the DM and Commission Sales agents turn interest into scoped commissions, the Collab Outreach Agent opens doors with brands and venues, the Shop Agent moves Carry Your Colors, the Community Impact Agent keeps the RMIAN commitment visible and honest, analytics closes the loop, and QA checks for accuracy, tone, and risk.
 
-`orchestrator-agent.md` runs the weekly growth cycle and routes work to specialized agents. Product marketing owns the narrative, research captures seller language, the Instagram Content Agent turns operator problems into Instagram-native posts, outbound and DM agents create demand, sales enablement turns interest into workflow audits, analytics closes the loop, and QA checks for fit, claims, and risk.
+`[Research] --> [Narrative] --> [Content/Outreach] --> [Commissions/Shop] --> [Analytics] --> [QA]`
 
-The expected flow is:
+Agents should read in this order:
 
-`[Research] --> [Messaging] --> [Content/Outbound] --> [Sales] --> [Analytics] --> [QA]`
-
-Future agents should read in this order:
-
-1. `product/product-marketing.md` for the canonical product context.
+1. `product/brand-brief.md` for the canonical artist context.
 2. `product/icp.md` for fit and disqualification.
-3. `audience-research/` and `voice-of-customer/` for seller psychology and language.
+3. `audience-research/` and `voice-of-customer/` for buyer psychology and language.
 4. `creative-research/`, `competitors/`, and `swipe-files/` for current creative patterns.
 5. The relevant agent card in `agents/`.
 6. The matching workflow in `workflows/`.
 7. `workflows/qa-review.md` before anything is used externally.
 
-## Continuous Research Engine
-
-The repo now runs a continuous audience and creative research loop:
-
-`[Creators] --> [Comments] --> [DMs] --> [VOC] --> [Hooks] --> [Assets] --> [Analytics]`
-
-Use `workflows/research-loop.md` every week to update audience intelligence, creative patterns, swipe files, positioning gaps, and content opportunities. Research should feed Instagram, reels, carousels, stories, outreach, lead magnets, landing pages, workflow audits, and product positioning.
-
-## MarketingSkills Submodule
-
-The external repo `coreyhaines31/marketingskills` is mounted at:
-
-`.agents/marketingskills`
-
-Use it as the shared marketing skill library. The files in `/agents` wrap those generic skills with Wholesale-Ops-specific context, constraints, and outputs.
-
-MarketingSkills can provide marketing technique, but it must not override the Wholesale-Ops positioning, audience exclusions, claim boundaries, or QA rules in this repo.
-
 ## Channel Strategy
 
-Instagram is the primary launch channel because FBA wholesale sellers are more Instagram-native than LinkedIn-native.
-
-LinkedIn remains secondary for founder credibility, partnerships, and B2B legitimacy.
+Instagram is the primary channel because art is bought with the eyes first, and collectors, commissioners, and collaborators discover artists there.
 
 Primary:
 
-- Instagram
+- Instagram (feed, reels, stories, DMs)
 
 Secondary:
 
-- X
-- YouTube Shorts/Reels
-- Discord/private communities
-- LinkedIn
+- Email (commission inquiries and a small collector list)
+- In-person Denver events, markets, murals, and studio visits
+- TikTok and YouTube Shorts (process video reuse)
+- LinkedIn (brand collaborations and corporate commissions only)
 
 ## Weekly Operating Cadence
 
-- Monday: research and strategy.
-- Tuesday: Instagram-first content production.
-- Wednesday: lead magnet and outbound.
-- Thursday: sales asset improvement.
+- Monday: research, narrative, and priorities.
+- Tuesday: Instagram content production from studio footage and finished work.
+- Wednesday: commission follow-up, collab outreach, and shop pushes.
+- Thursday: sales asset and website improvement.
 - Friday: analytics, learning, and QA.
-
-Each week should produce a small set of useful assets, record what sellers actually said, and update the operating thesis without drifting into unsupported claims.
 
 ## Claim Boundaries
 
-Do not claim Wholesale-Ops:
+Do not claim SOLEARTé:
 
-- Guarantees profitable products.
-- Prevents Amazon account issues, suspensions, IP complaints, or compliance problems.
-- Has integrations, automations, customers, metrics, case studies, or testimonials that are not documented in this repo.
-- Is built for brick-and-mortar wholesale, traditional distributors, retail stores, warehouse operators, or distributor ERP buyers.
+- Has gallery representation, press features, awards, exhibitions, or clients that are not documented in this repo.
+- Has testimonials, sales numbers, follower counts, or case studies that are not documented in this repo.
+- Guarantees a commission price, timeline, or format before the artist reviews the inquiry.
+- Donates more or less than the documented 15% of Carry Your Colors proceeds to RMIAN, or that RMIAN endorses the work.
+- Speaks for RMIAN, any immigrant community, or any individual's story other than her own.
 
-If a claim is uncertain, mark it as a hypothesis or route it to QA.
+If a claim is uncertain, mark it as a hypothesis or route it to QA. The artist's story is hers. Amplify it accurately.

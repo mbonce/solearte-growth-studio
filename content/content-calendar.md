@@ -1,16 +1,12 @@
-# Content Calendar
+# Content Calendar (rolling 4 weeks)
 
-| Week | Date | Channel | Pillar | Hook | Asset | CTA | Status | Result |
-|---|---|---|---|---|---|---|---|---|
-| TODO | TODO | LinkedIn | FBA wholesale ops discipline | TODO | Post | Scorecard | Draft | TODO |
-| TODO | TODO | X | Buy-list quality control | TODO | Thread | Audit | Draft | TODO |
-| TODO | TODO | Newsletter | Replenishment systems | TODO | Newsletter | Audit | Draft | TODO |
+Cadence hypothesis: 4 feed posts/week (2 reels, 1 carousel, 1 image), stories 4–5 days/week.
 
-## Weekly Mix
+| Week | Mon | Tue | Wed | Thu | Fri | Sat |
+|---|---|---|---|---|---|---|
+| 1 | Reel: timelapse + one line | Carousel: how a commission works | Image: finished portrait + story | Reel: sneaker walk + RMIAN line | Story: studio + poll | Image: available work |
+| 2 | Reel: artist to camera, "carry your colors" | Carousel: eight-angle sneakers | Reel: hands and layers | Image: mug in the studio | Story: Q box "what would you commission?" | Reel: reveal on the wall |
+| 3 | Reel: color study | Image: commission story (permission) | Carousel: collection story | Reel: process natural sound | Story: packing an order | Image: Denver context |
+| 4 | Reel: "eyes last" | Carousel: available originals | Reel: story to camera | Image: finished portrait | Story: recap + what's next | Reel: best of month |
 
-- 2 operator posts.
-- 1 tactical checklist.
-- 1 pain-story post.
-- 1 lead magnet CTA.
-- 1 sales-learning post.
-
+Fill actual pieces in `instagram/week-1-content-queue.md`. Update after `analytics/weekly-growth-report.md`.

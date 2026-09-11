@@ -1,42 +1,13 @@
 # Content Trigger Map
 
-## What Causes Saves
+Maps the moment someone is in to the content that meets them.
 
-- Checklists that can be used during supplier or catalog review.
-- Carousel frameworks with clear stages and required fields.
-- "Before your next buy list" posts.
-- Replenishment and margin review prompts.
-- VA review-state diagrams.
-
-## What Causes Shares
-
-- Painfully recognizable spreadsheet chaos.
-- Operator identity statements.
-- VA accountability truths.
-- Contrarian anti-guru takes.
-- "This is not sourcing, it is operations" posts.
-
-## What Causes DMs
-
-- Scorecard offers.
-- "Which workflow is messiest?" prompts.
-- Posts that name a current operational bottleneck.
-- Catalog-to-buy-list handoff content.
-- VA workflow audit questions.
-
-## What Causes Comments
-
-- Poll-like questions.
-- "Which tab is messiest?" prompts.
-- Contrarian but practical statements.
-- Mistake lists where sellers self-identify.
-- Simple either/or workflow questions.
-
-## What Causes Profile Visits
-
-- Strong first-slide positioning.
-- Reels that make Wholesale-Ops feel like an operator brand.
-- Memes that make sellers feel seen.
-- Repeated scorecard CTAs.
-- Clear bio promise around FBA wholesale operations.
-
+| Moment | Audience | Content | Format | CTA |
+|---|---|---|---|---|
+| Planning a gift for a parent | Commissioner | "How a portrait commission works" | Carousel | DM/email details |
+| Just moved, empty walls | Collector | Finished piece on a real wall | Reel or photo | "Available, DM" |
+| Feeling homesick or proud | Carrier | Carry Your Colors story | Reel with artist voice | Shop link |
+| Grieving | Commissioner | Memorial portrait process, quiet | Reel, no music hype | Soft: "I'm here" |
+| Sneaker enthusiast scrolling | Carrier | Eight-angle sneaker reveal | Carousel | Shop link |
+| Venue planning events | Collaborator | Live painting clip | Reel | Email |
+| Curious about the artist | All | Studio, hands, story | Story set / reel | Follow |

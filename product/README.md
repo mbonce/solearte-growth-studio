@@ -1,19 +1,15 @@
 # Product
 
-This folder is the source of truth for Wholesale-Ops product marketing context.
+Canonical context for who SOLEARTé is, what she offers, who it is for, and what may be claimed.
 
-Use these files before writing content, outbound, sales assets, website copy, or lead magnets. The product is an Amazon FBA wholesale operations system, not a traditional wholesaler tool, distributor ERP, warehouse system, or generic product research app.
+Read in this order:
 
-Key rule: if a claim is not supported here, treat it as a hypothesis and route it through QA before publishing it as fact.
+1. `brand-brief.md`: the artist, the work, the voice, the facts.
+2. `positioning.md`: how SOLEARTé is different and why it matters.
+3. `icp.md`: who we are for, who we are not for.
+4. `offers.md`: originals, commissions and collabs, Carry Your Colors.
+5. `pricing-notes.md`: what is public, what is scoped, what is a hypothesis.
+6. `objections.md`: what stops people and how to answer honestly.
+7. `discovery-log.md`: what we learn from real buyers over time.
 
-## How To Use This Folder
-
-- Start with `product-marketing.md` for canonical positioning and claim boundaries.
-- Use `icp.md` to decide whether an audience or prospect is in scope.
-- Use `product-modules.md` for approved module language and demo angles.
-- Use `objections.md` and `pricing-hypotheses.md` to avoid inventing answers.
-- Use `pilot-offer.md` when a workflow audit turns into a commercial next step.
-
-## Product Guardrail
-
-Do not add new modules, integrations, automations, pricing, customer results, or compliance claims without documenting the evidence and routing the change through QA.
+Every file in this repo inherits from `brand-brief.md`. If a downstream asset contradicts it, the asset is wrong.

@@ -1,26 +1,9 @@
-# Thank You Page Copy
+# Thank-You Page Copy
 
-## Confirmation
+## After a Carry Your Colors order
 
-You’re all set. The scorecard request is confirmed.
+"Thank you for carrying your colors. 15% of this order supports Rocky Mountain Immigrant Advocacy Network and their legal services for immigrant families. I'll send a note when it ships. If you post it, tag me. I'd love to see where it goes."
 
-## What to Do Next
+## After a commission inquiry
 
-1. Open and complete the 10 sections.
-2. Reply with your lowest-scoring section.
-3. Keep one answer per section and include evidence.
-
-## Invitation to DM
-
-If you want, DM your lowest section and score. We will send 3 practical cleanup prompts for that workflow.
-
-## Workflow Audit CTA
-
-If the lowest section blocks your weekly execution, you can book an ops workflow audit right away.
-
-- Primary: Get the FBA Wholesale Ops Scorecard
-- Secondary: Book an ops workflow audit
-
-## Safety Note
-
-This is operational guidance for Amazon FBA wholesale sellers. It does not guarantee profitable products and does not promise Amazon account issue prevention.
+"Got it. I read every inquiry myself and I'll reply with scope, price, and timing before anything begins. Usually within a few days. In the meantime, here's how I work: [link to process reel or highlight]."

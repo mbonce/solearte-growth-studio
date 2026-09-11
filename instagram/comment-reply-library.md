@@ -1,46 +1,12 @@
 # Comment Reply Library
 
-## Agreement Comments
-
-- "Exactly. Once sourcing starts working, operations becomes the constraint."
-- "Yep. More catalog volume makes weak handoffs obvious fast."
-- "That is the shift from seller to operator."
-
-## Skeptical Comments
-
-- "Fair pushback. Sheets can work. The question is whether owner, status, decision history, and next action are clear."
-- "Not every seller needs more process. It matters once catalogs, VAs, buy lists, and replenishment start multiplying."
-- "Agreed that tools alone do not fix workflow. The process has to be clear first."
-
-## "I Use Sheets" Comments
-
-- "Same for most sellers. The scorecard helps find where the sheet starts carrying too many jobs."
-- "Sheets are fine early. The issue is when they become supplier CRM, catalog queue, buy list, and replenishment memory all at once."
-
-## "This Is Me" Comments
-
-- "Which part is messiest right now: supplier follow-up, catalog review, buy list, VA workflow, or replenishment?"
-- "If you want, comment scorecard and I will send the checklist."
-
-## Beginner Comments
-
-- "If you are still pre-wholesale, start with supplier outreach first. The scorecard is most useful once catalogs and buy lists are active."
-- "Good question. This is mainly for sellers already managing FBA wholesale workflow."
-
-## Product Questions
-
-- "Wholesale-Ops is focused on operations around suppliers, catalogs, ASIN decisions, buy lists, shipments, replenishment, and VA workflows."
-- "Good question. I would route specific product capability questions to human review so we do not overstate anything."
-
-## Scorecard Requests
-
-- "Comment noted. DMing you the scorecard prompt."
-- "Yes. DM OPS and I will send it."
-- "Start with the scorecard and look for the lowest-scoring workflow."
-
-## Off-Topic Comments
-
-- "Keeping this thread focused on FBA wholesale operations."
-- "Not the focus here, but appreciate you reading."
-- "This page is for Amazon FBA wholesale workflow and operations."
-
+| Comment type | Reply |
+|---|---|
+| "The colors!" | "Loud on purpose. Thank you." |
+| "How much for a portrait?" | "Every commission is scoped with me. DM me who it's for and the size and I'll send a proposal." |
+| "Do you ship?" | "Yes, delivery is confirmed as part of scope. Denver pickup too." |
+| "Where can I get the sneakers?" | "Link in bio. 15% of proceeds go to RMIAN." |
+| "Sizing?" | "DM me and I'll tell you how they run." (until the site has a size guide) |
+| "Is this for sale?" | "Yes, DM me for size and details." |
+| Personal story shared | Reply personally. No CTA. |
+| Negative or hostile | Do not engage. Route to artist. |

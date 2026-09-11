@@ -1,33 +1,18 @@
 ---
 name: Content request
-about: Request content for Wholesale-Ops
+about: Request a post, reel, carousel, story set, or caption
 title: "[Content] "
 labels: content
-assignees: ""
 ---
 
-## Content Type
+**Pillar** (Studio Process / Finished Work / Story & Identity / Carry Your Colors / Commissions / Community & RMIAN):
 
-- Channel:
-- Format:
-- CTA:
+**Format** (reel / carousel / single image / story set / caption only):
 
-## Target Seller
+**Source material available** (studio footage, finished piece, WIP photos, none yet):
 
-- FBA wholesale segment:
-- Operating maturity:
-- Workflow pain:
+**Goal** (saves, shares, commission DMs, shop clicks, follows):
 
-## Brief
+**Deadline**:
 
-- Hook:
-- Core message:
-- Source material:
-- Seller language:
-
-## QA Notes
-
-- Claims to avoid:
-- Risk-sensitive topics:
-- Deadline:
-
+**Notes / must-include / must-avoid**:
