@@ -1,0 +1,17 @@
+{
+  "name": "instagram-graphics-eval-harness",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node generate.mjs",
+    "verify": "node verify.mjs"
+  },
+  "dependencies": {
+    "@resvg/resvg-js": "2.6.2",
+    "html-to-image": "1.11.13",
+    "playwright": "1.61.0",
+    "satori": "0.26.0",
+    "sharp": "0.34.5"
+  }
+}

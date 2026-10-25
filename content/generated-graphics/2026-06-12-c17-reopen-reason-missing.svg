@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1254" height="1254" viewBox="0 0 1254 1254" role="img" aria-labelledby="title desc">
+  <title id="title">Graphic 08 Reopen Reason Missing</title>
+  <desc id="desc">Internal-only editorial poster showing fake catalog rows returning to review without a saved reopen reason, using founder-gated CTA handling and no external-use approval.</desc>
+  <rect width="1254" height="1254" fill="#f7f0e6"/>
+  <rect x="0" y="0" width="1254" height="178" fill="#111111"/>
+  <polygon points="0,1254 0,692 396,610 680,1254" fill="#1d5c63"/>
+  <polygon points="826,150 1254,90 1254,474 874,544" fill="#ff6b35"/>
+  <polygon points="886,884 1254,796 1254,1254 1018,1254" fill="#ffd84f"/>
+
+  <rect x="78" y="66" width="284" height="60" rx="10" fill="#ffd84f" transform="rotate(-3 78 66)"/>
+  <text x="100" y="108" fill="#111111" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="29">RETURN TRIGGER LOST</text>
+
+  <text x="80" y="344" fill="#111111" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="120" letter-spacing="2">BACK IN</text>
+  <text x="80" y="450" fill="#111111" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="120" letter-spacing="2">REVIEW</text>
+  <text x="86" y="508" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="34">The queue needs the reopen reason, not only the new status.</text>
+
+  <g transform="rotate(-5 838 330)">
+    <rect x="550" y="198" width="596" height="248" rx="18" fill="#fff8ef" stroke="#111111" stroke-width="5"/>
+    <text x="586" y="262" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="28" font-weight="700">SUPPLIER BOARD A</text>
+    <text x="586" y="334" fill="#111111" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="56">REOPEN REASON SAVED</text>
+    <text x="586" y="382" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="29">Returned to review because MOQ changed after supplier update.</text>
+    <text x="586" y="418" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="29">Reviewer checkpoint kept  /  Next owner: catalog lead</text>
+  </g>
+
+  <g transform="rotate(4 810 676)">
+    <rect x="528" y="500" width="588" height="294" rx="18" fill="#111111"/>
+    <rect x="552" y="524" width="540" height="246" rx="12" fill="#ff6b35"/>
+    <text x="588" y="592" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="28" font-weight="700">SUPPLIER BOARD B</text>
+    <text x="588" y="668" fill="#111111" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="60">BACK IN REVIEW</text>
+    <text x="588" y="714" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="30">Status changed, but the queue never says what reopened the row.</text>
+    <text x="588" y="750" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="30">Next owner: unclear  /  Next: repeat approval check</text>
+  </g>
+
+  <g transform="rotate(-3 430 934)">
+    <rect x="154" y="820" width="494" height="232" rx="16" fill="#fff8ef" stroke="#111111" stroke-width="5"/>
+    <text x="190" y="886" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="28" font-weight="700">SUPPLIER BOARD C</text>
+    <text x="190" y="954" fill="#111111" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="52">TRIGGER HALF SAVED</text>
+    <text x="190" y="998" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="27">Change is visible, but the reviewer checkpoint and next step fell off.</text>
+  </g>
+
+  <rect x="72" y="1120" width="1112" height="88" fill="#111111"/>
+  <text x="96" y="1174" fill="#f7f0e6" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="40">WHEN A ROW RETURNS TO REVIEW, SAVE THE REOPEN REASON OR THE TEAM REPEATS THE SAME CHECK.</text>
+  <text x="96" y="1204" fill="#f7f0e6" font-family="'Arial Narrow', Arial, sans-serif" font-size="22">Fake rows only. Founder-gated CTA. Internal-only staging asset.</text>
+</svg>

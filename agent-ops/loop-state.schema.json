@@ -1,0 +1,138 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Wholesale Ops Growth Studio Loop State",
+  "type": "object",
+  "required": [
+    "loop_mode",
+    "last_tick_at",
+    "next_tick_due_at",
+    "minimum_active_agents",
+    "active_agent_ttl_hours",
+    "active_agents",
+    "allowed_actions",
+    "forbidden_actions"
+  ],
+  "properties": {
+    "loop_mode": {
+      "enum": ["active_internal_only", "blocked", "paused"]
+    },
+    "last_tick_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "next_tick_due_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "minimum_active_agents": {
+      "type": "integer",
+      "minimum": 2
+    },
+    "active_agent_ttl_hours": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "active_agents": {
+      "type": "array",
+      "minItems": 2,
+      "items": {
+        "$ref": "#/$defs/agentTask"
+      }
+    },
+    "ready_queue": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/queuedTask"
+      }
+    },
+    "qa_queue": {
+      "type": "array"
+    },
+    "human_approval_queue": {
+      "type": "array"
+    },
+    "blocked_queue": {
+      "type": "array"
+    },
+    "hard_break_events": {
+      "type": "array"
+    },
+    "allowed_actions": {
+      "type": "array",
+      "contains": {
+        "const": "repo_update"
+      }
+    },
+    "forbidden_actions": {
+      "type": "array",
+      "allOf": [
+        { "contains": { "const": "post" } },
+        { "contains": { "const": "dm_send" } },
+        { "contains": { "const": "email_send" } },
+        { "contains": { "const": "external_schedule" } },
+        { "contains": { "const": "pricing_promise" } },
+        { "contains": { "const": "account_health_advice" } },
+        { "contains": { "const": "legal_or_compliance_advice" } },
+        { "contains": { "const": "public_result_claim" } },
+        { "contains": { "const": "undocumented_product_claim" } }
+      ]
+    }
+  },
+  "$defs": {
+    "status": {
+      "enum": [
+        "ready",
+        "active",
+        "needs_qa",
+        "needs_revision",
+        "human_review",
+        "blocked",
+        "complete_internal",
+        "approved_for_human_use"
+      ]
+    },
+    "agentTask": {
+      "type": "object",
+      "required": [
+        "agent",
+        "task_id",
+        "status",
+        "heartbeat_at",
+        "risk_level",
+        "allowed_actions",
+        "forbidden_actions",
+        "output_path"
+      ],
+      "properties": {
+        "agent": { "type": "string" },
+        "task_id": { "type": "string" },
+        "status": { "$ref": "#/$defs/status" },
+        "heartbeat_at": { "type": "string", "format": "date-time" },
+        "risk_level": { "type": "integer", "minimum": 0, "maximum": 3 },
+        "allowed_actions": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "forbidden_actions": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "output_path": { "type": "string" }
+      }
+    },
+    "queuedTask": {
+      "type": "object",
+      "required": ["task_id", "agent", "status", "allowed_actions", "output_path"],
+      "properties": {
+        "task_id": { "type": "string" },
+        "agent": { "type": "string" },
+        "status": { "$ref": "#/$defs/status" },
+        "allowed_actions": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "output_path": { "type": "string" }
+      }
+    }
+  }
+}

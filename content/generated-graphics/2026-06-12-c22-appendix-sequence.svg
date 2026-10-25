@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1254" height="1254" viewBox="0 0 1254 1254" role="img" aria-labelledby="title desc">
+  <title id="title">Graphic 12 Appendix Sequence</title>
+  <desc id="desc">Internal-only creator-style founder-packet support graphic showing the appendix-only board order with fake workflow cards and founder-gated CTA handling.</desc>
+  <rect width="1254" height="1254" fill="#111111"/>
+  <rect x="0" y="0" width="1254" height="196" fill="#171717"/>
+  <rect x="0" y="196" width="1254" height="14" fill="#ff6c33"/>
+  <rect x="0" y="210" width="1254" height="14" fill="#ffd34a"/>
+  <rect x="0" y="224" width="1254" height="14" fill="#0c6972"/>
+
+  <rect x="76" y="68" width="458" height="54" rx="8" fill="#ff6c33"/>
+  <text x="102" y="104" fill="#111111" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="26">INTERNAL ONLY / FOUNDER-GATED / FAKE ROWS</text>
+
+  <text x="76" y="326" fill="#f5efe4" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="126">APPENDIX</text>
+  <text x="76" y="434" fill="#f5efe4" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="126">STACK</text>
+  <text x="82" y="492" fill="#ffd34a" font-family="'Arial Narrow', Arial, sans-serif" font-size="34" font-weight="700">Keep the core 5 boards tight. Drop the explainers behind them.</text>
+
+  <rect x="726" y="74" width="442" height="100" rx="12" fill="#f5efe4"/>
+  <text x="754" y="116" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="24" font-weight="700">FOUNDER PACKET RULE</text>
+  <text x="754" y="154" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="28">Main packet first. Support boards second.</text>
+
+  <rect x="74" y="584" width="1106" height="118" rx="18" fill="#1b1b1b" stroke="#ff6c33" stroke-width="4"/>
+  <text x="108" y="632" fill="#ff6c33" font-family="'Arial Narrow', Arial, sans-serif" font-size="24" font-weight="700">01 / GRAPHIC 10 / RULE BOARD</text>
+  <text x="108" y="684" fill="#f5efe4" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="56">CONTEXT CARRIES FORWARD</text>
+  <text x="828" y="666" fill="#ffd34a" font-family="'Arial Narrow', Arial, sans-serif" font-size="28" font-weight="700">Open with the rule.</text>
+
+  <rect x="148" y="734" width="1032" height="112" rx="18" fill="#f5efe4"/>
+  <text x="182" y="780" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="24" font-weight="700">02 / GRAPHIC 07 / CHECKPOINT</text>
+  <text x="182" y="828" fill="#111111" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="54">SAVE THE REVIEW RECEIPT</text>
+  <text x="874" y="810" fill="#0c6972" font-family="'Arial Narrow', Arial, sans-serif" font-size="28" font-weight="700">Then show what survives.</text>
+
+  <rect x="222" y="876" width="958" height="112" rx="18" fill="#ff6c33"/>
+  <text x="256" y="922" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="24" font-weight="700">03 / GRAPHIC 08 / RETURN TO REVIEW</text>
+  <text x="256" y="970" fill="#111111" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="54">WHAT REOPENED IT?</text>
+  <text x="866" y="952" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="28" font-weight="700">Then show the trigger gap.</text>
+
+  <rect x="298" y="1018" width="882" height="112" rx="18" fill="#ffd34a"/>
+  <text x="332" y="1064" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="24" font-weight="700">04 / GRAPHIC 11 / TROUBLESHOOTING CLOSER</text>
+  <text x="332" y="1112" fill="#111111" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="52">WHERE THE CHAIN BREAKS</text>
+
+  <rect x="74" y="1168" width="1106" height="46" rx="8" fill="#0c6972"/>
+  <text x="102" y="1198" fill="#f5efe4" font-family="'Arial Narrow', Arial, sans-serif" font-size="22">Creator-feed layout target. Local staging asset only. Not approved for external use.</text>
+</svg>

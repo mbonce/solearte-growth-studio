@@ -1,0 +1,161 @@
+{
+  "export_root": "/Users/michaelboncelet/Downloads/wholesale-ops-growth-studio-approved-content",
+  "policy_path": "agent-ops/downloads-export-policy.md",
+  "updated_at": "2026-06-12T18:56:40.000Z",
+  "exports": [
+    {
+      "asset": "Cycle 1 internal content batch",
+      "source_path": "content/cycle-1-internal-content-batch.md",
+      "qa_source_path": "content/cycle-1-qa-review.md",
+      "target_path": "/Users/michaelboncelet/Downloads/wholesale-ops-growth-studio-approved-content/cycle-1/cycle-1-internal-content-batch.md",
+      "qa_status": "internal queue approved after sentence-level re-check",
+      "external_use_status": "not approved for external use",
+      "human_approval_required": true,
+      "export_status": "exported",
+      "exported_at": "2026-06-11T12:45:22.244Z"
+    },
+    {
+      "asset": "Cycle 1 QA review",
+      "source_path": "content/cycle-1-qa-review.md",
+      "qa_source_path": "content/cycle-1-qa-review.md",
+      "target_path": "/Users/michaelboncelet/Downloads/wholesale-ops-growth-studio-approved-content/cycle-1/cycle-1-qa-review.md",
+      "qa_status": "internal queue approved after sentence-level re-check",
+      "external_use_status": "not approved for external use",
+      "human_approval_required": true,
+      "export_status": "exported",
+      "exported_at": "2026-06-11T12:45:22.246Z"
+    },
+    {
+      "asset": "Week 1 production packet",
+      "source_path": "content/week-1-production-packet.md",
+      "qa_source_path": "content/week-1-production-packet-qa-review.md",
+      "target_path": "/Users/michaelboncelet/Downloads/wholesale-ops-growth-studio-approved-content/week-1/week-1-production-packet.md",
+      "qa_status": "internal-ready for local Downloads staging",
+      "external_use_status": "not approved for external use",
+      "human_approval_required": true,
+      "export_status": "exported",
+      "exported_at": "2026-06-12T08:50:00.000Z"
+    },
+    {
+      "asset": "Week 1 production packet QA review",
+      "source_path": "content/week-1-production-packet-qa-review.md",
+      "qa_source_path": "content/week-1-production-packet-qa-review.md",
+      "target_path": "/Users/michaelboncelet/Downloads/wholesale-ops-growth-studio-approved-content/week-1/week-1-production-packet-qa-review.md",
+      "qa_status": "internal-ready for local Downloads staging",
+      "external_use_status": "not approved for external use",
+      "human_approval_required": true,
+      "export_status": "exported",
+      "exported_at": "2026-06-12T08:50:00.000Z"
+    },
+    {
+      "asset": "Cycle 2 internal design brief",
+      "source_path": "content/cycle-2-internal-design-brief.md",
+      "qa_source_path": "content/cycle-2-internal-design-brief.md",
+      "target_path": "/Users/michaelboncelet/Downloads/wholesale-ops-growth-studio-approved-content/cycle-2/cycle-2-internal-design-brief.md",
+      "qa_status": "internal-ready after QA tagging",
+      "external_use_status": "not approved for external use",
+      "human_approval_required": true,
+      "export_status": "exported",
+      "exported_at": "2026-06-12T08:50:00.000Z"
+    },
+    {
+      "asset": "Cycle 18 graphics staging board",
+      "source_path": "content/cycle-18-graphics-staging-board.md",
+      "qa_source_path": "content/cycle-19-packet-qa-review.md",
+      "target_path": "/Users/michaelboncelet/Downloads/wholesale-ops-growth-studio-approved-content/cycle-18/cycle-18-graphics-staging-board.md",
+      "qa_status": "approved_for_human_use",
+      "external_use_status": "not approved for external use",
+      "human_approval_required": true,
+      "export_status": "exported",
+      "exported_at": "2026-06-12T15:55:04.000Z"
+    },
+    {
+      "asset": "Cycle 18 social draft packet",
+      "source_path": "content/cycle-18-social-draft-packet.md",
+      "qa_source_path": "content/cycle-19-packet-qa-review.md",
+      "target_path": "/Users/michaelboncelet/Downloads/wholesale-ops-growth-studio-approved-content/cycle-18/cycle-18-social-draft-packet.md",
+      "qa_status": "internal-ready after QA tagging",
+      "external_use_status": "not approved for external use",
+      "human_approval_required": true,
+      "export_status": "exported",
+      "exported_at": "2026-06-12T15:55:04.000Z"
+    },
+    {
+      "asset": "Cycle 19 packet QA review",
+      "source_path": "content/cycle-19-packet-qa-review.md",
+      "qa_source_path": "content/cycle-19-packet-qa-review.md",
+      "target_path": "/Users/michaelboncelet/Downloads/wholesale-ops-growth-studio-approved-content/cycle-18/cycle-19-packet-qa-review.md",
+      "qa_status": "approved_for_human_use",
+      "external_use_status": "not approved for external use",
+      "human_approval_required": true,
+      "export_status": "exported",
+      "exported_at": "2026-06-12T15:55:04.000Z"
+    },
+    {
+      "asset": "Cycle 20 founder packet cover QA",
+      "source_path": "content/cycle-20-founder-packet-cover-qa.md",
+      "qa_source_path": "content/cycle-22-founder-packet-export-readiness-review.md",
+      "target_path": "/Users/michaelboncelet/Downloads/wholesale-ops-growth-studio-approved-content/cycle-22/cycle-20-founder-packet-cover-qa.md",
+      "qa_status": "approved_for_human_use",
+      "external_use_status": "not approved for external use",
+      "human_approval_required": true,
+      "export_status": "exported",
+      "exported_at": "2026-06-12T18:56:40.000Z"
+    },
+    {
+      "asset": "Cycle 20 channel packet selection",
+      "source_path": "content/cycle-20-channel-packet-selection.md",
+      "qa_source_path": "content/cycle-22-founder-packet-export-readiness-review.md",
+      "target_path": "/Users/michaelboncelet/Downloads/wholesale-ops-growth-studio-approved-content/cycle-22/cycle-20-channel-packet-selection.md",
+      "qa_status": "approved_for_human_use",
+      "external_use_status": "not approved for external use",
+      "human_approval_required": true,
+      "export_status": "exported",
+      "exported_at": "2026-06-12T18:56:40.000Z"
+    },
+    {
+      "asset": "Cycle 21 channel derivative brief",
+      "source_path": "content/cycle-21-channel-derivative-brief.md",
+      "qa_source_path": "content/cycle-22-founder-packet-export-readiness-review.md",
+      "target_path": "/Users/michaelboncelet/Downloads/wholesale-ops-growth-studio-approved-content/cycle-22/cycle-21-channel-derivative-brief.md",
+      "qa_status": "approved_for_human_use",
+      "external_use_status": "not approved for external use",
+      "human_approval_required": true,
+      "export_status": "exported",
+      "exported_at": "2026-06-12T18:56:40.000Z"
+    },
+    {
+      "asset": "Cycle 21 caption tightening",
+      "source_path": "content/cycle-21-caption-tightening.md",
+      "qa_source_path": "content/cycle-22-founder-packet-export-readiness-review.md",
+      "target_path": "/Users/michaelboncelet/Downloads/wholesale-ops-growth-studio-approved-content/cycle-22/cycle-21-caption-tightening.md",
+      "qa_status": "approved_for_human_use",
+      "external_use_status": "not approved for external use",
+      "human_approval_required": true,
+      "export_status": "exported",
+      "exported_at": "2026-06-12T18:56:40.000Z"
+    },
+    {
+      "asset": "Cycle 22 appendix sequence prep",
+      "source_path": "content/cycle-22-appendix-sequence-prep.md",
+      "qa_source_path": "content/cycle-22-founder-packet-export-readiness-review.md",
+      "target_path": "/Users/michaelboncelet/Downloads/wholesale-ops-growth-studio-approved-content/cycle-22/cycle-22-appendix-sequence-prep.md",
+      "qa_status": "approved_for_human_use",
+      "external_use_status": "not approved for external use",
+      "human_approval_required": true,
+      "export_status": "exported",
+      "exported_at": "2026-06-12T18:56:40.000Z"
+    },
+    {
+      "asset": "Cycle 22 founder packet export readiness review",
+      "source_path": "content/cycle-22-founder-packet-export-readiness-review.md",
+      "qa_source_path": "content/cycle-22-founder-packet-export-readiness-review.md",
+      "target_path": "/Users/michaelboncelet/Downloads/wholesale-ops-growth-studio-approved-content/cycle-22/cycle-22-founder-packet-export-readiness-review.md",
+      "qa_status": "approved_for_human_use",
+      "external_use_status": "not approved for external use",
+      "human_approval_required": true,
+      "export_status": "exported",
+      "exported_at": "2026-06-12T18:56:40.000Z"
+    }
+  ]
+}

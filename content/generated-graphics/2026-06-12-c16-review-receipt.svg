@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1254" height="1254" viewBox="0 0 1254 1254" role="img" aria-labelledby="title desc">
+  <title id="title">Graphic 07 Review Receipt</title>
+  <desc id="desc">Internal-only editorial poster showing how a saved reviewer checkpoint keeps approval notes, ownership, and next action attached to the row, using fake data and founder-gated CTA handling.</desc>
+  <rect width="1254" height="1254" fill="#f6efe4"/>
+  <rect x="0" y="0" width="1254" height="202" fill="#111111"/>
+  <polygon points="0,1254 0,626 494,506 770,1254" fill="#ff5a36"/>
+  <polygon points="734,214 1254,96 1254,544 842,620" fill="#ffd84f"/>
+  <rect x="76" y="72" width="246" height="58" rx="10" fill="#ffd84f" transform="rotate(-3 76 72)"/>
+  <text x="98" y="112" fill="#111111" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="30">CHECKPOINT SAVED</text>
+  <text x="80" y="382" fill="#111111" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="122" letter-spacing="2">REVIEW</text>
+  <text x="80" y="484" fill="#111111" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="122" letter-spacing="2">RECEIPT</text>
+  <text x="86" y="542" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="34">The saved reviewer checkpoint is the trust artifact.</text>
+
+  <g transform="rotate(-5 828 348)">
+    <rect x="560" y="206" width="584" height="246" rx="18" fill="#fff8ef" stroke="#111111" stroke-width="5"/>
+    <text x="594" y="268" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="28" font-weight="700">SUPPLIER BOARD A</text>
+    <text x="594" y="340" fill="#111111" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="60">RECEIPT SAVED</text>
+    <text x="594" y="386" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="30">Reviewed by M. Chen with approval note and next move.</text>
+    <text x="594" y="422" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="30">Next owner: prep team  /  Next: create PO draft</text>
+  </g>
+
+  <g transform="rotate(4 800 678)">
+    <rect x="534" y="504" width="580" height="286" rx="18" fill="#111111"/>
+    <rect x="556" y="526" width="536" height="242" rx="12" fill="#ffd84f"/>
+    <text x="592" y="592" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="28" font-weight="700">SUPPLIER BOARD B</text>
+    <text x="592" y="666" fill="#111111" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="62">RECEIPT MISSING</text>
+    <text x="592" y="712" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="30">Approved row, but nobody can see who cleared it or why.</text>
+    <text x="592" y="748" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="30">Next owner: unknown  /  Next: re-check review</text>
+  </g>
+
+  <g transform="rotate(-3 454 956)">
+    <rect x="166" y="830" width="468" height="222" rx="16" fill="#fff8ef" stroke="#111111" stroke-width="5"/>
+    <text x="198" y="892" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="28" font-weight="700">SUPPLIER BOARD C</text>
+    <text x="198" y="958" fill="#111111" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="52">PARTIAL RECEIPT</text>
+    <text x="198" y="1002" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="28">Reviewer is visible, but the next action did not survive.</text>
+  </g>
+
+  <rect x="72" y="1120" width="1112" height="88" fill="#111111"/>
+  <text x="96" y="1174" fill="#f6efe4" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="42">A REVIEW RECEIPT LETS THE NEXT OPERATOR TRUST THE ROW WITHOUT RE-RUNNING APPROVAL.</text>
+  <text x="96" y="1204" fill="#f6efe4" font-family="'Arial Narrow', Arial, sans-serif" font-size="22">Fake rows only. Founder-gated CTA. Internal-only staging asset.</text>
+</svg>

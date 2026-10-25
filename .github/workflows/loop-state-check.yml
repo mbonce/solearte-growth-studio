@@ -1,0 +1,28 @@
+name: Loop State Check
+
+on:
+  pull_request:
+    paths:
+      - "agent-ops/loop-state.json"
+      - "agent-ops/loop-state.schema.json"
+      - "agent-ops/hard-break-policy.yml"
+      - "scripts/validate-loop-state.mjs"
+      - ".github/workflows/loop-state-check.yml"
+  push:
+    paths:
+      - "agent-ops/loop-state.json"
+      - "agent-ops/loop-state.schema.json"
+      - "agent-ops/hard-break-policy.yml"
+      - "scripts/validate-loop-state.mjs"
+      - ".github/workflows/loop-state-check.yml"
+
+jobs:
+  validate-loop-state:
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - run: node scripts/validate-loop-state.mjs

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1254" height="1254" viewBox="0 0 1254 1254" role="img" aria-labelledby="title desc">
+  <title id="title">Graphic 04 Handoff-Ready State</title>
+  <desc id="desc">Internal-only editorial poster showing the minimum context needed before a row is handoff-ready, using fake rows and founder-gated CTA handling.</desc>
+  <rect width="1254" height="1254" fill="#f3eee5"/>
+  <rect x="0" y="926" width="1254" height="328" fill="#111111"/>
+  <polygon points="0,118 1254,0 1254,176 0,294" fill="#5ecb8f"/>
+  <circle cx="996" cy="344" r="166" fill="#ff5a36"/>
+  <rect x="76" y="82" width="296" height="60" rx="10" fill="#111111"/>
+  <text x="102" y="122" fill="#f3eee5" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="30">MINIMUM HANDOFF CONTEXT</text>
+  <text x="82" y="426" fill="#111111" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="118" letter-spacing="2">HANDOFF-</text>
+  <text x="82" y="524" fill="#111111" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="118" letter-spacing="2">READY</text>
+  <text x="88" y="584" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="34">Approval note, owner, next action. Nothing softer.</text>
+
+  <g transform="rotate(-4 758 402)">
+    <rect x="612" y="238" width="542" height="238" rx="16" fill="#fff8ef" stroke="#111111" stroke-width="5"/>
+    <text x="646" y="304" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="28" font-weight="700">SUPPLIER BOARD A</text>
+    <text x="646" y="376" fill="#111111" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="60">HANDOFF-READY</text>
+    <text x="646" y="418" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="30">Approved buy noted</text>
+    <text x="646" y="454" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="30">Owner: L. Morgan  /  Next: move to PO prep</text>
+  </g>
+
+  <g transform="rotate(4 766 694)">
+    <rect x="564" y="520" width="572" height="270" rx="18" fill="#ffd84f" stroke="#111111" stroke-width="5"/>
+    <text x="600" y="588" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="28" font-weight="700">SUPPLIER BOARD B</text>
+    <text x="600" y="662" fill="#111111" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="62">NEEDS NEXT OWNER</text>
+    <text x="600" y="708" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="30">Approved, but no handoff note saved.</text>
+    <text x="600" y="744" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="30">Owner: unassigned  /  Next: assign buyer</text>
+  </g>
+
+  <g transform="rotate(-5 414 814)">
+    <rect x="120" y="696" width="448" height="242" rx="16" fill="#ff5a36" stroke="#111111" stroke-width="5"/>
+    <text x="154" y="756" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="28" font-weight="700">SUPPLIER BOARD C</text>
+    <text x="154" y="826" fill="#111111" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="58">REVIEWING</text>
+    <text x="154" y="870" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="30">No approval note yet.</text>
+    <text x="154" y="906" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="30">Owner: M. Chen  /  Next: resolve decision</text>
+  </g>
+
+  <text x="82" y="1034" fill="#f3eee5" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="44">A ROW IS ONLY HANDOFF-READY WHEN THE NOTE, OWNER, AND NEXT ACTION ARE VISIBLE.</text>
+  <text x="82" y="1078" fill="#f3eee5" font-family="'Arial Narrow', Arial, sans-serif" font-size="24">Fake rows only. No claims. Scorecard CTA remains founder-gated.</text>
+  <text x="82" y="1114" fill="#f3eee5" font-family="'Arial Narrow', Arial, sans-serif" font-size="24">Internal-only staging asset. Not approved for posting, sending, or scheduling.</text>
+</svg>
