@@ -1,0 +1,16 @@
+{
+  "name": "SOLEARTé",
+  "site": "https://solearte.co",
+  "email": "solearté@gmail.com",
+  "location": "Denver, Colorado, 80211",
+  "tagline": "Expressive Portraits and Original Art in Denver",
+  "rmianLine": "15% of proceeds from this collection support Rocky Mountain Immigrant Advocacy Network and their work providing legal services to immigrant families.",
+  "rmianPercent": 15,
+  "pages": { "commission": "/commission", "shop": "/carryyourcolors", "about": "/about" },
+  "products": [
+    { "name": "Carry Your Colors High-Top Sneakers", "price": 109.99, "url": "/carryyourcolors/p/f04caaimesl1xj8pevcw2zdhjaa5j6" },
+    { "name": "Unapologetic Individuality Mug", "price": 35.0, "url": "/carryyourcolors/p/gentle-cleanser-ldk44" },
+    { "name": "Unapologetic Individuality Pillow", "price": null, "url": "/carryyourcolors/p/unapologetic-individulality", "note": "price not set on site" }
+  ],
+  "bannedWords": ["disruptive", "exclusive", "elevated", "luxury", "investment piece", "hustle", "grind", "limited drop", "last chance"]
+}

@@ -1,0 +1,22 @@
+[
+  { "day": 1, "format": "reel", "pillar": "story", "hook": "Why my colors are loud",
+    "caption": "Movement is natural. I'm an immigrant and an artist in Denver, and everything I make is about carrying where you come from into where you're going.\n\nPortraits, originals, and a wearable-art collection where {{rmian}}\n\nStay for the process.",
+    "alt": "SOLEARTé speaking to camera in her Denver studio, saturated portraits on the wall behind her.",
+    "needs": ["30s phone video, natural light"] },
+  { "day": 2, "format": "carousel", "pillar": "commissions", "hook": "How a portrait commission works",
+    "caption": "How a portrait commission works with me:\n\n1. You tell me who it's for and where it will live.\n2. You send a few reference photos. Imperfect is fine.\n3. I come back with scope, price, and timing before anything begins.\n4. I paint. You get the piece, delivered in Denver or shipped.\n\nCommissions are open. Email {{email}} or DM \"portrait\".",
+    "alt": "Eight-slide carousel explaining SOLEARTé's portrait commission process.",
+    "needs": ["3 finished portraits", "reference-on-easel shot", "hands shot", "piece-on-wall shot"] },
+  { "day": 3, "format": "reel", "pillar": "process", "hook": "I don't paint the photo. I paint what the photo can't show.",
+    "caption": "Blank at [time]. This at [time]. Somewhere in the middle I stopped trying to control the red and it started working.\n\nStay for the process.",
+    "alt": "Timelapse of a portrait being painted from blank canvas to finished.",
+    "needs": ["timelapse of current piece"] },
+  { "day": 4, "format": "carousel", "pillar": "collection", "hook": "A painting you can walk in.",
+    "caption": "A painting you can walk in.\n\nCarry Your Colors high-tops, designed from the idea that stepping forward doesn't mean leaving behind where you come from.\n\n{{rmian}}\n\n${{sneakersPrice}}. Link in bio.",
+    "alt": "Carry Your Colors high-top sneakers with SOLEARTé's saturated artwork, shown from eight angles.",
+    "needs": [] },
+  { "day": 5, "format": "image", "pillar": "finished-work", "hook": "[Title]",
+    "caption": "[Title]. [Size] on [surface].\n\nThis one is about [two sentences].\n\nAvailable. DM for size and details.",
+    "alt": "[Title], a saturated portrait by SOLEARTé.",
+    "needs": ["one finished piece + title, size, surface, two sentences", "permission if a commission"] }
+]

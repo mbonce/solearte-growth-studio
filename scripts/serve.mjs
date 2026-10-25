@@ -1,0 +1,3 @@
+import { createServer } from "node:http"; import { readFile } from "node:fs/promises"; import { extname, join } from "node:path";
+const types = { ".html": "text/html", ".css": "text/css", ".js": "text/javascript", ".json": "application/json", ".svg": "image/svg+xml", ".png": "image/png", ".jpg": "image/jpeg" };
+createServer(async (req, res) => { const p = req.url === "/" ? "/index.html" : req.url.split("?")[0]; try { const b = await readFile(join("site", p)); res.writeHead(200, { "content-type": types[extname(p)] || "application/octet-stream" }); res.end(b); } catch { res.writeHead(404); res.end("not found"); } }).listen(4173, () => console.log("advocacy site -> http://localhost:4173"));
