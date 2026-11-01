@@ -1,0 +1,302 @@
+{
+  "loop_mode": "active_internal_only",
+  "last_tick_at": "2026-06-12T18:56:40Z",
+  "next_tick_due_at": "2026-06-12T19:56:40Z",
+  "minimum_active_agents": 2,
+  "active_agent_ttl_hours": 4,
+  "active_agents": [
+    {
+      "agent": "Direct VOC Gap Reduction Agent",
+      "task_id": "cycle-23-approved-direct-source-proof-hunt",
+      "status": "active",
+      "heartbeat_at": "2026-06-12T18:56:40Z",
+      "risk_level": 1,
+      "allowed_actions": ["research", "internal_report", "repo_update"],
+      "forbidden_actions": ["post", "publish", "upload", "dm_send", "email_send", "external_schedule", "external_contact", "comment_reply"],
+      "output_path": "research/customer-language.md"
+    },
+    {
+      "agent": "Instagram Content Agent",
+      "task_id": "cycle-23-appendix-divider-variant-polish",
+      "status": "active",
+      "heartbeat_at": "2026-06-12T18:56:40Z",
+      "risk_level": 1,
+      "allowed_actions": ["draft", "qa", "internal_report", "repo_update"],
+      "forbidden_actions": ["post", "publish", "upload", "dm_send", "email_send", "external_schedule", "external_contact", "comment_reply"],
+      "output_path": "content/generated-graphics/2026-06-12-c22-appendix-sequence.svg"
+    },
+    {
+      "agent": "FBA Ops Content Agent",
+      "task_id": "cycle-23-non-instagram-derivative-choice",
+      "status": "active",
+      "heartbeat_at": "2026-06-12T18:56:40Z",
+      "risk_level": 1,
+      "allowed_actions": ["draft", "internal_report", "repo_update"],
+      "forbidden_actions": ["post", "publish", "upload", "dm_send", "email_send", "external_schedule", "external_contact", "comment_reply"],
+      "output_path": "content/cycle-21-channel-derivative-brief.md"
+    },
+    {
+      "agent": "QA Agent",
+      "task_id": "cycle-23-staged-bundle-audit",
+      "status": "active",
+      "heartbeat_at": "2026-06-12T18:56:40Z",
+      "risk_level": 1,
+      "allowed_actions": ["qa", "internal_report", "repo_update"],
+      "forbidden_actions": ["post", "dm_send", "email_send", "external_schedule", "external_contact"],
+      "output_path": "content/cycle-22-founder-packet-export-readiness-review.md"
+    },
+    {
+      "agent": "Automation Surface Agent",
+      "task_id": "cycle-22-loop-surface-reconciliation",
+      "status": "active",
+      "heartbeat_at": "2026-06-12T18:56:40Z",
+      "risk_level": 1,
+      "allowed_actions": ["research", "internal_report", "repo_update"],
+      "forbidden_actions": ["post", "dm_send", "email_send", "external_schedule", "external_contact"],
+      "output_path": "agent-ops/loop-state.json"
+    }
+  ],
+  "ready_queue": [
+    {
+      "task_id": "cycle-23-x-vs-linkedin-packet-recommendation",
+      "owner": "FBA Ops Content Agent / QA Agent",
+      "status": "ready",
+      "notes": "Choose whether X or LinkedIn should become the first founder-reviewed non-Instagram derivative once the CTA path is confirmed, without widening the packet or adding send mechanics."
+    },
+    {
+      "task_id": "cycle-23-appendix-bundle-founder-handoff-note",
+      "owner": "Instagram Content Agent / QA Agent",
+      "status": "ready",
+      "notes": "Convert the Cycle 22 appendix sequence into a short founder handoff note if Mike wants the support-board bundle summarized outside the repo."
+    },
+    {
+      "task_id": "cycle-23-local-staging-spot-check",
+      "owner": "QA Agent",
+      "status": "ready",
+      "notes": "Spot-check the newly staged Cycle 22 Downloads bundle for warning preservation and file completeness before any future founder handoff."
+    }
+  ],
+  "qa_queue": [
+    {
+      "asset": "content/cycle-1-internal-content-batch.md",
+      "status": "human_review",
+      "required_check": "founder approval after scorecard-path confirmation"
+    },
+    {
+      "asset": "content/cycle-1-internal-content-batch.md#story-5",
+      "status": "human_review",
+      "required_check": "supplier-follow-up evidence remains Low confidence; keep optional or replace"
+    },
+    {
+      "asset": "content/cycle-2-internal-design-brief.md",
+      "status": "human_review",
+      "required_check": "packet is internal-ready after QA tagging; preserve scorecard CTA gating and founder Story 5 decision"
+    },
+    {
+      "asset": "content/generated-graphics/2026-06-12-c11-approval-state-gap.svg",
+      "status": "human_review",
+      "required_check": "keep fake rows only, preserve founder-gated CTA, and treat the board as internal-only until scorecard path and visual-lane choice are approved"
+    },
+    {
+      "asset": "content/generated-graphics/2026-06-12-c12-decision-history-missing.svg",
+      "status": "human_review",
+      "required_check": "keep fake rows only, preserve founder-gated CTA, and treat the board as internal-only until scorecard path and recurring visual-system choice are approved"
+    },
+    {
+      "asset": "content/generated-graphics/2026-06-12-c13-handoff-ready-state.svg",
+      "status": "human_review",
+      "required_check": "keep fake rows only, preserve founder-gated CTA, and treat the board as internal-only until scorecard path and recurring visual-system endpoint choice are approved"
+    },
+    {
+      "asset": "content/generated-graphics/2026-06-12-c14-review-queue-drift.svg",
+      "status": "human_review",
+      "required_check": "keep fake rows only, preserve founder-gated CTA, and treat the board as internal-only until scorecard path and review-queue-drift visual-lane choice are approved"
+    },
+    {
+      "asset": "content/generated-graphics/2026-06-12-c15-saved-decision-context.svg",
+      "status": "human_review",
+      "required_check": "keep fake rows only, preserve founder-gated CTA, and treat the board as internal-only until scorecard path and saved-decision-context visual-lane choice are approved"
+    },
+    {
+      "asset": "content/generated-graphics/2026-06-12-c16-review-receipt.svg",
+      "status": "human_review",
+      "required_check": "keep fake rows only, preserve founder-gated CTA, and treat the board as internal-only until scorecard path and review-receipt visual-lane choice are approved"
+    },
+    {
+      "asset": "content/generated-graphics/2026-06-12-c17-reopen-reason-missing.svg",
+      "status": "human_review",
+      "required_check": "keep fake rows only, preserve founder-gated CTA, and treat the board as internal-only until scorecard path and reopen-reason visual-lane choice are approved"
+    },
+    {
+      "asset": "content/cycle-18-graphics-staging-board.md",
+      "status": "approved_for_human_use",
+      "required_check": "preserve founder-gated CTA handling and local-staging-only posture"
+    },
+    {
+      "asset": "content/cycle-18-social-draft-packet.md",
+      "status": "internal-ready after QA tagging",
+      "required_check": "preserve draft-only posture, no posting mechanics, and no unsupported claims or public-proof drift"
+    },
+    {
+      "asset": "outbound/prospect-shortlist-2026-06-12.md",
+      "status": "approved_for_human_use",
+      "required_check": "preserve public-source evidence, top-fit prioritization, and no-contact-only next steps"
+    },
+    {
+      "asset": "content/cycle-19-packet-qa-review.md",
+      "status": "approved_for_human_use",
+      "required_check": "keep the QA findings aligned with the local-staging-only export posture"
+    },
+    {
+      "asset": "content/generated-graphics/2026-06-12-c19-approval-chain.svg",
+      "status": "human_review",
+      "required_check": "keep fake rows only, preserve founder-gated CTA, and treat the board as internal-only until scorecard path and cover-board choice are approved"
+    },
+    {
+      "asset": "content/generated-graphics/2026-06-12-c20-context-carries-forward.svg",
+      "status": "human_review",
+      "required_check": "keep fake cards only, preserve founder-gated CTA, and treat the board as internal-only until scorecard path and recurring cover-board choice are approved"
+    },
+    {
+      "asset": "content/generated-graphics/2026-06-12-c21-chain-breakpoints.svg",
+      "status": "human_review",
+      "required_check": "keep fake rows only, preserve founder-gated CTA, and treat the board as an appendix-only internal board until scorecard path and packet choice are approved"
+    },
+    {
+      "asset": "content/generated-graphics/2026-06-12-c22-appendix-sequence.svg",
+      "status": "human_review",
+      "required_check": "keep fake rows only, preserve founder-gated CTA, and treat the board as an appendix-divider asset until scorecard path and appendix choice are approved"
+    },
+    {
+      "asset": "content/cycle-20-founder-packet-cover-qa.md",
+      "status": "approved_for_human_use",
+      "required_check": "keep the sequence recommendation aligned with the internal-only packet and local-staging-only posture"
+    },
+    {
+      "asset": "content/cycle-20-channel-packet-selection.md",
+      "status": "approved_for_human_use",
+      "required_check": "preserve founder-gated CTA handling, no posting mechanics, and no unsupported claims"
+    },
+    {
+      "asset": "content/cycle-21-channel-derivative-brief.md",
+      "status": "approved_for_human_use",
+      "required_check": "preserve the same 5-board packet, draft-only CTA posture, and no posting or outreach mechanics"
+    },
+    {
+      "asset": "content/cycle-21-caption-tightening.md",
+      "status": "approved_for_human_use",
+      "required_check": "preserve one-idea-per-board diagnostic copy and founder-gated CTA handling"
+    },
+    {
+      "asset": "content/cycle-22-appendix-sequence-prep.md",
+      "status": "approved_for_human_use",
+      "required_check": "keep the core packet fixed at 5 boards and preserve the appendix-only support-board posture"
+    },
+    {
+      "asset": "content/cycle-22-founder-packet-export-readiness-review.md",
+      "status": "approved_for_human_use",
+      "required_check": "keep the local-staging-only export decision aligned with hard breaks and founder-gated CTA handling"
+    },
+    {
+      "asset": "outbound/prospect-list-2026-06-11.md",
+      "status": "qa_review",
+      "required_check": "verify source URLs, remove duplicates, prioritize rows scoring 3+; do not contact anyone"
+    }
+  ],
+  "human_approval_queue": [
+    {
+      "decision": "Confirm scorecard delivery path/link",
+      "blocks": "external use of all Cycle 1 assets"
+    },
+    {
+      "decision": "Approve whether comments, DMs, link-in-bio, or audit-booking mechanics are allowed later",
+      "blocks": "any external CTA mechanics beyond static scorecard CTA"
+    },
+    {
+      "decision": "Approve final copy before posting, sending, publishing, scheduling, or external distribution",
+      "blocks": "all external use"
+    },
+    {
+      "decision": "Decide whether Story 5 supplier-follow-up content stays in the eventual launch packet",
+      "blocks": "story-sequence finalization"
+    },
+    {
+      "decision": "Decide whether the approval-state-gap replacement Story 5 should replace the supplier-follow-up version",
+      "blocks": "Cycle 2 packet finalization"
+    },
+    {
+      "decision": "Choose the recurring internal visual system for command-center graphics",
+      "blocks": "which graphic lane becomes the default founder-reviewed packet anchor"
+    },
+    {
+      "decision": "Decide whether the decision-history-gap board joins the recurring visual system",
+      "blocks": "whether Graphic 03 remains a supporting internal asset or becomes part of the default founder-reviewed packet"
+    },
+    {
+      "decision": "Decide whether the review-queue-drift board joins the recurring visual system",
+      "blocks": "whether Graphic 05 remains a supporting internal asset or becomes part of the default founder-reviewed packet"
+    },
+    {
+      "decision": "Decide whether the saved-decision-context board joins the recurring visual system",
+      "blocks": "whether Graphic 06 becomes the bridge between decision-history and handoff-ready boards in the default founder-reviewed packet"
+    },
+    {
+      "decision": "Decide whether the review-receipt board joins the recurring visual system",
+      "blocks": "whether Graphic 07 becomes the checkpoint companion between saved-decision-context and handoff-ready boards in the default founder-reviewed packet"
+    },
+    {
+      "decision": "Decide whether the reopen-reason board joins the recurring visual system",
+      "blocks": "whether Graphic 08 becomes the return-to-review companion beside the review-queue-drift and review-receipt boards in the default founder-reviewed packet"
+    },
+    {
+      "decision": "Decide whether the approval-chain board becomes the default founder-packet cover board",
+      "blocks": "whether Graphic 09 leads the recurring visual system before the saved-context and handoff boards"
+    },
+    {
+      "decision": "Decide whether the context-carries-forward board becomes an alternate cover or a core packet board",
+      "blocks": "whether Graphic 10 stays a bridge board or joins the default founder-reviewed packet sequence"
+    },
+    {
+      "decision": "Decide whether the appendix-only support-board extension should sit behind the core 5-board founder packet",
+      "blocks": "whether Graphics 10, 07, 08, and 11 stay optional support boards or become part of the founder-review bundle"
+    },
+    {
+      "decision": "Decide whether the appendix-sequence board stays a divider only",
+      "blocks": "whether Graphic 12 remains an internal appendix cover or joins a broader founder-review staging packet"
+    },
+    {
+      "decision": "Approve which Cycle 18 social draft set should become the first founder-reviewed channel packet",
+      "blocks": "which internal-only social drafts are promoted for later channel-specific approval"
+    }
+  ],
+  "blocked_queue": [
+    {
+      "task_id": "publish-carousel-1",
+      "reason": "Hard break: no posting until Mike explicitly approves a specific asset"
+    },
+    {
+      "task_id": "monitor-scorecard-dms",
+      "reason": "Hard break: no DMs or outside communications until Mike explicitly approves a specific flow"
+    }
+  ],
+  "hard_break_events": [],
+  "allowed_actions": ["research", "draft", "qa", "internal_report", "repo_update", "local_downloads_export"],
+  "forbidden_actions": [
+    "post",
+    "publish",
+    "upload",
+    "external_schedule",
+    "dm_send",
+    "email_send",
+    "comment_reply",
+    "outreach_send",
+    "external_contact",
+    "pricing_promise",
+    "refund_or_billing_commitment",
+    "account_health_advice",
+    "legal_or_compliance_advice",
+    "public_result_claim",
+    "undocumented_product_claim",
+    "fabricated_metric_or_testimonial"
+  ]
+}

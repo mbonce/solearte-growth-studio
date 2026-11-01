@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1254" height="1254" viewBox="0 0 1254 1254" role="img" aria-labelledby="title desc">
+  <title id="title">Graphic 03 Decision History Missing</title>
+  <desc id="desc">Internal-only editorial poster showing missing decision history with fake rows and founder-gated CTA handling.</desc>
+  <rect width="1254" height="1254" fill="#f6f0e7"/>
+  <rect x="888" y="0" width="366" height="1254" fill="#111111"/>
+  <polygon points="0,180 748,0 846,0 130,396" fill="#4e7cff"/>
+  <rect x="78" y="70" width="250" height="60" rx="10" fill="#ffd84f"/>
+  <text x="102" y="112" fill="#111111" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="30">DECISION TRACE</text>
+  <text x="82" y="296" fill="#111111" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="118" letter-spacing="2">HISTORY</text>
+  <text x="82" y="394" fill="#111111" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="118" letter-spacing="2">MISSING</text>
+  <text x="88" y="448" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="34">If the why disappears, the row is not reusable.</text>
+
+  <g transform="rotate(-5 436 670)">
+    <rect x="90" y="506" width="610" height="254" rx="16" fill="#fff8ef" stroke="#111111" stroke-width="5"/>
+    <text x="126" y="568" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="28" font-weight="700">SUPPLIER BOARD A</text>
+    <text x="126" y="644" fill="#4e7cff" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="64">APPROVED</text>
+    <text x="126" y="690" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="30">Owner: L. Morgan</text>
+    <text x="126" y="726" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="30">Decision note: reason captured</text>
+  </g>
+
+  <g transform="rotate(3 488 928)">
+    <rect x="142" y="786" width="650" height="282" rx="16" fill="#ffd84f" stroke="#111111" stroke-width="5"/>
+    <text x="178" y="852" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="28" font-weight="700">SUPPLIER BOARD B</text>
+    <text x="178" y="934" fill="#111111" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="66">NEEDS DECISION NOTE</text>
+    <text x="178" y="980" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="30">Owner: A. Patel</text>
+    <text x="178" y="1016" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="30">Rejected, but no reason history stayed with the row.</text>
+  </g>
+
+  <g transform="rotate(-4 1020 682)">
+    <rect x="842" y="420" width="322" height="520" rx="18" fill="#ff5a36"/>
+    <text x="876" y="492" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="28" font-weight="700">SUPPLIER BOARD C</text>
+    <text x="876" y="578" fill="#111111" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="54">REVIEWING</text>
+    <text x="876" y="628" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="28">Owner: unassigned</text>
+    <text x="876" y="666" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="28">No approved-buy note.</text>
+    <text x="876" y="704" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="28">Next: assign owner.</text>
+    <text x="876" y="812" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="22">Fake rows only.</text>
+    <text x="876" y="844" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="22">Founder-gated CTA.</text>
+  </g>
+
+  <text x="930" y="1058" fill="#f6f0e7" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="46" transform="rotate(-90 930 1058)">SAVE THE WHY</text>
+  <text x="82" y="1184" fill="#111111" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="42">IF REJECTION HISTORY IS MISSING, THE ROW IS NOT HANDOFF-READY.</text>
+  <text x="82" y="1212" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="22">Internal-only staging asset. Get the FBA Wholesale Ops Scorecard remains founder-gated.</text>
+</svg>

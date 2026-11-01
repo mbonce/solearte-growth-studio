@@ -1,0 +1,35 @@
+:root {
+  --brand-name: 'Wholesale Ops';
+  --brand-tagline: 'Internal scorecard review';
+  --brand-bg-primary: #090b10;
+  --brand-bg-secondary: #111722;
+  --brand-bg-surface: #161d28;
+  --brand-bg-card: #f4f1e8;
+  --brand-accent: #ff3d2e;
+  --brand-accent-hover: #ff5c50;
+  --brand-accent-dim: rgba(255, 61, 46, 0.18);
+  --brand-cta: #d7ff3f;
+  --brand-cta-hover: #e2ff70;
+  --brand-cta-text: #111111;
+  --brand-text-primary: #f7f3ea;
+  --brand-text-secondary: #c8d0da;
+  --brand-text-muted: #929bad;
+  --brand-border: rgba(247, 243, 234, 0.18);
+  --brand-border-accent: rgba(255, 61, 46, 0.6);
+  --brand-shadow-sm: 0 10px 30px rgba(0, 0, 0, 0.35);
+  --brand-shadow-md: 0 24px 80px rgba(0, 0, 0, 0.45);
+  --brand-success: #2bf58a;
+  --brand-error: #ff3d2e;
+  --brand-font-heading: Impact, 'Arial Black', system-ui, sans-serif;
+  --brand-font-body: Arial, system-ui, sans-serif;
+  --brand-font-mono: Monaco, Consolas, monospace;
+  --brand-heading-weight: 800;
+  --brand-heading-weight-heavy: 900;
+  --brand-radius-sm: 6px;
+  --brand-radius-md: 10px;
+  --brand-radius-lg: 16px;
+  --brand-theme: dark;
+  --brand-badge-accent-bg: rgba(255, 61, 46, 0.2);
+  --brand-badge-cta-bg: rgba(215, 255, 63, 0.2);
+  --brand-badge-success-bg: rgba(43, 245, 138, 0.18);
+}

@@ -42,3 +42,18 @@
 - Use caption for nuance.
 - CTA should be scorecard, DM, or workflow audit.
 
+## Cycle 1 Patterns To Mine
+
+Status: research plan, not validated performance proof.
+
+- Talking-head contrarian operator takes.
+- Screen-recording style with mock spreadsheet callouts only.
+- Whiteboard workflow: catalog -> ASIN review -> buy list -> PO -> reorder.
+- POV founder/VA handoff pain without blaming the VA.
+- Fast teardown: "This row looks done, but it is not."
+
+## Cycle 1 QA Risks
+
+- Never use real seller screenshots without explicit approval.
+- Avoid profit, ROI, account-health, compliance, ungating, suspension, or IP claims.
+- Keep claims about platform algorithms out of public copy unless verified from current primary sources.

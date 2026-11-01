@@ -1,0 +1,149 @@
+{
+  "generatedAt": "2026-06-16T14:25:20.523Z",
+  "outputDir": "/Users/michaelboncelet/Documents/wholesale-ops-growth-studio/content/generated-graphics/repo-eval-2026-06-16",
+  "count": 20,
+  "dimensions": "1080x1080",
+  "files": [
+    {
+      "file": "open-carrusel-matched-not-approved.png",
+      "ok": true,
+      "width": 1080,
+      "height": 1080,
+      "reason": "ok"
+    },
+    {
+      "file": "open-carrusel-approval-state-gap.png",
+      "ok": true,
+      "width": 1080,
+      "height": 1080,
+      "reason": "ok"
+    },
+    {
+      "file": "open-carrusel-saved-decision-context.png",
+      "ok": true,
+      "width": 1080,
+      "height": 1080,
+      "reason": "ok"
+    },
+    {
+      "file": "open-carrusel-handoff-ready.png",
+      "ok": true,
+      "width": 1080,
+      "height": 1080,
+      "reason": "ok"
+    },
+    {
+      "file": "satori-matched-not-approved.png",
+      "ok": true,
+      "width": 1080,
+      "height": 1080,
+      "reason": "ok"
+    },
+    {
+      "file": "satori-approval-state-gap.png",
+      "ok": true,
+      "width": 1080,
+      "height": 1080,
+      "reason": "ok"
+    },
+    {
+      "file": "satori-saved-decision-context.png",
+      "ok": true,
+      "width": 1080,
+      "height": 1080,
+      "reason": "ok"
+    },
+    {
+      "file": "satori-handoff-ready.png",
+      "ok": true,
+      "width": 1080,
+      "height": 1080,
+      "reason": "ok"
+    },
+    {
+      "file": "html-to-image-matched-not-approved.png",
+      "ok": true,
+      "width": 1080,
+      "height": 1080,
+      "reason": "ok"
+    },
+    {
+      "file": "html-to-image-approval-state-gap.png",
+      "ok": true,
+      "width": 1080,
+      "height": 1080,
+      "reason": "ok"
+    },
+    {
+      "file": "html-to-image-saved-decision-context.png",
+      "ok": true,
+      "width": 1080,
+      "height": 1080,
+      "reason": "ok"
+    },
+    {
+      "file": "html-to-image-handoff-ready.png",
+      "ok": true,
+      "width": 1080,
+      "height": 1080,
+      "reason": "ok"
+    },
+    {
+      "file": "reelstack-matched-not-approved.png",
+      "ok": true,
+      "width": 1080,
+      "height": 1080,
+      "reason": "ok"
+    },
+    {
+      "file": "reelstack-approval-state-gap.png",
+      "ok": true,
+      "width": 1080,
+      "height": 1080,
+      "reason": "ok"
+    },
+    {
+      "file": "reelstack-saved-decision-context.png",
+      "ok": true,
+      "width": 1080,
+      "height": 1080,
+      "reason": "ok"
+    },
+    {
+      "file": "reelstack-handoff-ready.png",
+      "ok": true,
+      "width": 1080,
+      "height": 1080,
+      "reason": "ok"
+    },
+    {
+      "file": "canva-clone-matched-not-approved.png",
+      "ok": true,
+      "width": 1080,
+      "height": 1080,
+      "reason": "ok"
+    },
+    {
+      "file": "canva-clone-approval-state-gap.png",
+      "ok": true,
+      "width": 1080,
+      "height": 1080,
+      "reason": "ok"
+    },
+    {
+      "file": "canva-clone-saved-decision-context.png",
+      "ok": true,
+      "width": 1080,
+      "height": 1080,
+      "reason": "ok"
+    },
+    {
+      "file": "canva-clone-handoff-ready.png",
+      "ok": true,
+      "width": 1080,
+      "height": 1080,
+      "reason": "ok"
+    }
+  ],
+  "contactSheet": "/Users/michaelboncelet/Documents/wholesale-ops-growth-studio/content/generated-graphics/repo-eval-2026-06-16/contact-sheet.png"
+}

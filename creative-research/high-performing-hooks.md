@@ -63,3 +63,14 @@ Hooks should feel operational, blunt, specific, recognizable, and anti-guru.
 - Checklist: "Every buy-list item should answer these five questions."
 - Handoff: "The catalog-to-buy-list handoff is where chaos starts."
 
+## Cycle 1 Validation Labels
+
+Status: seed hypotheses until repeated public-source evidence, qualified replies, or performance data confirms them.
+
+| Hook formula | Example | Status | QA note |
+|---|---|---|---|
+| Diagnosis | Your buy list is missing the reason. | Needs test | Keep focused on workflow evidence, not seller competence. |
+| Contrarian | More sourcing volume will make this worse. | Needs test | Avoid implying growth is bad; frame as operations capacity. |
+| Operator identity | You are not scaling sourcing. You are scaling handoffs. | Needs test | Strong fit for scaling sellers with teams. |
+| Hidden cost | The expensive part is rediscovering the same ASIN. | Needs test | Avoid profit or ROI claims unless evidence supports them. |
+| Before/after | A spreadsheet row becomes a decision only when... | Needs test | Useful for carousel/checklist structure. |

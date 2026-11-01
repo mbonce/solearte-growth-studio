@@ -1,0 +1,100 @@
+version: 1
+mode: active_internal_only
+
+allowed_actions:
+  - research
+  - draft
+  - qa
+  - internal_report
+  - repo_update
+  - local_downloads_export
+
+hard_breaks:
+  external_publish:
+    forbidden:
+      - post
+      - publish
+      - upload
+      - external_schedule
+      - schedule_external_post
+    required_status: human_review
+    instruction: "Do not post, publish, upload, or schedule externally. Prepare internal drafts only."
+
+  direct_communication:
+    forbidden:
+      - dm_send
+      - email_send
+      - comment_reply
+      - outreach_send
+      - prospect_contact
+      - supplier_contact
+      - customer_contact
+    required_status: human_review
+    instruction: "Do not contact anyone. Draft internal recommendations only."
+
+  commercial_commitment:
+    forbidden:
+      - pricing_promise
+      - discount
+      - refund
+      - billing_commitment
+      - guarantee
+    required_status: human_review
+    instruction: "Do not make pricing, billing, refund, discount, or guarantee commitments."
+
+  regulated_or_risk_advice:
+    forbidden:
+      - account_health_advice
+      - ip_complaint_advice
+      - suspension_advice
+      - legal_advice
+      - legal_or_compliance_advice
+      - compliance_advice
+      - restricted_product_advice
+      - amazon_safe_claim
+    required_status: blocked
+    instruction: "Do not provide account-health, legal, compliance, IP, suspension, or Amazon-policy advice."
+
+  unsupported_claim:
+    forbidden:
+      - public_result_claim
+      - customer_result_claim
+      - benchmark_claim
+      - undocumented_integration_claim
+      - undocumented_product_claim
+      - undocumented_capability_claim
+      - ai_accuracy_claim
+      - workflow_guarantee
+    required_status: human_review
+    instruction: "Do not make unsupported public, customer, benchmark, integration, product, AI accuracy, or workflow guarantee claims."
+
+  fabrication:
+    forbidden:
+      - fake_metric
+      - fake_testimonial
+      - fake_case_study
+      - fake_customer
+      - invented_quote
+    required_status: blocked
+    instruction: "Never invent metrics, testimonials, case studies, customers, or exact quotes."
+
+enforcement:
+  active_task_requirements:
+    - "status must be active"
+    - "task must be internal-only"
+    - "task must not contain forbidden actions"
+    - "task must have heartbeat inside active_agent_ttl_hours"
+    - "task must not wait on human approval"
+  minimum_active_agents: 2
+  default_safe_tasks:
+    - research_synthesis
+    - qa_recheck
+    - evidence_ledger_update
+    - analytics_learning_log
+    - content_revision_draft_only
+  failure_mode: "If fewer than two valid active agents can be assigned, mark loop_mode blocked and write the blocker plus needed human decision."
+
+local_downloads_export:
+  export_root: "/Users/michaelboncelet/Downloads/wholesale-ops-growth-studio-approved-content"
+  policy_path: "agent-ops/downloads-export-policy.md"
+  instruction: "Only export QA-approved or QA-deployable local staging assets. Downloads export is not external-use approval."

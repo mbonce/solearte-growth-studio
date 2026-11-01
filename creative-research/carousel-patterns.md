@@ -66,3 +66,19 @@
 - "Comment scorecard."
 - "Reply with the tab that is most out of control."
 
+## Cycle 1 Patterns To Mine
+
+Status: research plan, not validated performance proof.
+
+- 7-slide problem-to-workflow breakdowns.
+- Mistake-stack posts naming 3 operational leaks.
+- Audit checklists a founder can send to a VA or sourcing specialist.
+- Before/after workflow maps: messy sheet -> status, owner, reason, next action.
+- "Use this before..." save prompts.
+
+## Cycle 1 QA Risks
+
+- Do not copy creator hooks, captions, visual structures, or offers too closely.
+- Do not show real seller data, supplier names, ASINs, pricing, or account details.
+- Blame broken process, not VAs or team members.
+- Keep every CTA internal-draft until QA and Mike approve external use.

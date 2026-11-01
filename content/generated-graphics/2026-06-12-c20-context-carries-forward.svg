@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1254" height="1254" viewBox="0 0 1254 1254" role="img" aria-labelledby="title desc">
+  <title id="title">Graphic 10 Context Carries Forward</title>
+  <desc id="desc">Internal-only editorial poster showing fake wholesale workflow cards that keep the approval context attached as the row moves forward.</desc>
+  <rect width="1254" height="1254" fill="#f5eadf"/>
+  <rect x="0" y="0" width="1254" height="156" fill="#131313"/>
+  <polygon points="0,1254 0,796 312,668 578,1254" fill="#0c6c77"/>
+  <polygon points="836,94 1254,46 1254,458 932,530" fill="#ff6a2a"/>
+  <polygon points="930,904 1254,830 1254,1254 1036,1254" fill="#ffd64c"/>
+
+  <rect x="84" y="62" width="362" height="58" rx="10" fill="#ffd64c" transform="rotate(-2 84 62)"/>
+  <text x="108" y="102" fill="#131313" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="28">INTERNAL ONLY  /  FOUNDER-GATED CTA</text>
+
+  <text x="82" y="302" fill="#131313" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="122" letter-spacing="2">CONTEXT</text>
+  <text x="82" y="414" fill="#131313" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="122" letter-spacing="2">CARRIES</text>
+  <text x="82" y="526" fill="#131313" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="122" letter-spacing="2">FORWARD</text>
+  <text x="92" y="580" fill="#131313" font-family="'Arial Narrow', Arial, sans-serif" font-size="31">The row is only reusable when the decision travels with it.</text>
+
+  <g transform="rotate(-7 850 274)">
+    <rect x="572" y="162" width="566" height="194" rx="18" fill="#fff8ef" stroke="#131313" stroke-width="5"/>
+    <text x="608" y="220" fill="#131313" font-family="'Arial Narrow', Arial, sans-serif" font-size="26" font-weight="700">CARD 1  /  APPROVAL NOTE</text>
+    <text x="608" y="292" fill="#131313" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="56">WHY DID IT MOVE?</text>
+    <text x="608" y="332" fill="#131313" font-family="'Arial Narrow', Arial, sans-serif" font-size="27">Approved for test PO after Keepa + seller-count check. Fake row only.</text>
+  </g>
+
+  <g transform="rotate(5 860 510)">
+    <rect x="540" y="404" width="590" height="208" rx="18" fill="#131313"/>
+    <rect x="564" y="428" width="542" height="160" rx="12" fill="#ff6a2a"/>
+    <text x="600" y="484" fill="#131313" font-family="'Arial Narrow', Arial, sans-serif" font-size="26" font-weight="700">CARD 2  /  REVIEW RECEIPT</text>
+    <text x="600" y="554" fill="#131313" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="54">WHO CLEARED IT?</text>
+    <text x="600" y="590" fill="#131313" font-family="'Arial Narrow', Arial, sans-serif" font-size="27">Reviewer: M. Cruz  /  Saved checkpoint keeps the row reusable.</text>
+  </g>
+
+  <g transform="rotate(-4 394 892)">
+    <rect x="132" y="764" width="522" height="224" rx="18" fill="#fff8ef" stroke="#131313" stroke-width="5"/>
+    <text x="168" y="824" fill="#131313" font-family="'Arial Narrow', Arial, sans-serif" font-size="26" font-weight="700">CARD 3  /  REOPEN TRIGGER</text>
+    <text x="168" y="896" fill="#131313" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="54">WHAT CHANGED?</text>
+    <text x="168" y="936" fill="#131313" font-family="'Arial Narrow', Arial, sans-serif" font-size="27">Updated MOQ forced a return to review. Trigger stays attached to the row.</text>
+  </g>
+
+  <g transform="rotate(6 918 914)">
+    <rect x="704" y="774" width="408" height="248" rx="18" fill="#131313"/>
+    <rect x="728" y="798" width="360" height="200" rx="12" fill="#ffd64c"/>
+    <text x="756" y="856" fill="#131313" font-family="'Arial Narrow', Arial, sans-serif" font-size="25" font-weight="700">CARD 4  /  HANDOFF</text>
+    <text x="756" y="928" fill="#131313" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="50">WHO OWNS NEXT?</text>
+    <text x="756" y="968" fill="#131313" font-family="'Arial Narrow', Arial, sans-serif" font-size="25">Owner: buying ops  /  Next step: place test PO</text>
+  </g>
+
+  <rect x="74" y="1116" width="1112" height="92" fill="#131313"/>
+  <text x="100" y="1168" fill="#f5eadf" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="38">IF THE CONTEXT DOES NOT CARRY FORWARD, THE NEXT REVIEW STARTS FROM MEMORY AGAIN.</text>
+  <text x="100" y="1198" fill="#f5eadf" font-family="'Arial Narrow', Arial, sans-serif" font-size="22">Fake rows only. Diagnostic workflow framing only. Local staging asset, not approved for external use.</text>
+</svg>

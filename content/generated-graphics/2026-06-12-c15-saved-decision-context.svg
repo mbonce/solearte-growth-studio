@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1254" height="1254" viewBox="0 0 1254 1254" role="img" aria-labelledby="title desc">
+  <title id="title">Graphic 06 Saved Decision Context</title>
+  <desc id="desc">Internal-only editorial poster showing how saved approval notes, rejection reasons, and next owners preserve reusable decision context, using fake rows and founder-gated CTA handling.</desc>
+  <rect width="1254" height="1254" fill="#f5efe6"/>
+  <polygon points="0,0 1254,0 1254,268 316,420" fill="#4e7cff"/>
+  <polygon points="0,1254 0,850 610,602 968,1254" fill="#9ef06a"/>
+  <rect x="78" y="78" width="286" height="58" rx="10" fill="#111111"/>
+  <text x="102" y="118" fill="#f5efe6" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="30">PRESERVE THE CONTEXT</text>
+  <text x="82" y="326" fill="#111111" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="116" letter-spacing="2">SAVED</text>
+  <text x="82" y="424" fill="#111111" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="116" letter-spacing="2">DECISION</text>
+  <text x="82" y="522" fill="#111111" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="116" letter-spacing="2">CONTEXT</text>
+  <text x="88" y="578" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="34">The row needs more than a chip. It needs memory.</text>
+
+  <g transform="rotate(-4 840 338)">
+    <rect x="590" y="200" width="576" height="250" rx="18" fill="#fff8ef" stroke="#111111" stroke-width="5"/>
+    <text x="624" y="262" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="28" font-weight="700">SUPPLIER BOARD A</text>
+    <text x="624" y="336" fill="#111111" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="58">APPROVAL NOTE SAVED</text>
+    <text x="624" y="382" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="30">Approved after MOQ and prep assumptions checked.</text>
+    <text x="624" y="418" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="30">Next owner: P. Rivera  /  Next: prep handoff</text>
+  </g>
+
+  <g transform="rotate(3 786 674)">
+    <rect x="526" y="506" width="572" height="286" rx="18" fill="#111111"/>
+    <rect x="548" y="528" width="528" height="242" rx="12" fill="#ff5a36"/>
+    <text x="584" y="594" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="28" font-weight="700">SUPPLIER BOARD B</text>
+    <text x="584" y="670" fill="#111111" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="62">REASON NOT PRESERVED</text>
+    <text x="584" y="716" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="30">Rejected, but the why is missing from the queue.</text>
+    <text x="584" y="752" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="30">Owner: unassigned  /  Next: save reason first</text>
+  </g>
+
+  <g transform="rotate(-5 432 954)">
+    <rect x="132" y="818" width="470" height="238" rx="16" fill="#ffd84f" stroke="#111111" stroke-width="5"/>
+    <text x="166" y="878" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="28" font-weight="700">SUPPLIER BOARD C</text>
+    <text x="166" y="946" fill="#111111" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="54">OWNER SAVED, STEP MISSING</text>
+    <text x="166" y="992" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="28">Review survived, but the handoff path still stalls.</text>
+  </g>
+
+  <text x="82" y="1178" fill="#111111" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="42">SAVED DECISION CONTEXT IS WHAT MAKES A REVIEWED ROW REUSABLE.</text>
+  <text x="82" y="1208" fill="#111111" font-family="'Arial Narrow', Arial, sans-serif" font-size="22">Fake rows only. Founder-gated CTA. Not approved for posting, sending, or scheduling.</text>
+</svg>
